@@ -1,0 +1,49 @@
+{
+ "format": 1,
+ "repo": "aruraune/ap-mixed-translation",
+ "serial": 1795823942,
+ "label": "2026-11-28 07:59 UTC+8",
+ "game_version": "1.0.2",
+ "files": [
+  {
+   "path": "default_package/BundleFiles/h3y7ujukwn9qbhoqhzkkg.r",
+   "size": 4993822,
+   "sha256": "c79e8e94c5b5e5d3fd974fdcdf5f7f48e897c954e0dfd987a6a412a02c733823",
+   "parts": [
+    {
+     "path": "res/default_package/BundleFiles/h3y7ujukwn9qbhoqhzkkg.r",
+     "size": 4993822,
+     "sha256": "c79e8e94c5b5e5d3fd974fdcdf5f7f48e897c954e0dfd987a6a412a02c733823"
+    }
+   ],
+   "original_sha256": "9771462bacb96c7ee544fe53d0d2a4e56e3576b1336d2a2ec6653bfef1a6a138"
+  },
+  {
+   "path": "raw_base_package/BundleFiles/heqmts9lcjdvbupu0x2wpg.r",
+   "size": 139588298,
+   "sha256": "253408af3a75920a4b997d601fd4f41bdeb9f9bb9606ff6afdd3fcbb9c98e5dd",
+   "parts": [
+    {
+     "path": "res/raw_base_package/BundleFiles/heqmts9lcjdvbupu0x2wpg.r.part000",
+     "size": 47185920,
+     "sha256": "1f8014e53ab840747503c38af8f7386517937b4584c581fab253b43837ed947d"
+    },
+    {
+     "path": "res/raw_base_package/BundleFiles/heqmts9lcjdvbupu0x2wpg.r.part001",
+     "size": 47185920,
+     "sha256": "2a662c4f6f1e9a8290e113f4217ee840c609d546ff914c2dcbaa3dd24614dc76"
+    },
+    {
+     "path": "res/raw_base_package/BundleFiles/heqmts9lcjdvbupu0x2wpg.r.part002",
+     "size": 45216458,
+     "sha256": "d7e6f27a44086d095559d13e3c40dcf530815911b3191ca208504f1cdfce533d"
+    }
+   ],
+   "original_sha256": "60e09fa31ac7e43e2a74cb7e722cf19b3331a188817125a086a57a17a34987ee"
+  }
+ ],
+ "news": {
+  "path": "news/news.csv",
+  "sha256": "c4e5fb53eb988fd5a31ccb548775dc30bcadc0b49a94481b9a06346aa1895f63"
+ }
+}
