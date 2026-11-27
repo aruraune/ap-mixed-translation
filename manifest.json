@@ -1,0 +1,63 @@
+{
+ "format": 2,
+ "repo": "aruraune/ap-mixed-translation",
+ "serial": 1795823985,
+ "label": "2026-11-28 07:59 UTC+8",
+ "game_version": "1.0.2",
+ "sheets": {
+  "pool": {
+   "path": "text/pool.csv",
+   "size": 13124623,
+   "sha256": "07684d9bd744add637b6cc7721b07bbac822aefef97c6c4d1359b94a61d20ef8"
+  },
+  "statictext": {
+   "path": "text/statictext.csv",
+   "size": 213125,
+   "sha256": "0b4aaf5e42177ed961ad23146330e8149a6da46f796320038c18c08825b6e410"
+  }
+ },
+ "targets": [
+  {
+   "kind": "pool",
+   "path": "raw_base_package/BundleFiles/heqmts9lcjdvbupu0x2wpg.r",
+   "sheet": "pool",
+   "original": {
+    "size": 134055486,
+    "sha256": "60e09fa31ac7e43e2a74cb7e722cf19b3331a188817125a086a57a17a34987ee",
+    "urls": [
+     "https://pjs-static.azurpromilia.jp/project-3/jp/windows/heqmts9lcjdvbupu0x2wpg.r",
+     "https://pjs-static-back.azurpromilia.jp/project-3/jp/windows/heqmts9lcjdvbupu0x2wpg.r"
+    ]
+   },
+   "result": {
+    "sha256": "253408af3a75920a4b997d601fd4f41bdeb9f9bb9606ff6afdd3fcbb9c98e5dd",
+    "size": 139588298
+   }
+  },
+  {
+   "kind": "static",
+   "path": "default_package/BundleFiles/h3y7ujukwn9qbhoqhzkkg.r",
+   "sheet": "statictext",
+   "bundle": {
+    "offset": 420062,
+    "size": 83081
+   },
+   "original": {
+    "size": 4993822,
+    "sha256": "9771462bacb96c7ee544fe53d0d2a4e56e3576b1336d2a2ec6653bfef1a6a138",
+    "urls": [
+     "https://pjs-static.azurpromilia.jp/project-3/jp/windows/h3y7ujukwn9qbhoqhzkkg.r",
+     "https://pjs-static-back.azurpromilia.jp/project-3/jp/windows/h3y7ujukwn9qbhoqhzkkg.r"
+    ]
+   },
+   "result": {
+    "sha256": "89387f86e55f0598e7f865d254de154ec06903c77e1ff7d4f770a3899880bd5e",
+    "size": 4993822
+   }
+  }
+ ],
+ "news": {
+  "path": "news/news.csv",
+  "sha256": "c4e5fb53eb988fd5a31ccb548775dc30bcadc0b49a94481b9a06346aa1895f63"
+ }
+}

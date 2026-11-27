@@ -1,0 +1,3822 @@
+key,jp,en
+2EAC6A6B,NEW RECORD！,NEW RECORD!
+5F8A70DB,ピックアップに指定するアニマを1つ選ぶ,Choose 1 featured Anima
+2F7A37CE,編成,Party
+8A325B12,"主人公の装飾品
+体力回復薬","Main Character Accessory
+HP Potion"
+0FFE9731,1回観測,Pull x1
+0013E1FB,ここに突破口があるかもしれない……試してみる？,There might be a way through here... Try it?
+00CADA7D,レアリティ,Rarity
+01285E09,お試し,Trial
+0133E40B,近くに珍しいキボを発見,Rare Kibo nearby
+01680309,掃討機能の説明文です。機能がシンプルなので、ここは1行の説明でいいですか？　はい。ローカライズ時は2行に分けてもよく、合計60文字までです。,"Sweep help text. One line is enough. Translations can use two lines, up to 60 characters total."
+02AABC10,【芽吹の谷】撮影スポットの撮影完了,[Sprout Valley] Photo spot complete
+0375C9A7,支援,Support
+037C2CB9,パック使用,Use Pack
+03813AE3,クイックバッグ,Quick Bag
+0440D521,栽培で獲得可能：,Grow to obtain:
+05B8CE8B+1,プリセット,Presets
+067BE134,'       ','       '
+06C8ACD5,スターリンク後、キボは【リンク混乱】状態になります,Star-Linking leaves the Kibo [Link Confused].
+0715E74C,マッチング成功,Match Found
+07AE4EB6,七文字のお名前,7-character name
+0875CE99,マップ選択,Select Map
+08E64B8E,テストテキスト,Test Text
+096BE24A,"猟影の丘陵採石場は、風光明媚な丘陵地帯にあり、豊富な鉱物資源に恵まれています。
+この採石場では、効率的かつ安全な石材の採掘に取り組み、地域の建設やインフラ整備を支えるとともに、環境保護と生態系の回復にも力を入れています。","The scenic Hunting Shade Hills Quarry is rich in minerals.
+It supplies local construction and infrastructure with safe, efficient stone extraction, protects the environment, and restores habitats."
+0A918992,マッチング,Matchmaking
+0B0A2979,チュートリアルを閉じる,Close Tutorial
+0B8BC057,リリカには大きな計画がある。自分の農産物展に芽吹の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！ そのために販売用の農産物を懸命に集め始めたが、成果はあまり上がっていない…,"Lilica plans to showcase all of Sprout Valley's best produce and sell it on the spot. She's been working hard to collect stock, with little to show for it..."
+0BCE96DE,星識レベル30で解放,Unlocks at Star Sense Lv. 30
+0C30262F,受け取る,Claim
+0CBA8490,工業,Industry
+0CBAA1F3,"下部の最大幅はこれで。テキストは1行なら中央揃え、
+3行なら下部の高さを調整。受け取り後は非表示","Max width for bottom section. Center single-line text.
+Adjust bottom height for 3 lines. Hide after claiming."
+0D266354,次の段階,Next Tier
+0D59F518,「キャバード」に食べられた,"Eaten by ""Cabbird"""
+0E6E9B2C,購入を確定,Confirm Purchase
+0ECEE728,des,des
+0F2CF0E4,装備指定,Assigned Gear
+0F54D2FF,すべて,All
+0F8403D0,更新までの残り時間,Refresh In
+0FDF0266,通常攻撃,Normal Attack
+0FE199C5,指定装備を切り替える,Switch Assigned Gear
+102599DB,5時間30分,5h 30m
+10D5D7D6,キボパートナー,Kibo Partner
+11369082,リフィ,Rifi
+118237F8,編成を確定,Confirm Party
+11B3B819,キボが自由に作業中,Kibo working independently
+125B8576,1111111111111111111111111111111111111111111111111111,1111111111111111111111111111111111111111111111111111
+12D317C1,メインストーリーを進め、星識レベルを上げると、より高いマップレベルが解放されます,Advance the story and raise Star Sense to unlock higher map levels.
+12E9FC0E,農園レベル2に到達,Reach Farm Lv. 2
+13821AA4,観測回数,Pull Count
+13A0AC07,編成可能なキボがいません,No Kibo Available
+13CBE1B8,章,Chapter
+13D94E18,NEW FRIEND JOIN,NEW FRIEND JOIN
+13EF15FC,1/123456,1/123456
+151985F0,称号未設定,No Title Set
+15457D45,ソロモードの記録と同期,Sync Solo Records
+15AB366D,キボファイトに招待されました,Kibo Duel invitation received
+1624519C+2,購入後すぐに獲得,Instant on Purchase
+168340D6,購入して獲得,Buy to Obtain
+169ACB62,所持:,Owned:
+16E26777,チーム編成,Party Setup
+17679125,梅,Plum
+18D18ADF,：大丈夫、大丈夫。よく頑張ったよ。次の周回で会おうね,: It's okay. You did well. See you next run.
+18DDECDA,購入後に獲得：,Purchase grants:
+18FE9BB6,"主人公のアクセサリーx1
+スタミナ薬x3","Main Character Accessory x1
+Stamina Potion x3"
+191E0942,試練開始,Start Trial
+19DC74FC,使用できるスタンプがありません,No Stamps Available
+1A872E1D,本日の残り2倍回数：,Double bonuses left today:
+1AB59815,星祝装備成功,Star Blessing Equipped
+1B5ABF03,農牧,Farming & Ranching
+1F346D61,ステージジャンル1,Stage Type 1
+1F9CD81D,共鳴の鈴,Resonance Bell
+1FD104E5,先週の管理協力プレイヤー一覧,Last Week's Co-Managers
+2009FFD8,stackEffectHide,stackEffectHide
+201757AE,PROMILIATRAVELOGUE,PROMILIATRAVELOGUE
+20717C9D,空白部分をタップ,Tap an empty area
+215CAC64+1,LEVEL UP!!,LEVEL UP!!
+2336DAD3,/勝利,/Wins
+239C9FD0,リリカには大きな計画がある――自分の農産物展に芽吹の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！ そのために販売用の農産物を懸命に集め始めたが、成果はほとんど上がっていない,"Lilica plans to showcase all of Sprout Valley's best produce and sell it on the spot. She's been working hard to collect stock, with little to show for it."
+23A2CAF5,初期祭器の選択,Choose Starting Sacred Gear
+249ABA76,日,Day
+25E45836,マッチング画面に戻る,Back to Matchmaking
+26F0741B,ストッキングの透明度,Stocking Transparency
+27444210,<size=36>4500</size>/500,<size=36>4500</size>/500
+27812F5D,キボまたはキャラクターを長押ししてドラッグできます,Hold and drag a Kibo or character.
+28818AC1,因子入れ替え,Swap Factors
+28AD6986,"使用すると<color=#EF903D>【カエル】</color>が
+<color=#EF903D>【芽吹の谷】</color>に大量出現する","Use to spawn many <color=#EF903D>[Frogs]</color>
+in <color=#EF903D>[Sprout Valley]</color>."
+296304F1,今日,Today
+2AABE28E,本日受け取り済み,Claimed Today
+2AEEB134,"リリカには大きな計画がある――自分の農産物展に芽吹の
+谷の良質な農産物をすべて並べるだけでなく、来場者が欲しい
+と思ったらすぐに買えるようにするのだ！ そのために販売用の
+農産物を懸命に集め始めたが、成果はほとんど上がっていない","Lilica has big plans for her produce show.
+She'll feature all of Sprout Valley's best produce
+and sell it on the spot. She's been gathering stock,
+with little to show for it."
+2B01EB86,潜在能力の果実,Potential Fruit
+2B6D2341,訓練へ,Go to Training
+2B73E694,死への誘い,Invitation to Death
+2B9220CC,未獲得,Unobtained
+2BDCBBB8,スターリンクしたキボの種類,Kibo Species Star-Linked
+2C99A232,剣,Sword
+2CB198A1,SEQUENCE,SEQUENCE
+2D3495F7,"WITH YOU,AMONGST THE STARS","WITH YOU,AMONGST THE STARS"
+2E3210FA,コーデを非表示,Hide Outfit
+2E5017D4,先天因子変異：昇格！,Innate Factor Mutation: Upgrade!
+2E68DD97,花ノ舞,Flower Dance
+2EACA079,時の流れを停止,Stop Time
+2F114899,神獣·霊蝶のタイトル,Divine Beast\xB7Spirit Butterfly Title
+2FD59848,孵化時に輝くキボが生まれる確率が上昇,Boosts the chance of hatching a Glowing Kibo.
+2FF02A2E,すべてのスキルポイントをリセットしますか？,Reset all skill points?
+2FFAE7FA,キーワードを入力して心得ノードを検索,Search Mastery nodes by keyword
+3037E90A,イベント報酬キャラクター,Event Reward Character
+3046D0E9+3,このエリアにドラッグ,Drag Here
+30A4B140,レベル差による抑制,Level Gap Penalty
+30AC1A33,獲得経験値：,XP Earned:
+30D92BC2,キャラクター専用のテーマシーンとモーション,Character-exclusive scene and animation
+30E53E50,氷雪卵,Frost Egg
+3186527E,キャンセル,Cancel
+318ACBF5,心得ポイント：,Knowledge Points:
+31D984DF,ZHSDIACI,ZHSDIACI
+326A1330,旅の途中,On the Road
+327B3004,アイテム名6文字を使用して、〇〇の回数を1回回復しますか？,Use 6-character item name to restore 1 XX attempt?
+32936A95,キャラクターシリーズ,Character Series
+3318D100,今日のニュース,Today's News
+33232B0A,猫とケーキ,Cat and Cake
+333E6BAF,採集可能量＋100,Gathering Limit +100
+33642D1C,同名の星ランク未強化装備,Same Gear Without Star Rank Upgrades
+34138884,購入へ,Buy
+342A65B5,チームリスト,Party List
+342DA47C,未所持,Not Owned
+3452B70A,ワールドレベルを上げて、新たなキボの仲間たちを見つけましょう。,Raise your World Level to find new Kibo companions.
+3489DDC5,お試しプレイ終了後に獲得可能,Available After Trial
+34958745,未定,TBD
+34AAC239,Lv.64モルフォーレ,Lv.64 Phantomfly
+34AE740E,ノーフランドの新たな旅人,New Traveler from Norfland
+35C44BF3,エリア紹介,Area Overview
+3644A684,200,200
+364D104E,材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集材料収集,Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials Gather Materials
+3662686D,所持,Owned
+36669F44,敵を50体倒す,Defeat 50 enemies
+368455AC+2,召喚,Summon
+36D04A9D,AAAAAA,AAAAAA
+3756E452+1,現在,Current
+38135431,資源ポイントのバフ,Resource Node Buff
+38C75D4E,ストッキングを履く,Put on Stockings
+38DB6801,未解放,Locked
+391C0C98,左右の矢印でページをめくり、最後まで読むと閉じられます,Use the arrows to turn pages. You can close this after the last page.
+397FA401,先に前提ノードを有効化する必要があります,Activate the prerequisite node first.
+398A0D4B,縁結び,Bonds
+39D6DF3F,-80%,-80%
+39F6E320,真理は孤独,Truth Stands Alone
+3A8A2231,終了して結果を確認,End and View Results
+3B226098,連勝,Win Streak
+3BDD4A25,"主人公のアクセサリーx1
+スタミナ薬x3","Main Character Accessory x1
+Stamina Potion x3"
+3C3DF78D,モルフォーレ,Phantomfly
+3C44AAEC+2,一括受取,Claim All
+3C69C28F,孵化キャンセル,Cancel Hatching
+3DB1F38B,今週の残り回数：,Attempts Left This Week:
+3DCE1FCE,NOW,NOW
+3E2A0A9F,スキルをリセット,Reset Skill
+3E996A57,強化済み,Enhanced
+3F1161A5,通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする。通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする。通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする。通常攻撃の3段目は範囲内に炎ダメージを与え、命中した対象を燃焼状態にする,The third basic attack deals area Fire DMG and inflicts Burn. The third basic attack deals area Fire DMG and inflicts Burn. The third basic attack deals area Fire DMG and inflicts Burn. The third basic attack deals area Fire DMG and inflicts Burn.
+3F2ECC2B,まもなく開始,Starting Soon
+3F7D9322,★5キャラクターを選択,Select a ★5 Character
+3F82F690,★4キャラクターを1人選ぶ,Select One ★4 Character
+3FB7EA82_1,TRAMMELS,TRAMMELS
+4043C86A,祭器の聖紋,Sacred Gear Seal
+408A6B0C,テストテキスト,Test Text
+41A45109,自然保護のしつけ,Conservation Training
+41D6B393,塔攻略モード,Tower Mode
+4349FDC0,公平モード,Fair Play Mode
+43DA1B86,シールド破壊の先鋒,Shieldbreak Vanguard
+4422C323,プレイヤー名,Player Name
+44450F7C,素材が不足しています,Not enough materials.
+44B2E069,マッチング開始,Start Matchmaking
+44C29EDB,P,P
+4599541D,ガチャ名,Banner Name
+460A1555,STORY,STORY
+471E1150,FRIEND,FRIEND
+473D8A21,今週の購入上限：,Weekly Purchase Limit:
+4767D78A,キボ小屋,Kibo Hut
+47BE6733,ゲーム開始,Start Game
+484D1522,初回クリア,First Clear
+48F30A56,一括投入,Add All
+49733BD5,のうえん,Farm
+49D2E5A7,モルフォーレの縄張りに入りました,Entered Phantomfly's territory.
+4A6CAB78,報告理由,Report Reason
+4A731954,導きの道,Path of Guidance
+4B387238,"【完璧な四喜丸子】指定した味方キャラクターのHPを最大HPの30%分回復し、さらにHPを300回復する。
+","[Perfect Four Joy Meatballs] Heals the selected ally for 30% of Max HP plus 300 HP.
+"
+4B4C9A5A+1,上昇率順に並べ替え,Sort by Increase
+4B61CA2E,消費：,Consumption:
+4B7AA1DC,以下の効果は[爆発]職に適用される,These effects apply to the [Burst] role.
+4BA36D23,111111111111111,111111111111111
+4CCC7E14,このステージを一時退出,Leave Stage Temporarily
+4D19A07C,手作り\xB7武器,Handcrafted Weapon
+4D26AEF9,完結,Complete
+4E17246A,検索結果はこちら。クリックすると該当ノードへ移動できます,Click a search result to go to its node.
+4EB57C1C,ダメージ表示を非表示,Hide Damage Numbers
+4EE984F0,今回消費する追加報酬回数：1,Bonus Reward Uses Spent: 1
+51D0CD28,編成調整,Edit Party
+51D9A26D,食べ物をタップしてキボのおやつ袋に追加,Tap food to add it to the Kibo Treat Bag.
+5257E337,<color=#ffae3b>20</color>回観測すると、必ず★5キャラクターを獲得,Get a 5-star character within <color=#ffae3b>20</color> pulls.
+52AB620A,アニマ名前,Anima Name
+52F699FC,もっと遠くへ！都市国家フリスを探索し、新たな景色を見届けよう。,Go farther! Explore Fleece City and see new sights.
+53749B64,カスタマイズ,Customize
+53ADE37C,指定素材,Required Materials
+53DD48F9,2セット：装備者の防御力が15%上昇する。装備者の効果命中が,2-Piece: Wearer's DEF +15%. Wearer's Effect Hit Rate
+5406940D+1,プリセットに保存,Save to Preset
+54DB644C,ツリフィ,Trifi
+54F9F5AE,切り替え,Switch
+5529C532,ガチャ,Banners
+55523D03,主な入手先,Main Sources
+558FDA53,追加獲得,Bonus Gains
+563AFAFA,テストテキスト,Test Text
+567896CA,旅団編成,Set Up Brigade
+56E1D498,産出可能アイテムリスト,Possible Outputs
+56F27FB3,秒,s
+57FB3B0B,666:55:44,666:55:44
+581D9EE2,評判,Reputation
+587C3D11,現在のマップレベル,Current Map Level
+59B23A94,lv.100 キャバード,Lv. 100 Cabbird
+59B4A94F,先発キボを選択,Select Starting Kibo
+5A7F11D3,現在の段階に戻る,Return to Current Stage
+5AD4866A,飛行権限解放,Flight Unlocked
+5BD93974,HDFXCHF JDJ,HDFXCHF JDJ
+5C46CB96,千里の彼方へ想いを寄せる千里の彼方へ想いを寄せる千里の彼方へ想いを寄せる,Thinking of you from afar. Thinking of you from afar. Thinking of you from afar.
+5C5219C0,キボファイト,Kibo Duel
+5CB68019,強化素材,Upgrade Materials
+5CD6DC81,一括解放,Unlock All
+5CD8CB2B,現在のレベル,Current Level
+5CF0D356,キボシリーズ,Kibo Series
+5CF6A9BB,\\xA530,\\xA530
+5D3D1089,昇臨プレビュー,Ascension Preview
+5D7B46D6,A  BLANK  SPPACE,A  BLANK  SPPACE
+5DA86BD1,強化・育成素材を返還,Refunds upgrade and training materials.
+5DA86BD2,分解で獲得,From Salvage
+5DB999EA,定弦は最大レベルです,Tuning is at max level.
+5DE39B67,未獲得,Unobtained
+5DEEC6C0,GZTDFAL,GZTDFAL
+5EAF491D,この難易度を有効化,Enable This Difficulty
+5F241C8C,STATUS,STATUS
+600E29E6,野生のキボの平均資質,Avg. Wild Kibo Aptitude
+60233828+1,向かう,Go
+609B5F0A,時間,Time
+60CB1921,キボのタマゴ説明,Kibo Egg Info
+629CF468,小玉には大きな計画がある――自分の農産物展に芽吹の谷の良質な農産物をすべて並べるだけでなく、来場者が欲しいと思ったらすぐに買えるようにするのだ！ そのために販売用の農産物を懸命に集め始めたが、成果はほとんど上がっていない,"Xiaoyu has big plans for her produce fair: display the best of Sprout Valley and let visitors buy it on the spot! She's been hard at work gathering stock, but so far... she's made little progress."
+6327DCC7,新しい実績を解除しました！,Achievement unlocked!
+63818CCC,クエスト数,Quest Count
+63FDBFA7,未獲得,Unobtained
+63FDBFA8,マイキャラクター,My Characters
+643388E9,ボタンを長押しするか、建物をドラッグして回転させられます,Hold the button or drag the building to rotate it.
+64B93716,アニマのおすすめ,Recommended Anima
+64BBF918,／月,/mo
+65DD04A5,必要な素材が不足しています。一括補充できます,Materials missing. Refill them all at once.
+65F1664D,明日の予告,Tomorrow's Preview
+665E69C4,ステージ進捗を破棄,Discard Stage Progress
+66EEACD9,すべて選択,Select All
+67B401DD,★5キャラクターを選択,Select a ★5 Character
+6930057B,因子の実,Factor Fruit
+6A061313,MAX,MAX
+6A7E6B28,更新まであと,Refresh in
+6AD54F02,購入済み,Purchased
+6B28799F,A,A
+6B55DD2B,原石が輝く,The gemstone glows.
+6BC8C974,選択観測の進捗,Selected Banner Progress
+6C2C8383,心得を開く,Open Mastery
+6C3427D7,10回観測,Pull x10
+6CEE667C,現在のリンク力,Current Link Power
+6D19D1F0+1,第2段階で購入解放,Purchase Unlocks at Stage 2
+6D8DE63E,報酬受取済み,Reward Claimed
+6E2FADCE,攻撃系の料理を作る,Cook an ATK dish
+6F195618+1,キボ編成,Kibo Party
+6F26A528,固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守固守,Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold Hold
+6F36B76D,35個の任務を完了35個の任務を完了35個の任務を完了35個の任務を完了35個の任務を完了,Complete 35 quests. Complete 35 quests. Complete 35 quests. Complete 35 quests. Complete 35 quests.
+6FF8B2F0,バフ資源ポイントを解放しました,Buff resource node unlocked.
+700E986E,ループ,Loop
+70D7FE93,試練の合計スコア,Total Trial Score
+710533DD,Home,Home
+71572394,残りキボ,Kibo Left
+71A625BF,【キャバード】の騎乗操縦の才能,[Cabbird] Riding Talent
+71A68348,BUILDING,BUILDING
+71FF7152,UI,UI
+72283B97,ステージやり直し,Restart Stage
+72699C60,キャラクターが昇臨2に達すると解放,Unlocks at Character Ascension Tier 2
+72C1D458,対決スキル,Duel Skills
+72F87C63,少ない労力で大きな成果を。キボの仲間たちと充実したホームライフを楽しみましょう。,Do more with less effort. Make the most of life at home with your Kibo.
+731B1D60,完全成長に必要な水量  <color=#96f9ff>100</color>,Water to Full Growth: <color=#96f9ff>100</color>
+73322BBD,金麦,Golden Wheat
+73F00030,芽吹の谷の探索度,Sprout Valley Exploration
+74A643B7,掃討機能・解放済み,Sweep Unlocked
+74E7E077,スキル名,Skill Name
+751A3CC7,ステージ名,Stage Name
+751D31DD,05,05
+75B33F6A,育成目標,Training Goals
+75CCEBCF,冒険,Adventure
+75E21C0C,1234/時間,1234/hr
+760C8D73,123日21時間,123d 21h
+7685A509,キボの衣装名テキストキボの衣装,Kibo Outfit Name Text Kibo Outfit
+76D80224,qwe,qwe
+76F00977,全体効率が5％上昇,Overall efficiency +5%.
+774D2547,ASSISTWORK,ASSISTWORK
+77C89F3E,モルフォーレ,Phantomfly
+781301CB,勇気,Courage
+78D02E3E,プレミアムを解放,Unlock Premium
+78F38744,／戦闘スコア,/Battle Score
+7901A8EB,すべて付与,Apply All
+792024BA,以下の効果以下の効果以下の効果以下の効果,Effects Effects Effects Effects
+794FE14C,牧場管理,Manage Ranch
+79B03DDE,"主人公のアクセサリーx1
+スタミナ薬x3","Main Character Accessory x1
+Stamina Potion x3"
+79F662EF,助けを求める,Ask for Help
+7A48408A,"衣装名の任意の文字数
+","Any number of characters in outfit name
+"
+7A83DE9A,ショップで入手,From Shop
+7B12E3CF,達成報酬,Milestone Rewards
+7B5DE7BD,契約,Contract
+7B9C39C0,初対面Ⅱ,First Meeting II
+7BF54E28,選択済み,Selected
+7CBC7335,分解すると獲得可能,Available from Salvage
+7CD55117,今日の市場相場,Today's Market Rates
+7D066543,04,04
+7DA8F641,キボファイトや危機討伐など、新コンテンツが続々登場予定！,"Kibo Duel, Crisis Hunts, and more are on the way!"
+7E0E6171,SHOP,SHOP
+7E42A7D7,ランダム再生,Shuffle
+7EB1D548,【能力と戦う能力と戦う能力と戦う能力と戦う能力と戦う】からの招待（5s）,Invite from [Combat Ability Combat Ability Combat Ability Combat Ability] (5s)
+7EB4E3D8,スコア倍率,Score Multiplier
+7FF16679,Lv.,Lv.
+81C287D5,Lv.100 名前テキスト,Lv.100 Name Text
+825A003B,因子を与えると、既存の因子と入れ替え可能,Use a factor to replace an existing one.
+82931AFC,59/60,59/60
+82CAD191,チャージ攻撃ダメージが50%上昇。チャージ攻撃発動後、キャラの属性に対応する刻印を1つ改行する,Heavy Attack DMG +50%. After a Heavy Attack: 1 mark matching the character's element.
+83D58828,建設時の消費,Construction Cost
+83ED310C_2,※現在のショップ交換アイテムはテスト期間限定のもので、正式版ではありません。,Shop exchanges are for testing only and may change at launch.
+8417C424,報酬の受け取りに必要：,Claim Requirements:
+8430894C,AAAAAAA,AAAAAAA
+84336D7B,森の女神,Forest Goddess
+84EE40BB,リンク力：,Link Power:
+86866FCB,資源ポイント解放済み,Resource Node Unlocked
+87CC7363,おすすめ順,Recommended Order
+8847AED3,GZJRDDJC,GZJRDDJC
+890A4480,漫遊記レベル加速,Travel Log Level Boost
+89159F86,ステージ 3-2,Stage 3-2
+89ACDD31,試練,Trial
+89BF9555,挑戦再開,Resume Challenge
+89EDBADE,この観測は終了しました,This banner has ended.
+89FA77FD,「これ、お祭りの服なの…？　それなら、お菓子がいっぱいいっぱいあるはず。」,"""Is this a festival outfit...? There must be lots and lots of sweets, then."""
+8AF1C185,次のレベル,Next Level
+8B694CC7,所持済：,Owned:
+8C6B0EFD,チュートリアルをもう一度見る,Replay Tutorial
+8CABE40D,かわいい新しい仲間,A Cute New Friend
+8D8D222D,アニマ上限突破,Anima Limit Break
+8E2DEB24,サブクエストをクリアして、プロミリア大陸の生き生きとした世界を体験しましょう。,Complete side quests to explore the living world of Promilia.
+8E2FF9D1,定弦は最大です,Tuning Maxed
+8EF98D25,絞り込んだ職種のキボを所持していません。,No Kibo match the selected jobs.
+8F7A53FD,新たな才能を解放,Unlock New Talent
+8FF4E6C2,星識レベル20に達する,Reach Star Sense Lv. 20
+90492604,残り時間:  42日12時間,Time Left: 42d 12h
+9107D4DA,期間限定報酬,Limited-Time Rewards
+9157FF03,初期ボーナス,Starting Bonus
+91B24964,ページをめくり、最後まで読むと閉じられます,Read to the last page to close.
+91CDA373,回観測すると必ず獲得,pulls for a guaranteed reward
+91D87D47,試練ステージカード,Trial Stage Card
+921085BC,契約後すぐに獲得,Instant on Signing
+9292C2DC,STAR  LINK,STAR  LINK
+92EF75A0,ローテーションリスト,Rotation List
+9388E637,コンテンツ解放,Content Unlocked
+9421D7C6,毎日4:00に自動で補充されます,Refills daily at 4:00.
+94D5719C,上質な調理台,Fine Cooking Station
+94DC8B30,保存すると報酬を獲得できます。,Save to earn rewards.
+94F6D7E0,300,300
+95024E12,乗りものの満腹度を自動回復するしきい値（％）,Mount Auto-Feed Threshold (%)
+954F293F,おすすめの因子の実,Recommended Factor Fruit
+95563F5B,青音花！,Bluebell Bloom!
+96A3BE3C,01,01
+978EDEF9,青い石青い石青い,Blue Stone Blue Stone Blue
+9804E284,入手方法の説明、入手方法の説明,"How to Obtain, How to Obtain"
+98F13708,20,20
+998B9032,地域の特産品,Local Specialties
+998CFC16,ランク：,Rank:
+99B973A2,星識レベル27（<color=#2fbf4a>25</color>）以上が必要,Requires Star Sense Lv. 27 (<color=#2fbf4a>25</color>) or higher
+9A0EF48C,南の谷,Southern Valley
+9AA63551,玉石を修復,Repair the Jade
+9AD79ADF+1,配色,Color Scheme
+9B0964A2,テスト動画,Test Video
+9BC16613,乗りものの効果：,Mount Effects:
+9C4D7B34,プレイヤーが見つかりませんでした,Player not found
+9D5E42C0,'''Up to seven characters ''','''Up to seven characters '''
+9D8EB4B2,成熟期,Mature Form
+9DC2CDD4,有効化済みポイント,Active Points
+9DCBF642,1111111111111,1111111111111
+9EA73A4A,冒険へ,Start Adventure
+9F4793A0,2/15,2/15
+9F8C0F06,ミーシャの寮セット,Misha's Dorm Set
+9F9D68E5,設備管理,Manage Facilities
+9FAD5704,必要な素材を所持しています。,Required materials owned.
+A0FAA7A9,モード選択,Select Mode
+A14C199D,キボ絞り込み中,Filtering Kibo
+A160D0ED+3,プレイヤーが操作中,Player in Control
+A2EF406E,02,02
+A38CB8BD,購入後、以下のアイテムを獲得,Purchase grants the items below.
+A5F3C6A1,K,K
+A6F7E314,追加プレゼント,Bonus Gift
+A798E39D,依頼,Requests
+A7BE4215,追加サービス,Extra Services
+A8B586E3,Lv.22,Lv.22
+A90F9D3A,もう一度旅行する,Travel Again
+A9945AE2,現在の期間の注文はすべて完了しました,All orders for this period are complete.
+AA5DE111,今週のスターリンク可能回数,Star Links Left This Week
+AAB32389,14,14
+AAE886B2,指定,Assign
+AAFE89E1,クイック編成,Quick Party Setup
+AB581AA0,プレイヤー名,Player Name
+AB840FB3,次の試合,Next Match
+AC007746,第,#
+AC9CEC64,作業ポイントの上限を表示,Show Work Point Cap
+ACD6C6FF,購入で獲得：,Purchase grants:
+AD1BAAFA+1,報酬を獲得,Claim Rewards
+AD3D9A39,芽吹の谷のファイター,Sprout Valley Fighter
+AD6F06DF,L-MOUSE,L-MOUSE
+ADCEC4DB,ZHUANGSHIZI,ZHUANGSHIZI
+ADDA8D59,今日の残り回数,Attempts Left Today
+AE1EB09E,着替え,Change Outfit
+AE5D0E82,提供確率,Drop Rates
+AE96222D,CLAIMED,CLAIMED
+AE9D4E61,有効化待ち,Pending Activation
+AFA7D6BB,あとX回観測すると、選択したキャラクターを必ず獲得,Guaranteed selected character in X more pulls.
+B084ED1C,30日間、毎日プレゼント,Daily gifts for 30 days
+B0BAEE9D,11111,11111
+B1AC7F76,クエストを追跡,Track Quest
+B1B5932E,ランクアップ済み,Ranked Up
+B1DA57AE,農園レベル,Farm Level
+B2786200,NOW,NOW
+B2AEE036,孵化について,About Hatching
+B343EE64,報酬の受取に必要：,Claim Requirements:
+B3937D31,対決モードを選択,Select Duel Mode
+B3B4E798,Ⅱ-ステージ,Stage II
+B3F2B8E2,ABIRUYE FAEDRA,ABIRUYE FAEDRA
+B42F6498,ローテーションモード  0階層,Rotation Mode: Floor 0
+B45FA480,売り切れ,Sold Out
+B56CAAB2,任意の場所をタップして閉じる,Tap anywhere to close.
+B62D8DEE,購入後、以下の報酬を獲得,Purchase grants the rewards below.
+B6F49EE0,ROOKIE,ROOKIE
+B7FD28B0,異生類 羽形族,Unique Class: Winged Family
+B999D23C,育成目標を選択,Select Training Goal
+B9C3118A,スターリンクしたキボの潜在能力上限,Potential Cap of Star-Linked Kibo
+B9D508E6,ストーリーを進めると解放,Advance the story to unlock.
+BA096533,1/3,1/3
+BA9DFAB0,キャラクターの満腹度を自動回復するしきい値（％）,Character Auto-Feed Threshold (%)
+BAA6129C,報酬を受け取る,Claim Rewards
+BAB65305,（友好度が<color=#f16767>2500</color>に到達）,(Reach <color=#f16767>2500</color> Affinity)
+BB3EA589+1,マルチ対戦,Multiplayer Battles
+BB7F3B1A,星識レベルが13に達していません。レベルアップへ,Star Sense Lv. 13 required. Go level up.
+BC0A4704,生態の豊かさ,Biodiversity
+BCAF02EB,装着者のステータスの10％を継承,Inherits 10% of the wearer's stats.
+BD40094C,縁結びの約束を見る,View Bond Promise
+BEDE9B24,EVENT STORE,EVENT STORE
+BF20FECF,エリート\xB7霊蝶のタイトル,Elite\xB7Spirit Butterfly Title
+BF3C6A10,未獲得,Unobtained
+BF78F822,回観測で入手,pulls to obtain
+BFB3EB0B,ゲームシステムの説明ゲームシステムの説明ゲームシステムの説明ゲームシステムの説明ゲームシステムの説明,System Description System Description System Description System Description System Description
+C0A9D4F2,観測の詳細,Banner Details
+C17389B3,厳選星品,Featured Star Items
+C1CB3C1F,イベントの旅行回数が上限に達しました。,Event travel limit reached.
+C279861E,雪晶石の聖剣+10,Snow Crystal Holy Sword+10
+C2DC41F5,難易度Vをクリアするとレシピを解放,Clear Difficulty V to unlock the recipe.
+C33BD9FF,経験値の果実,EXP Fruit
+C3596A72,本日の残り行動回数,Actions Left Today
+C4B6536C,キボのタマゴ,Kibo Egg
+C4CA4238,1,1
+C509E45C+1,旅行へ,Travel
+C54C59F1,現在の星識レベル,Current Star Sense Level
+C596BADF,<size=22>Lv.</size>60,<size=22>Lv.</size>60
+C7D50C92,断鳳崖,Phoenixbreak Cliff
+C7F5B956,おすすめ,Recommended
+C81ED57F,'''/AZURPROMILIA/','''/AZURPROMILIA/'
+C9761A71+1,タップして続ける,Tap to continue
+C9BC79AD,合成素材,Synthesis Materials
+CA13D0DC,関連する可能性のある因子,Possible Related Factors
+CADC361E,前提クエスト,Prerequisite Quest
+CB185163+1,確認,Confirm
+CB5B3DDE,REWARDS,REWARDS
+CBC5FECC+3,専用キボ,Exclusive Kibo
+CC038371,臨時,Temporary
+CCF1D9A9,装備の推奨順に並べ替える,Sort Gear by Recommendation
+CD24C592,LIVE,LIVE
+CD508F0E,新たな旅行記を解放,Unlock New Travel Log
+CD8F40A9,通常攻撃が命中すると、攻撃力が6.5%上昇する。最大1スタック。,Normal Attack hits grant +6.5% ATK. Max 1 stack.
+CD986074,キャラ名前,Character Name
+CDF28844,一時保存,Save Draft
+CED1BC92,購入後、レベル70まで上げられ、以下の報酬を受け取れます,Purchase to raise the level cap to 70 and claim the rewards below.
+CFFCEEE8,アニメーション加速,Speed Up Animations
+D147120D,/ KIBO PARTNER,/ KIBO PARTNER
+D17D5C39,装備製作,Craft Gear
+D1B7D5C2,敵のレベル,Enemy Level
+D20CAEC3,L,L
+D22E1444,獲得済み：,Obtained:
+D34AAC0E,試練をクリアできませんでした,Trial Failed
+D6070BE0,おすすめ順が有効な間は基本の並び順を使用できません,Default sorting is unavailable in Recommended Order.
+D61A1EFB,マーカーを作成,Place Marker
+D6C9CD8D,エリート\xB7未知,Elite\xB7Unknown
+D704FC0C,Dialogue option is,Dialogue option is
+D7D8FCFE,[プレイヤー名七文字]からの招待,Invite from [7-character player name]
+D83E7DD6,専用,Exclusive
+D9510286,現在のウェーブ：,Current Wave:
+D9D81C39,ADFSDGFS HDFXCHF JDJ,ADFSDGFS HDFXCHF JDJ
+DA21E885,最高スコア,High Score
+DA73C780,キボ戦闘スキル,Kibo Combat Skills
+DAAFC39C,竜涙石のネックレス,Dragontear Necklace
+DAEBE802,DUEL,DUEL
+DAF783C8,分,min
+DB2CADF8,試練日,Trial Day
+DB74791F,指定する装備を選択してください,Select gear to assign.
+DBECD66E,"主人公のアクセサリーx1
+スタミナ薬x3","Main Character Accessory x1
+Stamina Potion x3"
+DC388929,まとめて購入,Buy Together
+DCC55E4C,今週の購入上限：60,Weekly Purchase Limit: 60
+DCF57CCE,星旅の記録の新しい段階が解放されました,New Star Journey Log tier unlocked
+DD058A54,エンディングを切り替える,Switch Ending
+DD201928,春,Spring
+DDFDBCEE,破損箇所を修復しました,Damage repaired.
+DEAFCD4C,依頼へ,Go to Request
+DF564DEF,装着者のステータスが上昇,Boosts the wearer's stats.
+E08B312E,難易度を選択,Select Difficulty
+E1AA8F5D,このキボはまだ獲得していません。,You haven't obtained this Kibo yet.
+E1DFFC87,F1,F1
+E318ECB6,進化後はステータスが上昇し、キボのスキルと特性が変化する場合があります,Evolution raises stats and may change Kibo skills and traits.
+E3BCC36A,暗黒攻勢Ⅲ,Dark Offensive III
+E42D27AD,お試し,Trial
+E491D911,確率,Rate
+E4DA3B7F,50,50
+E5BA806E,カラーカスタマイズ,Customize Colors
+E5FE3E9A,通常攻撃,Normal Attack
+E6EB7C49,パック名は最大9文字,Pack names can be up to 9 characters.
+E76C4927,キボの因子の品質,Kibo Factor Quality
+E77B9028,勢中刀\xB7百斬一瞬,Shizhong Blade: Hundred Cuts in a Flash
+E87EFFDE,クリアで獲得,Clear to Obtain
+E8C24158,ぷくぷくエビ・下,Puffy Shrimp Bottoms
+E8F4B898,孵化確率説明,Hatch Rate Info
+E8F6B05E,【満腹度を補充】,[Restore Fullness]
+E92668A6+2,召喚をキャンセル,Cancel Summon
+E958455D,解放待ち,Pending Unlock
+E9B4DF56,山岳の要所に陣取り、堅い甲殻をまとう。角を突き合わせる闘いは彼らの名誉を懸けた戦いであり、衝突のたびに力と地位を競い合う。,"They guard mountain passes in hard shells. Each clash of horns is a contest for honor, strength, and rank."
+EAF68DB5,実績ポイント,Achievement Points
+EB1CDFB0,調理台,Cooking Station
+EB6EC0D9,星明かりに綴られた物語,A Tale Written in Starlight
+EBC9D9E6,素材,Materials
+ECA2308F,所持合計数,Total Owned
+ECD2B362,CHECK ON,CHECK ON
+ECD9688A,【プレイヤー】が【モーション名】に招待しています,[Player] invites you to [Emote Name].
+ED5A0EE2,アイテム名（数文字）,Item Name (Few Characters)
+ED9CD255,アリーナモード,Arena Mode
+EDF5255E,ロージア連邦,Rosia Union
+EE0EF87B,一括ロック,Lock All
+EEE2B203,'''AZUR','''AZUR'
+F08AFD1F,選択済み,Selected
+F1943132,70%,70%
+F1DF0036,"主人公のアクセサリーx1
+スタミナ薬x3","Main Character Accessory x1
+Stamina Potion x3"
+F1E1A7F7,孵化確率,Hatch Rate
+F1E9FB1A,トップス,Tops
+F1F97E0C,旅行を開始,Start Journey
+F23A4CDE,完全成長に必要な水量  <size=24><color=#585c5b>200</color></size>,Water to Full Growth: <size=24><color=#585c5b>200</color></size>
+F2B10ABE,右側のパーツを破損箇所にドラッグして玉石を修復,Drag the pieces on the right onto damaged spots to repair the jade.
+F424EF06,現在のレベル：20,Current Level: 20
+F43AEAAA,大きな肉団子,Large Meatball
+F4842DCB,vs,vs
+F493DAB9,倍率,Multiplier
+F4944B39,50回観測すると、以下のキャラクターから1人を指定してチームに加えられます,"After 50 pulls, choose one of these characters to join your party."
+F4EAA136,最大レベルのプレビュー,Max Lv. Preview
+F510B97D,TINY HERO,TINY HERO
+F5A9A73B,ドロップする可能性があるアイテム,Possible Drops
+F5BCB607,変異効果を確認,View Mutation Effects
+F6738C46,22/22,22/22
+F74F1E0B,獲得アイテム一覧,Items Obtained
+F76E2900,星臨者スキン,Starborn Skin
+F7D21160,マイバッグ,My Bag
+F7F82B9C,新コンテンツ予告,New Content Preview
+F7FCDD39+2,待機中,Waiting
+F949F297,WITH YOU AMONGST THE STARS,WITH YOU AMONGST THE STARS
+FA296BFE,ネットワーク接続を確認,Check your network connection.
+FACE240E,追加プレゼント：,Extra Gift:
+FB180F39,（……初めて正式に記事が掲載された。しかも一面のトップ記事だ！　稼いだ給料でパンを半分買ったけど、食べたりしない。棚にしまって、腐っていくのを眺めるんだ。この幸せな時間を少しでも長く味わうために。）,"(...My first published article, and it made the front page! I spent my pay on half a loaf of bread. I won't eat it. I'll put it on the shelf and watch it spoil to savor this joy a little longer.)"
+FB55339A,自動戦闘中,Auto-Battle
+FB55339A+1,自動戦闘中,Auto-Battle
+FBB34832,キボ情報,Kibo Info
+FBD7939D,1,1
+FC351430,ブロック解除,Unblock
+FC6047AE,草食竜,Herbivorous Dragon
+FC8FA698,現在派遣中,On Dispatch
+FD50461E,中立の町,Neutral Town
+FE5C3684,F2,F2
+FE939B73,報告対象,Report Target
+RoleDecorate,CHARACTER,CHARACTER
+common_allFiltrate,すべてのフィルター,All Filters
+mainMenu_home,農園,Farm
+ui_good_sold_out,売り切れ,Sold Out
+003AD50B,種族,Race
+003C2241,テストテキスト,Test Text
+003E6BF9,星辰伝,Star Chronicles
+0041D2FF,アクティブノード数：,Active Nodes:
+00A94A52,リーダー報酬：,Leader Reward:
+00D61084,キャラクターを作成,Create Character
+00DCF32C,必要数：0/25,Required: 0/25
+01132943,大型,Large
+01247419,"2セット：会心+15%\
+2セット：会心+15%","2-Piece: CRIT +15%\
+2-Piece: CRIT +15%"
+0144478B,～ 欲しいものリスト：15/30 ～,~ Wishlist: 15/30 ~
+0149763D,【碧き空の下で】通常攻撃の3段目で範囲火炎ダメージを与え、命中したターゲットに燃焼効果を付与し、1秒ごとに攻撃力の30%のダメージを与える。,"[Under the Blue Sky] The third basic attack deals area Fire DMG and inflicts Burn, dealing 30% ATK as DMG every second."
+0164520A,報酬プレビュー,Reward Preview
+0168640A,アニマ選択,Select Anima
+017560E0,水やり,Water
+017A0FE7,景観ツリー,Scenery Tree
+01820770,スタンド,Stand
+019EA300,生産完了！,Production complete!
+01AA524B,Lv.50,Lv.50
+01C272D8,テストテキスト,Test Text
+01CE4ECD,ちょうどいいタイミングに来てくれた！宿に常連客が来て、ソーセージを使った料理を食べたがっているけど、前回の仕入れでソーセージを買い忘れてしまったんだ。最近ソーセージが値上がりしたって聞いたから、もう一度ソーセージを2本持ってきてくれないか？安心して、報酬は絶対にケチらないから。,"Perfect timing! A regular at the inn wants a sausage dish, but I forgot to buy sausages last time. I hear prices went up. Could you bring me two more? I promise I'll pay you well."
+01EB737F,ランダムマッチング中,Random Matchmaking
+020627C2,挑戦を終了,End Challenge
+02129BB8,X,X
+0225BFB9,視点,View
+022BE954,探索レベル,Exploration Level
+025546DD,2時30分,2:30
+02574CF1,獲得,Obtained
+026092E7,テララの寮,Terara's Dorm
+02901F71,回転をリセット,Reset Rotation
+0294EDF7,最大段階のプレビュー,Max Stage Preview
+029E42B9,祭器の効果、上には金色の花と蔓の装飾があり、とても雅！祭器の効果、上には金色の花と蔓の装飾があり、とても雅！また泣く放甲の上に右フルネームの竜星,"Ritual item effect, with elegant gold flowers and vines! Ritual item effect, with elegant gold flowers and vines! Cry again, armor above, right full name Dragon Star."
+02A21777,イベントルール,Event Rules
+02AD5A5C,シリアルコードを入力,Enter Redemption Code
+02D9819D,確認,Confirm
+02D9819D+1,確認,Confirm
+02E3F002,リストから入れ替える対象を選択してください。,Select an item to replace from the list.
+02E95730,"香り付けに満月草をほんの少し加えた焼き魚。満月草は
+魚の生臭さをうまく消し、香ばしく焼けた魚の香りに
+森のしっとりとした清涼感を添え、サクサクとした","Grilled fish scented with a touch of Full Moon Grass. It
+cuts the fishy smell and lends the grilled aroma
+a damp, forest freshness, and a crisp"
+02F1C6EC,ノノとの絆,Bond with Nono
+02FD8EC3,実績達成【ダブルキル,Achievement: [Double Kill
+030D962D,EVENT,EVENT
+030F8ABC,"星臨者
+レベルLv.10で解放","Starborn
+Unlocks at Lv. 10"
+03199E5D,こんにちは！,Hello!
+0339B7FA,コンテンツ解放,Content Unlocked
+036E4E66,因子数が上限に達しました。因子の実を与えると、既存の因子と入れ替えることができます。,Factor limit reached. Give a Factor Fruit to replace an existing factor.
+037661A1,Lv.24,Lv.24
+039445AE,23秒後に再度準備を呼びかけることができます。,You can request readiness again in 23s.
+0398B981,異脈の星巣,Variant Star Nest
+03AF8168,"旅はまだ終わらない、星々の物語は新たな章を待っている……旅はまだ終わらない、星々の物語は新た\
+な章を待っている……","The journey isn't over. The stars await a new chapter... The journey isn't over. The stars await a new\
+chapter..."
+03C7C0AC,s,s
+03F38597,速さ,Speed
+04183FF6,確率詳細,Rate Details
+0442314D,戦闘シーンを変更,Change Battle Scene
+0445C1B8,残り時間,Time Left
+044DCBC4,スタート,Start
+047F7871,異彩,Variant
+04F11051,キャラクターの最大HPの9%を回復し、さらにHPを4000回復する1,Restores 9% of the character's Max HP plus 4000 HP. 1
+04FEBE01,'lv:','lv:'
+0530287B,平原エリア,Plains
+0537A64D,クイック選択,Quick Select
+0541026D,X3,X3
+055CFE7A,寮ショップ,Dorm Shop
+0563AB62,星識レベルが<color=xxx>20</color>に達すると、レベル上限を解放できます,Raise Star Sense to <color=xxx>20</color> to increase the level cap.
+056F32EE,asdad,asdad
+05853D9C,ズーム,Zoom
+05E21CD9,平均DPSが最も高いキボのタイプ。挑発の強度（中／弱）と、近距離／遠距離の区分に対応する。,The Kibo type with the highest avg. DPS. Uses medium or weak Taunt and can be melee or ranged.
+05FCE816,セット／スキルなし,No Set/Skill
+06157C59,現在の所持数 0,Owned: 0
+0617F49D,耐久値,Durability
+0643C00B,赤ドラゴンの咆哮,Red Dragon's Roar
+0651ED87,味方キャラクターを編集,Edit Allies
+067F5283,攻撃力,ATK
+06893D39,上質な食材ほど調理はシンプルでいい。ありふれた食材ほど腕の見せどころだ。,"The finer the ingredients, the simpler the cooking. Ordinary ingredients are where skill shines."
+069A4B89,プレイヤー,Player
+06A7DA28,パーティ募集,Recruit Party
+06BD6C44,挑戦へ,Start Challenge
+07024743,リセット可能なキャラクターはいません。,No characters can be reset.
+07026F7C,Lv.15,Lv.15
+07348D3D,収穫物から種を自動で受け取る,Auto-collect seeds from harvests
+07569551,討伐\xB7アウラ,Hunt\xB7Aura
+078C9865,偽キャバード、真ボアラーガ,"Fake Cabbird, Real Boaraga"
+07B1830E,操作キャラクターを選択,Select Active Character
+07F7C278,追加獲得：,Bonus:
+07FEAA84,ファイト開始,Start Fight
+083D6902,研究所,Lab
+084F7EE7,60秒以内に挑戦をクリアしてください！,Clear the challenge within 60s!
+086405C4,通常攻撃の3段目で範囲火炎ダメージを与え、命中したターゲットを炎上させる。,The third Normal Attack deals AoE Fire DMG and Burns targets hit.
+087FFA94,スタミナ,Stamina
+08E4CF3D,初対面II,First Meeting II
+08F1BF0C,プリセット編成,Party Preset
+09086980,獲得可能報酬,Available Rewards
+093F03A5,種族フィルター,Species Filter
+093FE697,星識レベルが足りません,Star Sense level too low.
+097AA5CC,ピンクボタン,Pink Button
+099FAD1C,翌日,Next Day
+09C595B3+1,端末の温度が高すぎるため、画質を自動調整して負荷を軽減しました。,Device overheating. Graphics quality was lowered to reduce load.
+09C595B3+2,端末の温度が高すぎるため、画質を自動調整して負荷を軽減しました。,Device overheating. Graphics quality was lowered to reduce load.
+0A319857,使用後,After Use
+0A53EDD5,素材が不足しています,Not enough materials.
+0A5A412C,Up to seven characters long,Up to seven characters long
+0A5ADA90,立ち去る,Leave
+0A758826,調査ポイント,Investigation Point
+0A7AE79B,ステラカード,Stella Card
+0A93AF89,小屋,Hut
+0A9AD70B,fov,fov
+0AF0135F,バフ建築一覧,Buff Buildings
+0AF5D95A,ロール,Role
+0B1019FE,村長の宝箱,Village Chief's Chest
+0B476CBB,NO.1,NO.1
+0B5296DE,祭器の説明,Ritual Item Info
+0B7E8DCE,受取済み,Claimed
+0B84B7F4,今回のログイン中は再表示しない,Don't show again this session
+0B852EEB,12月26日,Dec 26
+0BA92335,評判を確認,Check Reputation
+0BF60B32,数量,Quantity
+0C113899,キボを外す,Remove Kibo
+0C1FEC65,秒,s
+0C256477,マッチング中,Matchmaking...
+0C3CFBB4,条件を満たすフレンドがいません。,No eligible friends.
+0C841931,水車（建設済み）,Waterwheel (Built)
+0CB1BEF5,テストテキスト,Test Text
+0CB9C7DD,レシピがありません,No recipes
+0CD5DB00,読み込み,Loading
+0CF4A0A7,配置,Place
+0D065109,Lv.20,Lv.20
+0D114B63,SELECT CHARACTER,SELECT CHARACTER
+0D1B08C3,？？？,？？？
+0D311A0D,xxxxxbuff,xxxxxbuff
+0D3872C1,、配置可能な建物を絞り込み済み,", available buildings filtered"
+0D38BCF3,オーダーボード,Order Board
+0D403239,時計回りに回転,Rotate Clockwise
+0D450F97,残り：23日22時間,Time Left: 23d 22h
+0D61F837,C,C
+0D812DF3,ライラックの鉢植え,Potted Lilac
+0D98C747,その他,Other
+0DEB6762,全員の準備が整いました。まもなく開始します（2秒）。,Everyone's ready. Starting in 2s.
+0E44A1A5,起動の泉,Activation Spring
+0E61D2EA,星識レベルLv.40,Star Sense Lv. 40
+0EA387D5,DISORDER,DISORDER
+0EAC8802,在庫数,Stock
+0EC5326F,出現する可能性がある魚,Possible Fish
+0ECA4000,ゲーム終了,Quit Game
+0ECC2879,現在の難易度,Current Difficulty
+0ED6761A,★2,★2
+0ED9B001,TASK,TASK
+0F1179AA,空白部分をタップして閉じる,Tap an empty area to close.
+0F18C0F0,効果音をオフ,Mute Sound Effects
+0F3FE3A4,チャンネルを削除,Delete Channel
+0F47025E,リセット,Reset
+0F4B77CE,<100m,<100m
+0F53F67C,装備セット,Gear Set
+0F635B39,リーダー,Leader
+0F7AA153,キボの食堂に食べ物を置く,Put food in the Kibo Dining Hall.
+0F8CE4D9,レベル80で解放,Unlocks at Lv. 80
+0FAE29FD,髪色,Hair Color
+0FAFF908,選択確認,Confirm Selection
+0FB7266C,Lv.4で解放,Unlocks at Lv. 4
+0FCF510C,UI表示,Show UI
+0FCF6414,キャラクター最大レベル,Max Character Level
+0FDD8415,現在のチャンネル：1,Current Channel: 1
+100C2D80,完成！,Completed!
+1014AF22,挑戦報酬,Challenge Rewards
+101E5B21,コメントはありません,No comments
+102985F1,農園レベルアップ,Farm Level Up
+106FC6A7,突破,Breakthrough
+1070D6D2,今週の在庫：10000,Weekly Stock: 10000
+1071EC3D,ガチャ日時,Pull Time
+108DB12E,スコア,Score
+10A6F121,キャラクター名,Character Name
+10F31BC8,訪問,Visit
+10F3BC05,2セット：会心率+10%,2-Piece: CRIT Rate +10%
+110B407D,レアな星雨の果実,Rare Starshower Fruit
+110EE3F1,出荷精算,Shipment Summary
+115A59F3,詳細,Details
+116755B8,レベルで解放,Level Unlock
+117F5CEF,プレゼント,Gift
+118C9059,マルチ,Multiplayer
+11927C89,星識レベルを20にする必要があります。,Requires Star Sense Lv. 20.
+11982DBA,ボタンの音量,Button Volume
+11A7A705,キャバード,Cabbird
+11E8C71E,推奨レベル：,Recommended Level: 
+11F208A3,Lv.10/10,Lv.10/10
+121556D1,配置済み,Placed
+12532B62,ステージの制限時間,Stage Time Limit
+125E03E1,交換済み,Exchanged
+12686EEE,討伐時間,Hunt Time
+126B7EC8,スキル強化,Enhance Skill
+1278FDBD,キボ（3番目）,Kibo (3rd)
+12795470,Dialogue option is an optiona 15-character option,Dialogue option is an optiona 15-character option
+12918B4E,建築に切り替え,Switch to Building
+12982FAE,"'Space
+
+
+'","'Space
+
+
+'"
+12B942D8,殺意の剣気00000000000,Killing Aura Blade00000000000
+12C19AB0,華麗なカゴ？？,Fancy Basket??
+1307F6DC,テスト終了後にデータが削除されるクローズドβテスト版のため、最終的な品質を表すものではありません。,Closed beta data will be wiped after testing. Quality is subject to change.
+13182A01,獲得方法,How to Obtain
+1318633C,完了！,Done!
+131F6F6B,露出,Exposure
+1327D7A0,チーム脱退,Leave Party
+132BF2BE,"'Q
+
+
+'","'Q
+
+
+'"
+133E95A5,MI_準備,MI_Ready
+133FD33A,星祝を完了すると以下のアイテムを消費します。一括で星祝を行いますか？,Apply Star Blessings in bulk using the items below?
+1347135B,智慧の星泉,Star Spring of Wisdom
+13483D4A,キボの体格,Kibo Size
+1353CB5B,チーム作成,Create Party
+135AE0FF,程度,Degree
+137B56C8,メッセージが長すぎます。,Message too long.
+13C0A80F,【芽吹の谷】スポット巡り完了,[Sprout Valley] Tour complete
+13DCB470,種を半分取る,Take Half the Seeds
+13DEA442,ストーリー再生,Replay Story
+13E1FCD5,主人公アクセサリー,Main Character Accessory
+14135FE8,長押しで救助,Hold to Rescue
+1414C975,X3,X3
+1430FEFF,ポイント報酬,Point Rewards
+1432C7FC,システムのお知らせ,System Notices
+1438221E,普通,Normal
+1444F02E,条件に合う装備がありません,No gear matches.
+144EE209,ランクアップしていない同名のアニマ,Same unranked Anima
+1450A4E7,ボックス内にキボがいません,No Kibo in Box
+146FABEB,精算を終了,End Settlement
+14DFB44D,配置完了,Placement Complete
+1535FCFA,送信,Send
+153874D7,CHOOSE  JUESE,CHOOSE  JUESE
+153B297C,レベル2で解放,Unlocks at Lv. 2
+153FA67A,選択,Select
+15659562,星が伝えし,Told by the Stars
+15733C32,氷,Ice
+157B23B0,能力アップ,Stat Boost
+15D1541A,長押しでアイテムの詳細を確認,Hold for item details.
+15D7AED3,採集物,Gatherables
+15DC305A,装備,Equip
+15E05D39,あんこ団子,Red Bean Dumplings
+16034C0F,大きな肉団子,Large Meatball
+16196441,純光,Pure Light
+163B24BE,出現確率12%,12% Spawn Chance
+166493C5,星祝付与,Apply Star Blessing
+1673B31D,現在フィールド上のキボは上限に達しています。<color=#96F9FF>数字</color>キーを押して対応するキボを入れ替えてください。,Field Kibo limit reached. Press a <color=#96F9FF>number</color> key to swap that Kibo.
+1686B030,フレンドを解除しました。,Friend removed.
+16DA4308,チームへの加入を申請しました,Party request sent.
+16E19306,選択をすべて解除,Deselect All
+16F9A5F3,スターリンクキボ,Star-Linked Kibo
+170C8932,注文所を1つ建設する ,Build 1 Order Station
+174F70FF,Lv.10-Lv.30,Lv.10-Lv.30
+17541502,派遣条件,Dispatch Requirements
+1759E163,テストテキスト,Test Text
+1759E163_1,テスト期間中限定,Test Only
+17769539,両目の色を統一,Match Eye Colors
+178BB118,キャラクター表示,Show Character
+17F4F29D,派遣中のキボがいません,No Kibo dispatched.
+18184EE0,未強化Rアニマをスタック,Stack Unenhanced R Anima
+181E1615,セット未装備,No Set Equipped
+183F7A4C,6日16時間,6d 16h
+184250DC,現在の説明,Current Description
+18503DBF,X軸：,X Axis:
+1865E13B,お別れすると、レベルアップと育成に使用した素材が返還されます。,Parting returns materials spent on leveling and training.
+188AF2BA,アニマ説明,Anima Description
+18A4D6C3,現在のシーン,Current Scene
+18A4FE43,Lv.06/20,Lv.06/20
+18C260F2,キボのタマゴがありません。,No Kibo Eggs.
+18C59948,20日後に期限切れ,Expires in 20 days
+18C63459,デフォルト,Default
+18FCEB13,キボ（2番目）,Kibo (2nd)
+190E89AB,固定スキル,Fixed Skill
+192328FF,特殊ステータスを刻印,Imprint Special Stat
+1941B1BC,血への渇望,Bloodlust
+19426BC8,未建設,Not Built
+194BB7FE,120<size=38>/150</size>,120<size=38>/150</size>
+194DB02F,星脈の活性度,Star Vessel Activity
+19556C70,挑戦成功,Challenge Complete
+1957251C,調査報酬,Investigation Rewards
+196AD010,殺意の剣気,Killing Aura Blade
+197A9E63,追加報酬,Bonus Rewards
+1988451D,星閃スキル,Starflash Skill
+198E4C1C,採集リストのプレビュー,Preview Gathering List
+1994FE9F,30分30秒,30m 30s
+19A85411,身長,Height
+19A8740A,<size=22>Lv.</size>9,<size=22>Lv.</size>9
+19BF4B07,最近の実績,Recent Achievements
+19C8AC3E,簡易説明,Summary
+19C948BA,ボス\xB7紹介,Boss\xB7Overview
+19CE51D2,ここへドラッグしてキボを外す,Drag here to remove Kibo.
+19F30E8F,現在、金レアリティ以下の防具やアクセサリーを製作するとスコアが上がります。,Craft armor or accessories of gold rarity or below to earn points.
+19F8CD4D,絆レベル,Bond Level
+19FCB9EB,時間,Time
+1A249A1B,基本アクション,Basic Actions
+1A32C172,保存,Save
+1A3DEE46,00000000000000000000000000000,00000000000000000000000000000
+1A431ECC,あなたの仲間たちはみんな特別な立場にあります……あれほど目立つ特徴なら、探すのは難しくないかもしれません。彼らが百酒「ソザンカ」の加護を受け、無事であることを祈ります。,"Your companions all stand out... Their distinctive looks may make them easier to find. May Hundred Wines ""Sozanka"" keep them safe."
+1A50261E,Lv.15,Lv.15
+1A928580,均衡・烈炎,Balance: Blaze
+1AA59442,ドングリ樹洞,Acorn Tree Hollow
+1AAA8857,両目の色の統一を維持する,Keep Eye Colors Matched
+1ADF4E99,ファイトリーグ,Fight League
+1AF1C54C,録画をキャンセル,Cancel Recording
+1B054B19,クイック選択,Quick Select
+1B0B239B,プラン名,Plan Name
+1B6C7716,整理,Sort
+1B75BBE4,行商ノート,Peddling Log
+1B9ABF13,Browse,Browse
+1BCF60BE,おすすめ：,Recommended:
+1BDD992D,ウミィの流動性は、どんな隙間にも入り込めることを証明している。空の壺や瓶を長く放置しておくと、いつの間にかウミィが湧いていることもあるらしい。,"Fluid enough to slip through any gap, Umi sometimes appear inside jars or bottles left empty for too long."
+1BF939BC,探索レベルアップ,Exploration Level Up
+1C0E36C8,定量モード,Fixed Amount Mode
+1C2E8612,対戦プリセットを設定,Set Battle Preset
+1C517A31,スーパー大先輩,Super Veteran
+1C5C0F68,一時離脱,Leave Temporarily
+1C5FA1ED,新しい仲間が加わりました,A new companion joined!
+1C77CB45,キャラクター選択,Select Character
+1CA4B01E,この料理はキャラクターのおやつ袋に入れられません,This dish can't go in a character's Treat Bag.
+1CB7ACAC,検索内容を入力してください。,Enter a search term.
+1CBC9A95,半分取り出す,Take Half
+1CBD960D,超レア,Ultra Rare
+1CE55514,アニマ専用スキル,Anima-Exclusive Skill
+1D073DC7,称号は最大12文字まで,Titles can be up to 12 characters.
+1D196556,レベルアップ中 00:00:00,Leveling Up 00:00:00
+1D3838F1,生息地,Habitat
+1D466A99,モルフォーレを討伐する,Defeat Phantomfly
+1D58ADCA,提出可能なアイテム,Eligible Items
+1D837E35,マウントを選択（乗る）,Select Mount (Ride)
+1DC18B2E,FLAIR,FLAIR
+1DC4E663,注文所から各種注文を受注できます。,Take orders from the Order Board.
+1DD67F0D,未獲得,Unobtained
+1DF478B5,署名は長すぎないように署名は長すぎないように,Keep your signature short. Keep your signature short.
+1DFD8817,サーバー：,Server:
+1E076D3A,-難易度が高いほど獲得確率が上がります。,- Higher difficulty improves drop rates.
+1E238528,NORMAL,NORMAL
+1E683531,未派遣,Not Dispatched
+1EAE4BD2,おすすめのセット案,Recommended Sets
+1ECAD0CA,クエストの進行状況,Quest Progress
+1ED61EBA,野生のキボの資質上限,Max Wild Kibo Aptitude
+1EE506BF,地,Earth
+1F00D799,評判レベルが不足しています。,Reputation level too low.
+1F46AF1A,おすすめ家具,Recommended Furniture
+1F4A41E7,ファイトリーグ,Fight League
+1F4F38B9,Lv.35,Lv.35
+1F60E8CB,【和能力打】からの招待（5秒）,Invite from [He Neng Li Da] (5s)
+1F611603,星識レベルで解放,Unlocks at a Star Sense level
+1F6C439E,チャット一覧から会話するフレンドを探してください,Select a friend from the chat list to talk.
+1F6F210D,以下の効果は,The following effects
+1F893B13,種を長押しでドラッグ,Hold and drag the seed.
+1F97BB83,栽培ポイント,Farming Points
+1FB68761,GENE,GENE
+1FC508FB,"外出中\
+あとで戻ります","Away\
+Back later"
+1FF34386,通常攻撃の3段目で範囲火炎ダメージを与え、命中した対象を燃やし、1秒ごとに攻撃力の30%のダメージを与える（8秒間）。,"The third basic attack deals area Fire DMG and inflicts Burn, dealing 30% ATK as DMG per second for 8s."
+20083A6B,紫ボタンの効果音,Purple Button SFX
+2030FEA0,キボ評価,Kibo Rating
+206EFBCB,フレンド申請を送信しました。,Friend request sent.
+209070F7,MI_レベルアップ,MI_Level Up
+209DE650,未来予告,Coming Soon
+20A88686,作業台\xB7加速Ⅰ,Workbench: Speed I
+20A97224,操作キャラクターを選択,Select Active Character
+20CE7470,現在収穫可能,Ready to Harvest
+211CC22E,Lv.9,Lv.9
+213EDFBA,未建設,Not Built
+215CAC64,LEVEL UP!!,LEVEL UP!!
+21628377,お別れする,Say Goodbye
+216DEF0A,中／大,Medium/Large
+217CB450,キャラクター/キボを長押しでドラッグできます。,Hold and drag characters or Kibo to move them.
+21944EEC,リリィ,Lily
+21C2E595,Z,Z
+21CE96CD,チームに参加,Join Party
+21E499AA,旅を始める,The Journey Begins
+2215E26E,蔵書,Library
+222EAF90,グリッドを編集,Edit Grid
+225F3BA0,イベントのお知らせ,Event Notice
+226B0912,種類,Type
+2284B61D,レベルが高すぎるため、スターリンクできません。,Level too high to Star-Link.
+22B777E6,通常,Normal
+22ED8A0D,ヒヨコの大爆発,Chick Blast
+230BFDB8,マーカーをすべて選択,Select All Markers
+2345F6FF,カスタムアクション,Custom Emote
+23496EEB,－現在の進行状況－,- Current Progress -
+2381F032,111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111,111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+238AE092,残り時間：,Time Left:
+23D1BEBC,レアな星雨の果実,Rare Starshower Fruit
+23E714A0,スタミナを30消費して討伐報酬を受け取りますか？,Spend 30 Stamina to claim hunt rewards?
+23E86A12,初回クリア報酬,First Clear Reward
+23F4A0C8,すべての報酬を受け取りました。,All rewards claimed.
+240930F1,再撮影,Retake
+240D9ECF,NOTICE   BOARD,NOTICE   BOARD
+240DEC1F,解放成功,Unlocked
+24105B3E,スキルオプション,Skill Options
+24169E61,簡易ノード,Basic Node
+241F131D,交換,Exchange
+242D641E,サフィックス,Suffix
+2496AF30,50%,50%
+24AEAA46,AM 7:15,AM 7:15
+24B1A944,追跡,Track
+24B2A973,キャラクター（2番目）,Character (2nd)
+24C5B9F2,解放後、変異プールに以下の因子が追加されます。,Unlocking adds these factors to the mutation pool.
+24D67862,属性,Attribute
+24FB8692,保持,Keep
+251A59CC,対決に敗北,Duel Lost
+252DB55F,攻撃,Attack
+25345C93,星脈レベルがLv.2に到達,Star Vessel level reached Lv.2
+2560B304,地区,Region
+259F0C65,テストテキスト,Test Text
+25CF9626,中国語,Chinese
+25EE16F2,願いのレシピはありません。,No requested recipes.
+25FA5A96,リーダーを譲渡,Transfer Leadership
+26086C4E,シャルル村の村長,Village Chief of Charlulu Village
+262779A2,15秒,15s
+262E372A,テララ,Terara
+265F273C,天候,Weather
+2664F03A,ADDRESS,ADDRESS
+268CCE80,星識,Star Sense
+26A4B44A,MAX,MAX
+26B17225,+,+
+26B86990,通常攻撃,Normal Attack
+26C3F332,宝箱の報酬,Chest Rewards
+26C9C723,最大モード,Max Mode
+26CC2851,説明,Description
+26CE3601,所持数,Owned
+26D9CBE0,ゲームロゴを表示,Show Game Logo
+26E257B0,味方の装備スキル,Ally Gear Skills
+26EDA90C,9S,9S
+26F6B002,ワールドマップ,World Map
+27196900,ストーリーをスキップ,Skip Story
+2725A51F,"範囲
+","Area
+"
+276D5FBC,<size=16>Lv</size>.1,<size=16>Lv</size>.1
+277147F6,特殊スキル変更,Change Special Skill
+27722076,推奨強化,Recommended Upgrades
+27826EF0,魔法防御力+1600,Magic DEF+1600
+27877AEB,-SENT-,-SENT-
+27949549,祭器が変化しました！,Ritual item changed!
+27A87570,BATTLE YINZI,BATTLE YINZI
+27AF1823,入居に必要な素材,Move-In Materials
+27B128CB,条件未達成,Requirements not met.
+27CA568B,続ける,Continue
+27D1AF13,最高突破：,Highest Milestone:
+281A2AD1,討伐報酬,Hunt Rewards
+284E5BFA,入居,Move In
+285003DC,Thanks for playing,Thanks for playing
+28759B0E,スキル変更！,Skill changed!
+288F0C40,クリア,Clear
+2896411B,レベル上限,Level Cap
+28B9D22B,チャンネル番号を入力,Enter channel number
+28BBA6A2,エデンの樹,Tree of Eden
+28D32153,残り：,Left:
+28ED0957,SHENGJI,SHENGJI
+28EE5942,マウントに乗る,Ride Mount
+2910773B,旅立ち補給,Departure Supplies
+291BAAA8,大平原北部,Northern Great Plains
+297643DE,聖物を1つ選択してください。,Select one relic.
+298CB254,LIST,LIST
+299E3303,シーンへ,Go to Scene
+299F20CA,すぐに退出,Leave Now
+29A8BA90,調整を確定,Confirm Changes
+29AC026D,TIPS,TIPS
+2A0AAFB3,種をドラッグすると、小屋内の種の順番を変更できます。キボは種倉庫の順番どおりに植えます。,Drag seeds to reorder them in the hut. Kibo plant them in storage order.
+2A33BFE4,左目,Left Eye
+2A7930D4,必要条件,Requirements
+2A95BBAA,輝く,Shining
+2AB01E41,一般,General
+2AB87EB1,通常攻撃が命中すると、自身の攻撃力が4.5%上昇する（12秒間、最大1スタック）。,Basic attack hits raise own ATK by 4.5% for 12s. Max 1 stack.
+2AB8FC53,この特別な生き物はまだ見つかっていません,You haven't found this special creature yet.
+2AD8CB94,スタミナ回復,Restore Stamina
+2AE4D260,超レアな星雨の果実,Ultra-Rare Starshower Fruit
+2B256866,才能,Talent
+2B30334A,出荷箱,Shipping Box
+2B61E0D5,Ctrl,Ctrl
+2B6F9172,分解した場合、元に戻すことはできません。続行しますか？,Salvaging can't be undone. Continue?
+2B92C142,このページでは過去6ヶ月のガチャ履歴を確認できます。履歴の反映には1時間ほどかかる場合があります。データがない場合は少し経ってから再度ご確認ください。以下の時間は星臨者の端末のタイムゾーンに基づいています。,"View pulls from the past 6 months. Records may take up to an hour to appear. If none show, check again later. Times use your device's time zone."
+2BD1D6E3,完全成長に必要な水量  <size=24><color=#111A22>200</color></size>,Water to Full Growth: <size=24><color=#111A22>200</color></size>
+2BDA9959,NPC,NPC
+2BDB795A,B     A     T     T     L     E     C     L     E     A     R,B     A     T     T     L     E     C     L     E     A     R
+2BFEF431,"角の生えた巨大な猛禽
+一撃で倒す","Giant Horned Raptor
+Defeat in One Hit"
+2C143DD9,マウントを選択（乗る）,Select Mount (Ride)
+2C7B38D6,ショップ,Shop
+2CF4D7FB,牧場の心得,Ranch Mastery
+2D1BAD5B,アップデートのお知らせ,Update Notice
+2D1D1E24,選択済み：3/3,Selected: 3/3
+2D2DE459,PURCHASE,PURCHASE
+2D3162AE,初回クリア報酬,First Clear Reward
+2D37131C,洞察,Insight
+2D3987C8,レッドフレイム神器使いセット（2/4）,Red Flame Divine Gear Wielder Set (2/4)
+2D3D48D6,続ける,Continue
+2D4F5D1A,研究ポイントが不足しています。,Not enough research points.
+2D590B9F,一括回収,Collect All
+2D7A15EF,スナップ,Snapshot
+2D82F5BF,テストテキスト,Test Text
+2D993D5A,通常報酬,Standard Rewards
+2DA6A80B,身長：,Height:
+2DADC945,基本ドロップ,Base Drops
+2DBAA02B,TextTextTTextTextTTextTextTTextTextTTextTextT,TextTextTTextTextTTextTextTTextTextTTextTextT
+2DCF02E6,トゥラゴとの決戦,Showdown with Turago
+2DDE3029,継承,Inherit
+2DE328C8,収納,Storage
+2DFD631B,シングル挑戦,Solo Challenge
+2E355F56,後にダンジョンから退出,Until Dungeon Exit
+2E3CA46F,追加効果のプレビュー,Bonus Effect Preview
+2E43DD29,飛行の卵,Flying Egg
+2E5B0973,翠葉の遺跡,Verdant Ruins
+2E6ABF17,カラーセット,Color Set
+2E6CCB96,採集ポイント,Gathering Node
+2ED15420,入居済みのキャラクターのみ表示,Show Residents Only
+2F188614,空白部分を押して続ける,Tap blank space to continue.
+2F34E625,臨時編成,Temporary Party
+2F4AADDD,削除,Delete
+2F5D39D8,一括編成,Quick Formation
+2F9DE167,ペットの名前,Pet Name
+2FA7A132,0,0
+2FAA93F6,索,Rope
+2FC7E1E7,キボスキン,Kibo Skin
+2FCBCE2B,未解放,Locked
+2FE9C5F8,毎日解放,Unlocks Daily
+30438C01,キャラクター/キボを長押ししてドラッグ,Hold and drag a character or Kibo.
+3046D0E9,このエリアにドラッグ,Drag Here
+3046D0E9+1,このエリアにドラッグ,Drag Here
+3046D0E9+2,このエリアにドラッグ,Drag Here
+304F8728,12.0秒,12.0s
+306AD426,キャラクターに贈った家具は、パーソナルスタイルの部屋にのみ配置されます。内装スタイルを切り替えても、家具の配置には影響しません。,Furniture gifted to a character appears only in their Personal Style room. Switching decor styles won't move it.
+306DAFA7,SoulEssence,SoulEssence
+307345BF,韓悠悠,Han Youyou
+307DD9D6,未達成,Incomplete
+30ACC1AC,"'MAX
+
+
+'","'MAX
+
+
+'"
+30CF3873,派遣へ,Go to Dispatch
+30E2A471,ゲーム内で星臨者の外見を変更できます,Change the Starborn's appearance in-game.
+31878984,再挑戦,Retry
+31A24A4E,ランクMAX,Rank MAX
+31FF4649,［長押し］,[Hold]
+31FFB42A,10分以内に敵の領域を占領する,Capture enemy territory within 10 minutes.
+320A2EC8,プロローグを開始,Start Prologue
+32492232,製粉所,Flour Mill
+326EB494,必要な素材：,Materials Required:
+3272E9B8,EAR,EAR
+32775B30,防御,DEF
+328DF2CC,マイプラン,My Plans
+32A8E000,経験値,XP
+32C189C3,餌やりを実行,Feed
+32C65D8D,タイトル,Title
+32F7EEE2,Ctrl,Ctrl
+33166A1C,釣れる可能性がある魚,Possible Fish
+3316F0D0,おやつ袋,Treat Bag
+336F2AA3,基本ドロップ：,Base Drops:
+33781E80,攻撃,Attack
+33785D7C,最高品質に達しています。,Already at max quality.
+338A5373,会心率 + 5%,CRIT Rate +5%
+33A7413C,L-SHIFT,L-SHIFT
+33AAE204,挑戦開始,Start Challenge
+33B86C56,材料を渡す,Hand Over Materials
+33CB7365,KIBONAME,KIBONAME
+3429D62D,入居中,Occupied
+3466D5F4,長押し,Hold
+348148D6,農園内の建築,Farm Buildings
+3492C08A,マップ難易度,Map Difficulty
+34BCD12A,【未定】,[To Be Decided]
+34CE201C,おまけ,Bonus
+34E47D7E,操作,Controls
+34FDD324,キボ追従,Kibo Follow
+35242CFF,普通,Normal
+35252179,<size=25>40</size><size=21>/60</size>,<size=25>40</size><size=21>/60</size>
+352B54CB,必要人数：1/3,Players Needed: 1/3
+355732F9,111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111,111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+35672762,ignoreリセット,ignore Reset
+3576BFB4,キャラクターのおやつ袋,Character Treat Bag
+359C4525,おすすめの装飾,Recommended Decor
+35A03D01,この種類の手紙はまだありません,No mail of this type yet.
+35A47F89,お別れを確認,Confirm Parting
+35B817FB,星座研究所,Constellation Lab
+3631FEBB,テストテキスト,Test Text
+36402C15,ボイスパック管理,Manage Voice Packs
+368455AC,召喚,Summon
+36E27871,天賦スキルをまだ獲得していません。,Talent Skill not yet obtained.
+36E387A1,美しい旋律,Beautiful Melody
+36E9EBB8,チームに残る,Stay in Party
+36FB998C,テストテキスト,Test Text
+3711B0A8,お気に入り登録,Add to Favorites
+371A6D47,星脈の活性度を上げますか？今回はクールタイムが発生しません,Increase Star Vessel activity? There will be no cooldown this time.
+37361B6B,お気に入りスタンプ,Favorite Stamps
+3736731F,関連コンテンツはまだ登録されていません,No related content yet.
+3739A1F5,今週の在庫：20/111,Weekly Stock: 20/111
+3752ABF9,編集を終了,Stop Editing
+37A3D1BF,プロミリアとの出会いに感謝を,Thank you for discovering Promilia
+37AD60BC,体型,Body Type
+37B80949,ステージ切り替え,Switch Stage
+37BE5A59,HP,HP
+37F465AD,ターゲットを確認,Confirm Target
+37F623D5,ボス,Boss
+37FDC56E,CRYSTAL,CRYSTAL
+3812FCB5,スキルレベルアップ,Level Up Skill
+38544E93,好みのスタイルを選択してください,Choose a style you like.
+38684612,1x,1x
+38C86621,畑仕事モード終了,Exit Farming Mode
+38CE27D8,次へ,Next
+38CF16F2,確定,Confirm
+3902EE7E,WRONG,WRONG
+3941B255,芽吹の谷1区で魚を100匹釣ると解放,Catch 100 fish in Sprout Valley Zone 1 to unlock.
+394520BC,照明設定,Lighting Settings
+39459F87,54秒,54s
+396BC9F1,ロールが<color=#ff8c04>[増幅]</color>のキャラクターに有効,Applies to <color=#ff8c04>[Amplify]</color> characters.
+398B7EF0,プレイヤー同士の1対1対戦,1v1 PvP
+39996C7B,星識レベルが<color=#ffa200>20</color>に達すると、レベル上限を解放できます,Reach Star Sense Lv. <color=#ffa200>20</color> to raise the level cap.
+39CB8693,探索記録をあと1つ解放すると、次の段階の報酬を獲得できます,Unlock 1 more Exploration Log entry to earn the next tier's rewards.
+39F39A4F,装備中,Equipped
+3A3EA00C,E,E
+3A5D8E29,ステートマシン,State Machine
+3A723A09,スタンドパネルの外見を確定,Confirm Stand Panel Look
+3A84B850,CHAPTER.3,CHAPTER.3
+3A9CB790,レベルアップ報酬,Level-Up Rewards
+3AB24C01,- S E N T -',- S E N T -'
+3AD2CBA2,マッチングキャンセル,Cancel Matchmaking
+3B415FBA,1111111111111111111111111111111111111111111111111111111111111111111111111111111111111,1111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+3B8EB3C9,同意済み,Agreed
+3BA63F04,水属性ダメージ増幅,Water DMG Amp
+3BB840EB,常設イベント,Permanent Event
+3BBA4DF2,味方のキボを編集,Edit Allied Kibo
+3BC5E602,メールボックス,Mailbox
+3BD4D771,現在のスターリンクボーナス合計,Total Star Link Bonus
+3BD62A09,スタミナポーション,Stamina Potion
+3BD89BBC,星識レベル,Star Sense Level
+3BDD08AD,説明,Description
+3BDE446E,ランダム,Random
+3C3E3F77,ステージをランダム選択中……,Choosing a random stage...
+3C44AAEC,一括受取,Claim All
+3C4A54B4,タップして投げ直す,Tap to throw again.
+3C571801,キャバードのみ出撃可能、この文章は非常に長くなる可能性があります,Cabbird only. This text may get very long.
+3C5A5EAC,キーでキャンセル,Press key to cancel
+3C64FDD0,遭遇する可能性がある敵,Possible Enemies
+3C840F45,おすすめカラー,Recommended Colors
+3C9ED76C,ほしいアイテム,Wanted Items
+3CEC1FD7,受け取れる残りの報酬,Unclaimed Rewards
+3D03989C,ボーナス,Bonus
+3D4545D5,精算して退出,Claim and Exit
+3D5A3D5D,普通以上の彫像数は15個未満,Fewer than 15 statues of Normal quality or higher
+3D6CF024,80レベルで解放。10体の敵に、1ヒットごとに210%のダメージを与える。最大持続時間は8秒。持続時間と,Unlocks at Lv. 80. Deals 210% DMG per hit to 10 enemies. Lasts up to 8s. Duration and...
+3D720502,離脱中,Leaving
+3D904D5B,初対面Ⅱ,First Meeting II
+3DE44296,COMPLETE,COMPLETE
+3E13DAD9,名前を変更,Rename
+3E18A0E5,再度準備を呼びかけるまで：{0},Next ready check in: {0}
+3E4382B2,HP,HP
+3E46F4B1,採集上限に達しました。早めにお受け取りください。,Gathering cap reached. Claim soon.
+3E4D71B0,ライト,Light
+3E4E5A8B,レベル3で解放,Unlocks at Lv. 3
+3EA36AD6,チャットを削除,Delete Chat
+3EB737ED,ガチャの種類,Banner Type
+3EBF595B,都市の吟遊詩人,City Bard
+3EC70002,MVP,MVP
+3EDDDD85,日,Day
+3EFBD3F5,キャラクターの満腹度自動回復設定,Character Auto-Feed Settings
+3EFC50E5,ステータス,Stats
+3F256E10,難易度,Difficulty
+3F51EF0E,巣穴キボとスターリンクする,Star-Link with a burrow Kibo
+3F739504,BATTLE  SKILL,BATTLE  SKILL
+3F89C982,移動方法,How to Move
+3F981012,推奨,Recommended
+3F981012+1,推奨,Recommended
+3F981012+2,推奨,Recommended
+3FB7EA82,AFFECTION,AFFECTION
+3FCB3303,CHIMERA,CHIMERA
+3FE84C08,成,Done
+401EDD87,未,Pending
+405C7EC3,43B1A7​,43B1A7​
+40816F96,凝近を解除,Clear Focus
+408AE2A0,クエストを完了,Complete Quest
+40C77D03,勇敢なサンダーボーイ,Brave Thunderboy
+40D77188,長押しで照準,Hold to Aim
+40E161E2,低品質の素材を優先,Use low-quality materials first
+41128CCE,UP対象が累計2回出なかった場合、3回目は必ずUP対象が出現します。凝近を変更または解除すると、UP対象以外が出た回数はリセットされます。ご注意ください。,Miss the rate-up target twice and the third drop is guaranteed to be the target. Changing or clearing Focus resets the miss count.
+41529076,y,y
+41754CDC,パミーチーム調査報告<其一>,Pammy Team Survey Report (1)
+419A9311,騎乗条件,Mount Requirements
+41A35857,NPCラリー,NPC Rally
+421AAE18,10分以内に目標を倒す,Defeat the target within 10m.
+42280BD9,獲得済み,Obtained
+42442253,キャラクター詳細,Character Details
+424A2AD8,準備,Ready
+425046F9,ZHE          UAN,ZHE          UAN
+426EC9EF,ロールが<color=#FF8C04>[増幅]</color>のキャラクターに有効,Applies to <color=#FF8C04>[Amplify]</color> characters.
+427B10DB,図鑑調査ボーナス,Codex Research Bonus
+427F8FA8,フレンドリスト,Friends
+428FE9A2,闇,Dark
+4296D7D2,高,High
+42AF9F22,TODO_テララ_TODO,TODO_Terara_TODO
+42B79AB1,カスタマイズ：,Customize:
+42FC7BE3,スターリンク成功。押せるキー：,Star Link successful. Available keys:
+4307AE4C,breakignore,breakignore
+4325D9D9,物語,Story
+4325DF71,速度,Speed
+432C31E1,自由作業状態も解除します,Also ends independent work
+434952F4,強化素材,Upgrade Materials
+43AE0999,Perfect！！！,Perfect！！！
+43B510ED,残り,Left
+43B9FF4C,好み,Likes
+43F50BFE,バチッと一閃,Crackling Flash
+43FB3CFD,小屋にキボがいません,No Kibo in Hut
+4403FCA0,除去,Remove
+441DBD37,報酬詳細,Reward Details
+44223574,L O G I N,L O G I N
+442755C8,採集プレビュー,Gathering Preview
+44379DDF,この試練を乗り越えるとは、おめでとう。実に面白い勇者殿だ……,Congratulations on clearing the trial. You're quite the hero...
+446EDB1D,現在のステージの推奨 Lv.70,Recommended: Lv. 70
+4495D174,ノーマル-推奨 Lv.90,Normal - Recommended Lv.90
+44A3D9A4,武器,Weapons
+44BC4384,挑戦目標,Challenge Goal
+44C64570,キャラクターを表示,Show Character
+45038808,モルフォーレを討伐する,Defeat Phantomfly
+451EF422,農園の心得,Farming Mastery
+453144CE,星砂を開く,Open Star Sand
+45802158,GOOD,GOOD
+458458E0,テストテキスト,Test Text
+458CE054,キボ（1番目）,Kibo (1st)
+459A6DEE,伊波杏樹仵良仵,Iha Anju Wuliangwu
+45C9B363,農園のボーナス一覧,Farm Bonuses
+45F4B7EE,MVP報酬：,MVP Rewards:
+4615649D,Lv.31,Lv.31
+4643D26C,敗北！,Defeat!
+464F3D4E,キャラクター,Character
+467E812A,2分30秒,2m 30s
+469EB358,探,Explore
+46A06D23,「人の好みは自由だけど……」,"""Everyone has their own tastes, but..."""
+46B69033,受取可能,Claimable
+46C903F7,ファイトスキル,Fight Skill
+46CCCC09,元素タイプ,Element
+46D8921C,探索完了,Exploration Complete
+46EA56F7,紫雲村評判クエスト交換,Ziyun Village Reputation Quest Exchange
+46FA3A36,テストテキスト,Test Text
+46FED43C,使用できる料理がありません,No food available.
+47479F57,推奨Lv.40,Recommended Lv.40
+477AC285,期間限定コレクション,Limited-Time Collection
+4793B19C,12.31cm,12.31cm
+479DDF18,おすすめ商品,Recommended Items
+47B9A7D1,ランキング情報がありません。,No ranking data.
+47C2CFB7,書籍名,Book Title
+47E01A45,押してメッセージを入力,Press to type a message
+47E0E6E8,捕獲中……,Capturing...
+47E5FCDA,待機列に登録中,Joining queue...
+482687EC,タイトルああタイトル,Title Ah Title
+485298D6,虹色ボタン,Rainbow Button
+487F3949,キャラ数,Character Count
+48A3334B,シャルル村のハンター,Charlulu Village Hunter
+48AC4797,現在,Current
+48AC7DB4,クエストを受注,Accept Quest
+48DF356F,ボイス,Voice
+48E13710,【星虹×500】を消費してスタミナを80購入しますか？,Spend [Starbow x500] for 80 Stamina?
+491DE95D,カメラの動きを遅くする,Slow Camera Movement
+49340FEE,土を長押しすると、土壌効果の詳細を確認できます。,Hold soil to view its effects.
+49384096,BATTLE CLEAR,BATTLE CLEAR
+49468F89,敵を2回吹き飛ばす 2/2,Knock enemies back twice (2/2)
+495204E9,本日の追加報酬残り回数：,Bonus claims left today:
+4978B05A,達成,Achieved
+497A8183,編成中,Setting Up Party
+49950770,ランク,Rank
+49977264,任意の場所をタップして終了,Tap anywhere to exit
+49A34FD1,目標ダンジョンを変更,Change Target Dungeon
+49AB15ED,倉庫がいっぱいです。,Storage is full.
+49DE5EC4,アニマ,Anima
+49E1EC70,クリア報酬：,Clear Rewards:
+49E69BEF,豫州界遺跡,Yuzhou Boundary Ruins
+4A03A012,MOUNT,MOUNT
+4A105634,報告理由を入力してください（最大150文字まで）。,Enter a report reason (150 characters max).
+4A2B3BEF,専用スキル,Exclusive Skill
+4A3350A0,レンズクロップ調整,Adjust Lens Crop
+4A4BA802,星の伝承,Star Lore
+4A5F1B30,推奨属性：,Recommended Element:
+4A697948,キボがいません,No Kibo
+4A7ECE96,装飾,Decorations
+4A9A45EC,素早く押して復活,Tap rapidly to revive.
+4AAD0D9F,0000000000000,0000000000000
+4AB855FB,消費,Cost
+4AF845A4,光,Light
+4B10B4A7,詳細,Details
+4B3EDBB3,プレイヤー名,Player Name
+4B6BF4B5,F3,F3
+4B6DE709,購入へ,Buy
+4B72BBF4,テストテキスト,Test Text
+4B7DFFA2,生産施設がありません,No Production Facilities
+4B9C3271,リセット,Reset
+4BA77D77,この種類のマウントはまだありません,No mounts of this type yet.
+4BCC9A5A,詳細情報,Details
+4BE02EA1,ピックアップに指定するアニマを1つ選ぶ,Choose 1 featured Anima
+4BE8A11E,SE1,SE1
+4BF9675B,一部の職種は、キボに農園施設で生産を行わせることでスコアを上げられます。上限に達すると、それ以上は上げられません。,"For some jobs, Kibo can raise their score by producing goods at farm facilities, up to the cap."
+4C0D361B,脱退済み,Left
+4C18A097,差出人：ひよこちゃん,From: Little Chick
+4C1C24D4,報 酬 獲 得,Reward Obtained
+4C347E95,キャンセル,Cancel
+4C4E41E1,強化,Enhance
+4C6BBD18,難易度説明3,Difficulty Description 3
+4C763BB6,実行,Execute
+4C768B51,すべて削除,Delete All
+4C9BB426,プレフィックス,Prefix
+4CA7731F,クリア,Clear
+4CC6A2F6,収納する,Store
+4CEDCCA7,一括装備,Equip All
+4CFBF646,イベント説明,Event Info
+4D419CA9,使用中,Equipped
+4D4C08B8,マウントの速度,Mount Speed
+4D4DDB12,この場所はまだ解放されていません,This area is still locked.
+4D8D329B,飛雄応援会,Feixiong Fan Club
+4D9EB4C3,販売中の商品はありません。,Nothing for sale.
+4DA83350,マウントの情報,Mount Info
+4E298F0D,ポイントが1000に到達,Reach 1000 points
+4E457BC1,報酬宝箱の受け取りに必要な消費,Cost to claim the reward chest
+4E76B8CA,COOKING,COOKING
+4E7DC6E2,<color=#96F9FF>Esc/空白エリア</color>を押して、入れ替えをキャンセル,Press <color=#96F9FF>Esc or tap blank space</color> to cancel the swap.
+4E7FDC2F,ステッカー,Stickers
+4E806FA5,1行,1 Line
+4EB79819,調理中,Cooking
+4EC4A802,注文者,Customer
+4EE1202B,SNOWDLISUK,SNOWDLISUK
+4EEAF2E4,種まき,Sow Seeds
+4EEF8918,3P,3P
+4EF62A0D,先天因子変異\xB7昇格,Innate Factor Mutation: Upgrade
+4EFE9AA0,バッグ,Bag
+4F199B62,星源の雫,Stardrop
+4F52DF6E,閉鎖中,Closed
+4F6C81E1,任意の場所をタップして閉じる,Tap anywhere to close.
+4FC81AF7,初期獲得祭器,Starting Ritual Items
+4FDCA3CD,本日の追加お別れ報酬は上限に達しました,Today's bonus farewell rewards are capped.
+4FE13612,農園から出る,Leave Farm
+4FEC4119,キボ協力攻撃ignore,Kibo Assist Attack ignore
+501B361A,テストテキスト,Test Text
+50463C86,137.5cm,137.5cm
+504DDFD2,攻撃,Attack
+5054D7BE,+1強化後の効果,Effects at +1
+507986AF,まけて！,Give me a discount!
+509DE84B,冒険マップ,Adventure Map
+50A7D478,破片を使用してキャラクターのHPを100%回復する,Use shards to fully heal the character.
+50B365AF,召喚待機列,Summon Queue
+50FF7190,月・水・木曜日に解放,"Opens Mon, Wed, Thu"
+5140A73F,壁掛け家具,Wall Furniture
+51B3262D,狼撃の力,Wolfstrike Power
+51BD3D9A,ごく少量の満月草を香辛料に使った焼き魚。満月草は魚の生臭さを抑え、サクサクとした焼き魚に森のようなみずみずしい香りを添える。,Crisp grilled fish spiced with a pinch of Full Moon Grass. The herb cuts the fishy smell and adds a fresh forest scent.
+5206560A,V,V
+522ADF0B,得点+20%,Score +20%
+5242C6EA,"のこぎり台はレベル2までアップグレード可能
+さらに多くの木材を生産できます。","Upgrade the Sawbench to Lv. 2
+to produce more lumber."
+5289492C,WORLD,WORLD
+529820EF,LEVEL UP,LEVEL UP
+529B7D4A,チームメンバーが演出のスキップを要求しています。,A party member wants to skip the cutscene.
+52AAFF87,主な敵,Main Enemies
+52AE9C03,アニマ名,Anima Name
+52D7F0DE,報酬条件,Reward Requirements
+52DD9C3D,謎のタマゴ,Mystery Egg
+531401AC,変更する,Change
+532A9A6C,装備スコア：83,Gear Score: 83
+534B9318,獲得可能,Available
+53522826,ステージ詳細,Stage Details
+53534573,お得,Great Deal
+53594A93,SSR 魁墨,SSR Kuimo
+53A728FC,装着者がいません,No wearer
+53C8711C,追跡する,Track
+53E4BE9B,はやく会いたいなあ、いつ帰ってくるの？,I miss you! When will you be back?
+54105BDD,X2,X2
+54222BA7,必要なアイテムを投入してください。,Add the required items.
+548B3EDC,キボに切り替え,Switch to Kibo
+54907A09,入れる,Add
+54979806,アニマを指定する必要はありません,No need to select an Anima.
+549F35A5,ランダムをキャンセル,Cancel Random
+54A08493,1/500,1/500
+54B464DE,パック内容,Pack Contents
+54D4899C,"素材を回収場所に納品すると、注文報酬を獲得できます。納品する素材が多いほど、農園コインも多く獲得できます。
+1日に何度でも納品できます。","Deliver materials at the drop-off to claim order rewards. More materials earn more Farm Coins.
+Deliver as often as you like each day."
+54DADEE4,合計50点に到達,Reach a total of 50 points
+54DC9AE9,チームメンバーの承認を待っています。,Waiting for party approval.
+54E63F84,分解,Salvage
+5510FD2C,\xB7本日未解放\xB7,- Locked Today -
+5513149D,図鑑選択,Select Index
+551E964A,キボファイトを開始,Start Kibo Duel
+551F2862,クールタイム：1日1時間20秒,Cooldown: 1d 1h 20s
+55256A45,PERSONALIZED SIGNATURE,PERSONALIZED SIGNATURE
+5526D60F,Del,Del
+554C2B5D,自動戦闘解放,Auto-Battle Unlocked
+554C2B5D+1,自動戦闘解放,Auto-Battle Unlocked
+55B1325E,動作ツリーの名前,Action Tree Name
+55DF3C44,シリーズ報酬,Series Rewards
+55E82833,試練スコア,Trial Score
+55ECEF3F,畑仕事モード,Farming Mode
+55FE149C,霹靂一閃、霹靂一閃,"Thunder Flash, Thunder Flash"
+5623D539,装備中,Equipped
+5642EFEA,ボーナス,Bonus
+56439B10,単独行動,Go Solo
+568D666F,クリア後に獲得できるポイント,Points earned on clear
+569B7AD4,今期のバフ,Season Buff
+56A91793,確定後は変更できません。慎重に入力してください,You can't change this after confirming. Enter it carefully.
+56B11F17,巡回冒険,Patrol Adventure
+56DFF65F,倉庫がいっぱいです。,Storage is full.
+56F098DA,MI_MI_リーフカッター,MI_MI_LeafCutter
+571E39B1,左クリックまたはFキーを押して彫像を配置,Left-click or press F to place the statue.
+571FDDAB,ノリノリヒヨッコ,Groovy Chick
+5736F9F2,ペア演出,Paired Emote
+5746164E,自分を表示,Show Self
+5762BC05,収穫の星語Lv.1：【穀物類】の種をまくとき、10%の確率で種を消費しない。,Harvest Star Words Lv. 1: [Grain] seeds have a 10% chance not to be consumed when sown.
+57CEC413,Y,Y
+57EE1BDD,マンドラゴラ,Mandrake
+57F61957,キャラクター,Character
+58184921,x50,x50
+58ED1F3F,ロロリの雑貨屋,Lorori's General Store
+590D8B17,挑戦,Challenge
+5923AE0F,無料で入手,Get for Free
+5924BCC9,異変,Anomaly
+5925671C,現在のメインストーリークエストをすべて完了しました。,You've completed all current main quests.
+59277A97,キャラクターリセット,Reset Character
+592CCA19,終了して精算しますか？,End and settle up?
+594E5DFB,農園コイン獲得上限200/1000,Farm Coin Cap: 200/1000
+5953D488,スキルレベル,Skill Level
+59559983,キャラクターの火属性防御+30%,Character Fire DEF +30%
+59819A60,出撃,Deploy
+5992F712,新しいニックネームを入力,Enter new nickname
+599743C3,シンフォーリア,Symphoria
+599B5A32,合計,Total
+59A318F4,食べる,Eat
+59C15455,招待済み,Invited
+59CF15FE,テンプレート,Template
+59D29A36,フレンド,Friend
+59FCBAEB,－未獲得－,-Not Obtained-
+5A0759BD,MISS,MISS
+5A0A70CC,テンプレートリスト,Templates
+5A1EB4C4,一緒にプレイする相手がいません,No one to play with.
+5A304CCA,比較表示,Compare
+5A35D2B6,フレンドを削除,Remove Friend
+5A490934,原石,Rough Gem
+5AC1D5B1,電光一閃,Lightning Flash
+5AC2011A,諦める,Give Up
+5AD40B43,行商バッグ,Peddling Bag
+5AD7F5A8,結果,Results
+5ADB993A,トークン獲得：,Tokens Earned:
+5AE2655A,フレンド申請：100/100,Friend Requests: 100/100
+5B15240B,Lv.2,Lv.2
+5B31853A,最短距離,Shortest Distance
+5B37D08A,リソース消費,Resource Cost
+5B3989C1,GIFT,GIFT
+5B429538,JIEMMI,JIEMMI
+5B48DBB8,詳細確認,View Details
+5B65C30A,（次回の購入には星虹80個が必要）,(Next purchase costs 80 Starbows.)
+5B6CE216,探索度,Exploration Progress
+5C00308B,毎秒、現在HPの10%分のダメージを与え、さらに闇属性ダメージ+35%を付与する。,Deals 10% of current HP as DMG per second and grants +35% Dark DMG.
+5C1E16E0,空室,Vacant
+5C380FA5,討伐\xB7ギガンシャウラ,Hunt Giganshaula
+5C532DED,孵化プレビュー,Hatch Preview
+5C6BA251,TAB,TAB
+5C980C4F,カメラ,Camera
+5CA6F705,BATTLEFAILED,BATTLEFAILED
+5CBB5613,最高突破,Highest Milestone
+5D066CAE,キャラクターは万全の状態です。,The character is in top shape.
+5D097238,ロジニア連邦,Roginia Federation
+5D4FC8C2,KIBO,KIBO
+5D5721F2,30ポイント,30 Points
+5DA6E347,/ RACE,/ RACE
+5DB39EC2,ポイントの合計が240に達するとレベルアップ可能,Level up at 240 total points.
+5DBC98DC,S,S
+5DD3BCC3,長押しして回転,Hold to rotate.
+5E17A630,必要レベルに達していません,Required level not reached.
+5E60E335,昨日の総収入,Yesterday's Total Income
+5E61E0DE,ドングリ日誌,Acorn Log
+5E628A5A,キボ小屋内で2体の位置を入れ替えます。,Swap two Kibo in the hut.
+5E68152D,GENE  SKILL,GENE  SKILL
+5E8C25F6,チームを作成しました。,Party created.
+5EC5B42F,烈火の翼,Wings of Blazing Fire
+5ED4CA07,電撃ヒヨッコ,Shock Chick
+5EE4E911,テストテキスト,Test Text
+5EF1913B,革張りの手帳。仲間に贈ると好感度がアップする。革張りの手帳。,A leather-bound notebook. Give it to a companion to raise Affinity. A leather-bound notebook.
+5F0C0BF3,維持,Maintain
+5F0F7BEF,（上限に達しています）,(Cap reached)
+5F411223,戻る,Back
+5F445AF0,ステータスボーナス一覧,Stat Bonuses
+5F510057,ランク,Rank
+5F579FA2,昇格,Promote
+5F61D5EB,残り交換時間：,Exchange Time Left:
+5FD1CB10,星辞\xB7星Ⅰ,Star Verse: Star I
+6007945A,物語の展開を選択,Choose Story Branch
+60233828,向かう,Go
+603744F7,床置き家具,Floor Furniture
+606414BF,1.0秒,1.0s
+6071D521,職種評価,Job Rating
+607E7A4F,確認する,View
+609AF7DE,キボの食堂,Kibo Dining Hall
+60B5383C,今月の購入上限：200,Monthly Purchase Limit: 200
+60B633FA,嬉しい,Happy
+60D4E190,表情,Expression
+60EAFE6C,リーダー,Leader
+60F0249F,現在の入居状況,Current Occupancy
+611C92E7,報酬を精算して退出,Claim Rewards and Leave
+613EAF7A,Azur Promilia,Azur Promilia
+616732F3,新たな特性を解放！,New trait unlocked!
+6176499F,[TARGET]に使用,Use on [TARGET]
+61B3D772,自己紹介,About Me
+61BB84B0,完全に育てるために必要な水の量,Water to Full Growth
+61E219D4,討伐戦,Hunt
+6200E7E2,DIVIDING LINE,DIVIDING LINE
+6219AC2A,肌,Skin
+6220C5D3,レアリティの高い種を優先して蒔く,Sow rare seeds first
+623161BA,見た目は普通で、水に浸かって傷んでもいない缶詰。こじ開ければ食べられなくもない。形も味も缶詰そのもの。これが缶詰でなくて何だというのだろう。,The can looks ordinary and water hasn't spoiled it. Pry it open and it's edible. It looks and tastes like canned food. What else could it be?
+623D6020,I     N     T     E     R     R     U     P     T     T     E     D,I     N     T     E     R     R     U     P     T     T     E     D
+62507462,耳,Ears
+625FB26B,キャンセル,Cancel
+625FB26B+1,キャンセル,Cancel
+625FB26B+2,キャンセル,Cancel
+6265E221,メロウミーミーミーミーミーミーミーミーミーミーミーミーミー,Mellowmee-mee-mee-mee-mee-mee-mee-mee-mee-mee-mee-mee-mee
+62B5A6F9,建築レベル3で解放,Unlocks at Building Lv. 3
+63225F19,SELECT,SELECT
+632F7505,ダンジョンで入手,Obtained in Dungeons
+63442D5A,広告詐欺,False Advertising
+6351AEFD,ESC,ESC
+63BB9710,右目,Right Eye
+63BD26BF,テストテキスト,Test Text
+63D1E03B,装備ダンジョン,Gear Dungeon
+63E19308,塔を登る,Climb the Tower
+641BE1B1,飼いならされたヒヨッコ,Tamed Chick
+642817A2,装備,Equip
+643C5526,Lv.4,Lv.4
+644DF784,キボを絞り込む,Filter Kibo
+6461230C,ATTRIBUTE,ATTRIBUTE
+64807B72,農園レベルアップ！,Farm level up!
+648CBD11,リストに追加,Add to List
+64A2AABB,セット効果：蝶の語らい,Set Effect: Butterfly Talk
+64D4B409,星啓の祝福,Star Revelation Blessing
+64EF38EC,RANK UP,RANK UP
+6506AE39,Space,Space
+6565793C,報酬の受け取りに必要な消費,Spend to Claim:
+65787673,キボのレベル上限Lv.50と突破レベルIIIを解放し、キボの異文を追加,"Unlocks Kibo Lv. 50 and Limit Break III, and adds a Kibo Variant."
+6590C140,職人の心得,Artisan Mastery
+659130CA,Lv.35,Lv.35
+65ABC90C,初級大麦の種,Basic Barley Seeds
+65AD96DA,雷,Lightning
+65EBF66E,INFORMA   SKILL,INFORMA   SKILL
+65EF8215,序章・第一幕,Prologue: Act I
+65F28455,前提ステージをクリアすると解放,Clear the prerequisite stage to unlock.
+66382D5F,キボを派遣すると採集を開始します,Dispatch Kibo to start gathering.
+668C5922,SKILL,SKILL
+66987EBA,キボ因子,Kibo Factor
+66A46291,キャラクターをレベルアップ,Level Up Character
+66C26D2C,シリーズ報酬をすべて獲得すると入手可能,Obtain all series rewards to unlock.
+66CC12E3,Ⅱ,Ⅱ
+66ED9B0B,"午後の森、木漏れ日はノノの一番好きな宝物のように、キラキラしている。
+ノノが見ている夢も、きっと同じだろう","Afternoon sunlight sparkles through the forest canopy like Nono's favorite treasure.
+I bet Nono's dreams sparkle just like it."
+6701C752,残り時間：12:20:22,Time Left: 12:20:22
+670E461B,"CMDを
+実行","Run
+CMD"
+672AD2DF,モンスター操作,Monster Controls
+6738E240,INSTITUTE,INSTITUTE
+67930F4A,テストテキスト,Test Text
+67A3B8E1,ニックネームは7日に1回変更できます,Change your nickname once every 7 days.
+67D016C3,初勝利報酬,First Win Rewards
+67D4508D,消費済み,Spent
+680CBDEA,騎乗タイプ,Mount Type
+681CA616,レッドフレイム神器使いセット（2/5）,Red Flame Divine Gear Wielder Set (2/5)
+6843C1F0,授与,Award
+684E218A,第Ⅰ段階,Tier I
+6853FD9F,リズム音の再生調整,Adjust Rhythm Sound Playback
+6872C85B,キャバードを20体捕獲（10/20）,Catch 20 Cabbird (10/20)
+687A7E7F,読む,Read
+688C9A5F,ステージ内容を動的に追加,Add stage content dynamically
+68905CF3,オンライン,Online
+68A31BD0,群狼の力,Pack Strength
+68B14D6B,産出,Production
+68B6C810,完了,Complete
+68E5696C,APPVER:',APPVER:'
+68E69347,~作成~,~Create~
+68F414A8,"毎年恒例のフリスアマチュア低木剪定コンテストが予定通り開催されたが、今回は驚くべき出来事が起きた。駆け出しの新人記者である筆者にとって、この天から降ってきたようなスクープはまさに天からの恵みであり、筆者はフォローグが餌に飛びつくように、跳ねるように現場へ駆けつけた。
+ロージア帝国から来たパルムさんは、友人に誘われて今回のコンテストに参加し、作品『完璧な四角』で歴代最高得点を獲得し優勝を果たした。しかし祝福すべきだったその瞬間、彼は受賞直後、園芸ハサミを手に、二位作品の前に突進した。たった三回の剪定で、二位作品『踊る小桃』が『つるつるの小玉』と化し、すべての枝が切り落とされ、低木は真ん丸な球体になってしまった。
+結果、パルムさんは他者作品への故意の破壊行為により、出場資格と優勝資格が剥奪された。
+大会後、本人にその動機を尋ねると、実はちょっと神経質で……と答えてくれた。
+「友人に誘われて出場したんだ。『あれを四角に刈ればユニが稼げる』と言われた。そう難しくないからすぐに終わったけど、隣の人が切ったものがね、どうしても我慢できなくて。余計な枝を見てモヤモヤしないのか？ああ、こっちは冷や汗が止まらないほど不快だった……」
+「黙れ！」
+インタビューの合間に、『踊る小桃』の作者が駆け寄ってきて、
+「あれは小玉じゃなくて小桃だ！あの枝も余分なものじゃない！小桃の触手を抽象的に表現したものなんだ！」
+激しい言い争いに、周囲のほかの選手とコンテストを見に来た観客たちが次々と振り返った。おっと、また殴り合いが始まったようだ。これなら次号のネタには困らなそうだ。
+とにかく、優勝は実質三位だった――フリス在住の少年ポールに決定した。彼の作品は『燃ゆる芸術』と題されて、非常に独創的で園芸ハサミを使わず、炎で低木を剪定するという手法で作り上げたもの。青々と茂った低木に点在する焦げ跡は、炎の中で植物が引き裂かれた傷跡で、傷と共に上へ伸びる残された枝葉は、不屈の生命力を示し、見る者に強い衝撃を与えた。この作品はまさに、成長の痛みを最も具体的に表現したものだ。","The annual Fleece amateur pruning contest went ahead as planned, until something extraordinary happened. For a rookie reporter like me, the scoop was a gift from above. I flew to the scene like a Followg pouncing on bait.
+Palm, from the Rosia Empire, entered at a friend's urging and won with a record score for ""Perfect Square."" The moment he got his prize, he rushed at the runner-up's entry with his shears. Three snips turned ""Dancing Chimomo"" into ""Smooth Little Ball."" Every branch was gone. The shrub was a perfect sphere.
+Palm was disqualified and stripped of his win for deliberately damaging another entry.
+Afterward, I asked why. He said he was a little particular...
+""My friend talked me into it. Said I could earn some Uni if I clipped it into a square. Easy enough, so I finished fast. But I couldn't stand what the person next to me had made. Doesn't seeing branches sticking out bother you? It got so bad I broke out in a cold sweat...""
+""Shut up!""
+The creator of ""Dancing Chimomo"" rushed over mid-interview.
+""It's a Chimomo, not a ball! Those branches aren't extra! They're an abstract rendering of its tentacles!""
+Contestants and spectators turned to watch the shouting. Oops, they're throwing punches again. Looks like my next issue is sorted.
+In any case, the winner was the original third-place finisher, a boy from Fleece named Paul. His inventive ""Art in Flames"" used fire instead of shears to prune the shrub. Scorched patches in lush green marked where the flames tore the plant apart. The branches and leaves that survived reached up, scars and all, a striking display of life's resilience. It captured the pain of growth in a form you could see."
+68F9741E,職種\xB7伐採,Job·Logging
+692E6C27,孵化中,Hatching
+69469F64,キボファイトのマッチングを1回行い、さらにキボファイトのマッチングを1回行う,Matchmake twice in Kibo Duel.
+694F2B6C,装備推奨,Recommended Gear
+694FC5EF,更新,Refresh
+695C5F31,キボのレベル上限Lv.50を解放可能、突破レベルⅢを解放可能、キボの異文2を追加,"Unlocks Kibo Lv. 50 and Limit Break III, and adds 2 Kibo Variants."
+6971210B,陸地,Land
+697674CC,獲得済みの幻器はありません。,No Phantom Gear obtained.
+699143B1,スキル,Skills
+69D00534,牧場ポイント,Ranch Points
+69D2660B,おすすめ,Recommended
+69F2CB34,風,Wind
+69FA973D,必修旅録\xB7序,Required Travel Log\xB7Prologue
+6A078DE1,ログイン,Log In
+6A131121,2日24時間後に更新されます。,Refreshes in 2d 24h.
+6A217A0F,－空白部分をタップして続ける－,- Tap an empty area to continue -
+6A4ED3A1,生産アイテム,Products
+6A607FEF,CLUE,CLUE
+6A68DF83,翌日22:00,"Next day, 22:00"
+6A7BBDD6,噂,Rumors
+6A813BF3,星祝レベルが16になると解放,Unlocks at Star Blessing Lv. 16
+6A9C3051,集会所のクエストボード,Gathering Hall Quest Board
+6ABE2A0A,現在の時刻：,Current Time:
+6AF6577A,"村長がくれた誕生祭のチケット。
+使用すると誕生祭の入場回数を1回増やすことができる。","A festival ticket from the Village Chief.
+Grants one extra festival entry."
+6B00AAB2,農業研究,Farming Research
+6B17E865,探索II,Exploration II
+6B2ADD13,セット効果,Set Effect
+6B3434D6,以上の機能のキー配置が競合しています。システムが自動で切り替えますが、よろしいですか？,These keybinds conflict. Swap them automatically?
+6B36C6F7,色,Color
+6B3F2CA7,ステータス上昇！,Stats increased!
+6B820DA4,キボをレベルアップ,Level Up Kibo
+6BA73B4D,1回プレゼント,Gift Once
+6BBB9743,クールタイム,Cooldown
+6BE3D90A,アニマ分解,Salvage Anima
+6BE5A172,コンテンツ起動,Launch Content
+6BF9679A,キャバード大集合,Cabbird Gathering
+6BFFD61D,必要数：,Required:
+6C2358F0,遠吠え平原,Wolfhowl Plains
+6C2B80E7,テストテキスト,Test Text
+6C538458,敵の英雄を編集,Edit Enemy Heroes
+6C619074,【未定】,[To Be Decided]
+6CCA3ED1,敵に100回ヒットすると発動：地面に攻撃目標を召喚し、範囲内の目標に攻撃力の160%の同調強度ダメージを与える。クールタイム4秒。,"After landing 100 hits on enemies, summons a target on the ground and deals 160% ATK as Sync Strength DMG in the area. Cooldown: 4s."
+6CE2F90B,ボス補正,Boss Modifier
+6D21850B,やめておく,Cancel
+6D4C3F55,今シーズン残り,Season Time Left
+6D64CD53,報酬一覧,Rewards
+6D7B2B81,獲得可能報酬,Available Rewards
+6D8B227B,旅の記録（選択履修）,Travel Log (Elective)
+6DBF9AC2,x1,x1
+6DE3BF42,氷封の群島の製油！！,Frozen Isles Oil Refining!!
+6E222828,超限体,Overlimit Form
+6E2A4E6F,の空間と本と,Space and Books of
+6E866839,<color=#FF7E6D>0</color>/5,<color=#FF7E6D>0</color>/5
+6E94F4A8,採鉱場に派遣すると、鉱石の採掘時間が5%短縮されます。,Dispatch to a mine to reduce ore mining time by 5%.
+6EA1FE6B,基本情報,Basic Info
+6ED0C840,青色のキボ,Blue Kibo
+6ED5F102,PROMELIAN CHIPO DRIVEN'S LICENSE,PROMELIAN CHIPO DRIVEN'S LICENSE
+6EEE24D7,風味の説明,Flavor Notes
+6F1FB768,生産施設がありません,No Production Facilities
+6F2197F4,HOME LEVEL UP,HOME LEVEL UP
+6F4922F4,18,18
+6F4FB3FF,111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111,111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+6F5AF718,待機,Stand By
+6F66D5FE,初回無料受取,Claim Free Once
+6F7765E1,アンバーパインの試練\xB7上級,Amberpine Trial: Advanced
+6F8E7B9D,ぷんぷん,Angry
+6F8F5771,m,m
+6F912673,装備,Equip
+6FC07888,Lv.4,Lv.4
+701A03C0,現在のスコア,Current Score
+7022DAFB,モルフォーレ,Phantomfly
+7061ECFE,出撃キャラクター,Deployed Characters
+706B026C,おなかぺこぺこ,Starving
+70911086,追跡中,Tracking
+70CEB8FD,固有演出,Unique Animation
+70CF0AA4,押す,Press
+711E04CF,--------背景切替--------,--------Switch Background--------
+7173F809,拒否,Decline
+719170D2,星砂の祈願地,Star Sand Shrine
+71B45B34,変異は元に戻せません。慎重に選択してください。,Mutations are permanent. Choose carefully.
+71CDB6F4,現在未装備,Not Equipped
+71E94559,Lv.2,Lv.2
+71EAFE4F,現在のエリア,Current Area
+71F266CD,遊歴回数が上限まで回復：,Patrol Attempts Refill In:
+7211E045,ステータス,Stats
+722188B8,農園,Farm
+7229ECC6,回,Times
+7232D42C,種の管理,Manage Seeds
+7281B5A3,スターリンク不可,Can't Star-Link
+72BB9785,【金麦】の種をまくとき、15%の確率で種を消費しない。,[Golden Wheat] seeds have a 15% chance not to be consumed when sown.
+72C8A2A6,Lv.,Lv.
+72D57E23,本日の上限：,Daily Limit:
+730CE646,現在の装備,Current Gear
+73194F2C,セットステータス,Set Stats
+73256308,成長,Growth
+732A0248,<color=#FFA6A6>86012</color>,<color=#FFA6A6>86012</color>
+73325CAD,MAX,MAX
+7335D235,左右にドラッグして時間を調整,Drag left or right to adjust time.
+7347CFEC,ボーナス一覧,Bonuses
+735DE487,生態記録,Ecology Log
+7379C919,ロール,Role
+737BC316,プロミリア・キボ騎乗才能,Promilia Kibo Riding Talent
+73D470FA,青銅のセット,Bronze Set
+73E82552,ターゲット,Target
+7413E872,Lv.3,Lv.3
+741ACC93,一時停止中,Paused
+742104EC,精錬,Refine
+742B869E,フレンド申請,Friend Request
+743B3C3E,居心地Lv.？,Comfort Lv.?
+743D1ECF,動作ツリー,Action Tree
+74590F30,消費：,Consumption:
+745FE23C,A BLACK SPACE,A BLACK SPACE
+7475871F,N0.22,N0.22
+747E9276,彫像を下ろす,Put Down Statue
+74882600,テストテキスト,Test Text
+74AFE095,星の躍動,Dance of the Stars
+74DECD73,指定,Assign
+750E576C,御霊の試練,Elder Spirit Trial
+7533EFC2,背部,Back
+7536BA42,TIME:',TIME:'
+7547C4A4,通常攻撃の3段目で範囲火炎ダメージを与え、命中した対象に燃焼効果を付与する。対象は毎秒攻撃力の30%のダメージを受ける（8秒間）。,"The third basic attack deals area Fire DMG and inflicts Burn, dealing 30% ATK as DMG per second for 8s."
+757F1AB3,設定へ,Go to Settings
+758520CB,ALLIY MISSION,ALLIY MISSION
+758853CD,プロフィールカード,Profile Card
+75E99A72,追加能力,Bonus Ability
+75F0FA96,いいね,Like
+7653679B,Sun.,Sun.
+7657985E,所持数：20,Owned: 20
+768F7413,メーツァ,Metsa
+769B653D,採集報酬,Gathering Rewards
+769D88E4,完了,Complete
+76A3B7C5,覚醒中,Awakening
+76DF7122,おはようございます。新しい手紙が届いていますよ！,Good morning! You have new mail.
+76E79061,受け取らない,Don't Claim
+771FF602,レア,Rare
+77303174,紫品質以下,Purple Quality or Lower
+774E1765,交換,Exchange
+7767A38E,過去最高：,Best Record:
+777EDEF2,火\xB7雷神,Fire: Thunder God
+77A390AF,農業の心得,Farming Mastery
+77A9B5BA,育成ルート,Training Path
+77ABD210,テンプレートとして保存,Save as Template
+78118F5A,芽吹の谷-探索完了,Sprout Valley: Exploration Complete
+78135100,胸部,Chest
+781FD5F9,クエスト,Quests
+78391B5D,キボの満腹度+800,Kibo Fullness +800
+785ECAB6,成長後：,After Growth:
+786CCB51,募集情報を公開,Post Recruitment
+78720FED,キボレベルアップ,Kibo Level Up
+787B5677,性別,Gender
+787C9A8E,"'E
+
+
+'","'E
+
+
+'"
+789A9E7F,採集の心得,Gathering Mastery
+78B41BD8,職種経験値なし,No Job EXP
+78BF126A,装備中,Equipped
+78BF126A+1,装備中,Equipped
+78C72C14,該当書籍なし,No matching books.
+78FA8E77,同種の素材がありません,No materials of the same type.
+78FE203E,推奨Lv.1000000000,Recommended Lv.1000000000
+79083224,推奨レベル：,Recommended Level: 
+790E02E7,星識レベル10が必要,Requires Star Sense Lv. 10
+792FD9E4,Lv.60に到達すると成長できます。,Growth unlocks at Lv. 60.
+7948834E,1回の生産上限：5,Max per Batch: 5
+795DDD0E,まだ装備を装着していません。,No gear equipped.
+7972C147,皮革の手帳,Leather Notebook
+7981F150,ピックアップ対象,Rate-Up Characters
+798919DE,孤狼,Lone Wolf
+799E0C1D,キャラクターのレベル上限,Character Level Cap
+79AAF225,ボーナス,Bonuses
+79B5A656,回転,Rotate
+7A3D76DE,自由の輝き,Light of Freedom
+7A59753D,テストテキスト,Test Text
+7A771F26,テストテキスト,Test Text
+7A8D3F35,謎の手紙,Mysterious Letter
+7A8FC325,目のメインカラー,Primary Eye Color
+7ACAA29D,お別れしたいキボを選択してください。,Select the Kibo to say goodbye to.
+7AD406D2,「ひげ」を2個集める,"Collect 2 ""Whiskers"""
+7B00C38F,パーティ参加申請,Request to Join Party
+7B385D02,走る,Run
+7B494338,満腹度が不足しています。,Not full enough.
+7B52A934,ヘッドアクセサリー,Head Accessories
+7B70F55A,ウルトラワイド,Ultrawide
+7B76982B,アイテムを使用,Use Item
+7BB3905B,探索を続けることもできます,You can keep exploring.
+7BB3A861,<color=#EF5743><size=24>1700</size>/5000</color>,<color=#EF5743><size=24>1700</size>/5000</color>
+7C02B9CE,ワープ,Warp
+7C1C4CFA,"祭器の詳細な説明。山林に由来し、パミー族が代々守ってきた宝\
+物。山林に由来し、パミー族が代々守ってきた宝物。","Ritual item details. From the woods, a trea\
+sure guarded by generations of Pammies. From the woods, a treasure guarded by generations of Pammies."
+7C1D8628,期間限定クエストをすべて完了する,Complete all limited-time quests
+7C1F079A,基本戦闘テクニック,Basic Combat Techniques
+7C254EBF,初期設定に戻す,Restore Defaults
+7C39E54D,記録がありません,No records.
+7C4F0033,主な生産物,Main Products
+7C9B026F,敵の情報,Enemy Info
+7CBFC1E1,キツネの弟,Little Fox Brother
+7CDF8D27,ポイント獲得：,Points Earned: 
+7CE1606B,Lv.3%,Lv.3%
+7D35A453,大量,Large Amount
+7D9F2A61,I段：攻撃力が<color=#ffae3b>8%</color>上昇し、敵のブレイク状態の持続時間が<color=#ffae3b>100%</color>延長する。該当状態の敵に会心ダメージを与えた時、隕石を召喚し攻撃力の<color=#ffae3b>1400%</color>のダメージを与える。クールタイムは<color=#ffae3b>6</color>秒。,Tier I: ATK +<color=#ffae3b>8%</color>. Enemy Break duration +<color=#ffae3b>100%</color>. A CRIT against a Broken enemy calls a meteor for <color=#ffae3b>1400%</color> ATK as DMG. Cooldown: <color=#ffae3b>6</color>s.
+7DB1B67D,密林の小パンダ,Jungle Red Panda
+7DFCAB64,生産物,Products
+7E4CE49F,敵のキボを編集,Edit Enemy Kibo
+7E4E65AD,初対面Ⅰ,First Meeting I
+7E500899,分解する装備を選択,Select Gear to Salvage
+7E5D8839,押して検索内容を入力,Tap to search.
+7E63D19E,押して危機討伐画面を開く,Tap to open Crisis Hunt.
+7E7E0016,ルーレットをタップして編集,Tap the wheel to edit.
+7E7E9B05,レアリティ順,By Rarity
+7E806A2C,Lv.88,Lv.88
+7E906A26,立つ,Stand
+7E90B52A,派遣条件,Dispatch Requirements
+7EEA0812,X20,X20
+7EF5043D,開墾,Clear Land
+7EFCB1A4,嫦娥は月へ行くんだって,They say Chang'e is going to the Moon.
+7F195F95,クイック編成,Quick Party Setup
+7F2DC9C0,メールはありません。,No mail.
+7F2E6389,本日の回数：1,Today's Uses: 1
+7F8DA056,専用奇宝の点灯レベル+1,Exclusive Curio Light Lv. +1
+7F9EE5EA,現在のランク,Current Rank
+7FA4711A,水霊の境界,Water Spirit Realm
+7FB3E9FD,表示を切り替える,Switch View
+7FC56270,A,A
+7FE5F048,キボの労働,Kibo Labor
+80061894,F,F
+802966BD,ひんやりした雪の卵,Chilly Snow Egg
+805CA57C,エリート,Elite
+806BB06D,DAMAGE,DAMAGE
+8079033E,異象,Anomaly
+807D41C3,フィルター,Filters
+807E4C14,装備\xB7トップス,Gear: Tops
+808D70A7,農園で<color=#D37F25>元素操作</color>レベルを強化すると、元素の微粒子の所持上限を増やせます。,Upgrade <color=#D37F25>Element Control</color> at the farm to raise the elemental particle cap.
+808EC01A,キャラクターの満腹度が1～33の時、2秒ごとにHPを2%回復する。,"At 1-33 Fullness, recover 2% HP every 2s."
+80EA18AA,マルチプレイ,Multiplayer
+80F73AEF,作成して追跡,Craft and Track
+8103C561,ガイドブック,Guidebook
+811E6AA6,進化,Evolve
+81233D75,拒否済み,Declined
+81251103,優れた遺伝子,Superior Genes
+81469CC7,指定した味方単体のHPを使用者の最大HPの30%分回復し、さらにHPを300回復する。,Heals one ally for 30% of the user's Max HP plus 300 HP.
+81785B94,喚霊\xB7蘇生,Spirit Call: Revive
+81C14E3A,攻撃力上昇,ATK Up
+81C8E07B,このエリアはまだ解放されていません,This area is still locked.
+822FAFAA,上限に達しました,Limit reached
+8244ECAC,BGMをオフ,Mute Music
+825A3D98,Shift,Shift
+8266A6AE,スタンド,Stand
+82849E6E,未発見,Undiscovered
+82962A88,シャル\xB7エンシス,Shalle\xB7Ensis
+8296DF05,ステージギミック,Stage Mechanics
+830738A0,必要経験値,XP Required
+8311DC6C,<size=12>x</size>26,<size=12>x</size>26
+834FE0F8,未獲得,Unobtained
+839ADF14,久しぶりね！ノノとの冒険はすごく楽しかったよ。途中でたくさんの新しい仲間とも出会ったんだ。君も一緒に来てくれたらいいなぁ～,Long time no see! Adventuring with Nono was so much fun. I met lots of new friends along the way. I wish you could join us!
+83A991D7,解放する,Unlock
+83ED310C,テストテキスト,Test Text
+83ED310C_1,※現在のショップ交換アイテムはテスト期間限定のもので、正式版ではありません。,Shop exchanges are for testing only and may change at launch.
+83F912BA,観戦モード中に、タップ,"In Spectator Mode, tap"
+83FFFDC9,テストテキスト,Test Text
+8403A04E,キャラクターの必要レベル：,Character Level Required:
+840AE738,該当お知らせなし,No matching notices
+842FEB2C,26mm,26mm
+847E6D2C,竿を投げ、魚がかかるのを待っています,Cast and wait for a bite.
+8483ED13,誕生日,Birthday
+84BA1203,NO NEW MAIL,NO NEW MAIL
+84BE2FCF,押してキャラクターを変更,Press to switch characters
+84C560FD,このサインに該当するキャラクターはいません。,No characters match this sign.
+850613D2,肌の色,Skin Color
+85255007,一部の職種は、キボに農園施設で生産を行わせることでスコアを上げられます。上限に達すると、それ以上は上げられません。,"For some jobs, Kibo can raise their score by producing goods at farm facilities, up to the cap."
+85A7CD58,Scale,Scale
+85B0F14F,使用できません,Unavailable
+85C3C823,文字数の上限に達しました,Character limit reached
+85FFB836,キボ管理,Manage Kibo
+86048B4F,削除,Delete
+86777802,準備をキャンセル,Cancel Ready
+868DB1D5,キボスキンを獲得,Obtain Kibo Skin
+868F2614,Lv.10/20,Lv.10/20
+86986461,下の空白部分をタップして閉じる,Tap the empty area below to close.
+86AAFAA7,頭部,Head
+86C98449,割り当てるキーを押してください,Press a key to bind it.
+86D3A394,"通知ブロック
+","Block Notifications
+"
+86D688A8,"プロミリア大陸に来たばかりのあなたを助けるべく、【星臨者ガイドブック】が堂々登場！
+拠点づくり／キボとのスターリンク／強敵を倒す／秘密の発見……ガイドに従って少しずつ
+この世界を探検しよう！","New to Promilia? The [Starborn Guide] is here to help!
+Build a base, Star-Link with Kibo, defeat tough foes, and uncover secrets.
+Follow the guide to explore this world bit by bit."
+86E4B169,全速重複,Full Speed Repeat
+86F18C80,キボを進化させる,Evolve Kibo
+8736E1B0,09:50後に退出します。,Exiting in 09:50.
+8748BFB3,寮の装飾を獲得,Obtain Dorm Decor
+874B9368,ラズベリー x 5,Raspberry x 5
+87574A66,12分20秒,12m 20s
+877A02D6,レイアウト設定,Layout Settings
+87945E90,Lv.55 ~ Lv.75,Lv.55 ~ Lv.75
+87A71736,レベルアップ,Level Up
+87B7760F,Button,Button
+87BB5BBC,未使用,Unused
+881C0C90,/精算,/Settlement
+8859CB91,3日12時間,3d 12h
+88DE4C64,選択済み：,Selected: 
+88E6724A,テストテキスト,Test Text
+88EC56DB,Lv.7,Lv.7
+8930125C,マルチ挑戦,Co-op Challenge
+89679F4D,星脈の活性度：1,Star Vessel Activity: 1
+897EA629,マッチング中,Matchmaking...
+89855FF6,あと19:00:00で使い切る見込みです。,Projected to run out in 19:00:00.
+89BF6909,魔法防御力,Magic DEF
+89C59027,出撃中,Deployed
+89D036F0,WORKING,WORKING
+89DDCAA5,星識レベルを13に上げる,Raise Star Sense to Lv. 13
+89EF60E0,DECORATE,DECORATE
+8A08DDC7,準備未完了,Not Ready
+8A2A65BF,参加可能なチームがあまりありません。,Few parties available to join.
+8A402EB0,全員加速中……,Everyone's speeding up...
+8A6D988E,霹靂\xB7一閃,Thunderclap\xB7Flash
+8A6E61D0,ほかにもあるかな？,Could there be more?
+8A770FF5,アイテムを購入,Buy Items
+8AA54BD9,追加待ち,Pending Addition
+8AB2630A,STAR,STAR
+8ACBF057,キャラクター名7文字,7-character name
+8B3D122A,10株,10 plants
+8B573ADA,TextTextTextTextTextTextTextTextText,TextTextTextTextTextTextTextTextText
+8B60434E,交換へ,Exchange
+8B7B58C5,EVOLUTION,EVOLUTION
+8BACE289,チャンネル,Channel
+8BC720C9,Lv.100,Lv.100
+8BC85CFE,作業中のキボがお腹を空かせています,Working Kibo are hungry.
+8BD9DC98,ボス到達予想時間,Estimated Time to Boss
+8BE2B71A,コグマ,Bear Cub
+8BEE7BBF,未収集,Uncollected
+8C1BC4BA,期限,Expires
+8C357BF7,情報,Info
+8C3FE87C,農作業を終了,Exit Farming
+8C438337,スキル1,Skill 1
+8C4B5F93,イベント名,Event Name
+8C668137,牧場管理マニュアル,Ranch Management Guide
+8C670F8C,EXP,EXP
+8C94134F,2D,2D
+8CA06189,メロウミーsssssssssssssssss,Mellowmeesssssssssssssssss
+8CA0B02B,まだ探索を続けられます。,You can still explore.
+8CA14C77,リリス,Lilith
+8CBF72FF,出陣,Deploy
+8CD69FA7,編成を切り替える,Switch Party
+8CD7D5E5,ステートマシン名,State Machine Name
+8D14391C,スキルレベルアップ素材,Skill Level-Up Materials
+8D154A13,13mm,13mm
+8D167BC4,職種評価の上限はキボを獲得した時に決まります。,A Kibo's job rating cap is set when you obtain it.
+8D494593,装備中,Equipped
+8D9C307C,N,N
+8DA366E3,他の場所も見てみよう,Let's check another spot.
+8DAAF168,金縁装備。同じ品質の通常装備より、装備同調の上限が10高い。,Gold-trim gear has a sync cap 10 higher than standard gear of the same quality.
+8DEC4B28,フィールド採集,Field Gathering
+8DF8FD60,6min,6min
+8E01A14E,奇宝の詳細,Curio Details
+8E05B447,"2セット：装備者の防御力が15%上昇。装備者の効果命中が
+50%を超えると、さらに防御力が15%上昇。","2-Piece: Wearer DEF +15%. If the wearer's Effect Hit Rate
+exceeds 50%, gain another 15% DEF."
+8E159D21,スキルignore,Skill ignore
+8E1AE2AD,普通,Normal
+8E26B675,満腹度,Fullness
+8E2B7661,納品済み,Delivered
+8E329996,/ BIRTHDAY,/ BIRTHDAY
+8E683187,X2,X2
+8E7AC52D,生産リスト,Production List
+8E7B915C,絞り込み／すべて,Filter / All
+8EA1C47D,キャラクターの願いの家具（2/6）,Character Wish Furniture (2/6)
+8EAD06BF,キャラクターが突破2に達すると解放,Unlocks at Character Limit Break 2
+8EBA94F6,本日、巣穴のキボとスターリンクできる回数は上限に達しています。,Daily Star Link limit for burrow Kibo reached.
+8ED3F4A1,昇臨,Ascension
+8F18E6A0,吉兆,Good Omen
+8F1A4FFE,今日の修行成果……,Today's Training Results...
+8F58A581,MI_フレンド,MI_Friend
+8F717968,外す,Remove
+8F981AC1,水晶,Crystal
+8F983AA8,タップしてキボの謎解きスキルを発動,Tap to use the Kibo's puzzle skill.
+8FCADF44,新規因子,New Factor
+8FDAE3AC,同調の強度は毎回ランダムに増加します。,Sync strength rises by a random amount each time.
+8FDE9E92,Lv.MAX,Lv.MAX
+8FE995D7,未所持,Not Owned
+9007EFC7,カメラignore許可設定,Camera ignore permission
+900DDCD5,璇璣城,Xuanji City
+900E7951,録画設定を開く,Open Recording Settings
+901707BE,LEVEL,LEVEL
+9034CF80,この属性のバフがありません,No buffs for this element
+903EAB2E,すべてのフィルター,All Filters
+90443906,カメラ位置のずれを調整,Adjust Camera Offset
+906186F4,ドロップ素材,Material Drops
+90733BF5,照明をオン,Turn On Lighting
+90B26C61,翌日00:00,"Next day, 00:00"
+90C6A41A,消費素材,Materials Consumed
+90E1810F,推奨レベルLv.70。入れ替えますか？,Recommended: Lv. 70. Swap?
+91091FA3,RACE,RACE
+9128999D,難易度Ⅱ\xB7宝箱プレビュー,Difficulty II\xB7Chest Preview
+912EC803,asdf,asdf
+9133CC2C,Lv.2  |,Lv.2  |
+91399C48,MI_満杯状態,MI_Full
+9153552B,183.5m,183.5m
+915D6407,接頭辞を変更,Change Prefix
+916BF0E4,キャラクター強化,Enhance Character
+918D3921,アイテムはありません,No items
+918F9B13,書籍の説明,Book Description
+919260D8,幽晶梅 x 5,Ghost Crystal Plum x 5
+91960A38,やり直す,Retry
+919E0517,IPを手動で入力,Enter IP Manually
+919FB7F6,キボ図鑑一覧,Kibo Codex
+91B75372,20時間後に更新,Refreshes in 20h
+91BDB10F,入居者を変更,Change Resident
+91C3D032,～入居するキャラクターを選択してください～,~Select a character to move in~
+91E8879A,バックアクセサリー,Back Accessory
+91F4253C,ESC,ESC
+920F0503,状態の説明,Status Info
+92357965,協力攻撃スキル,Co-op Attack Skill
+92636E8C,スキップ,Skip
+9275895A,ZHE,ZHE
+927D9910,フレンドリストは空です。,No friends on your list.
+9283E9FA,概要,Overview
+928FA262,デイリークエスト,Daily Quests
+92A1DB47,星啓の導き,Star Revelation Guidance
+92B36AD4,追跡ターゲット,Track Target
+92B47A3A,検索結果はありません。,No results.
+9324785F,芽吹の谷,Sprout Valley
+932B49B5,強化を確定,Confirm Enhancement
+933AB3D6,ピンクボタンの効果音,Pink Button Sound
+9346A8D2,通貨報酬：,Currency Rewards:
+934DE64A,プラン4,Plan 4
+934F5A55,ボス大迫力演出ignore,Boss dramatic effect ignore
+936E58BC,自身のカーソル,Own Cursor
+9377BDB2,解放済み,Unlocked
+938C995C,Misson Success,Misson Success
+9394A40D,行動開始,Begin Action
+939AC226,寮：4/6,Dorm: 4/6
+939D5345,納品,Deliver
+93CAF937,共通聖紋,Shared Seal
+93DA4C47,衝撃！低木剪定コンテスト優勝者の受賞資格剥奪！,Shock! Pruning Contest Winner Stripped of Title!
+943E6D33,デイリー,Daily
+946F5C8C,目,Eyes
+94730A42,このアイテムに対して,For this item
+947D5155,レベルアップ,Level Up
+948B2440,Lv.6,Lv.6
+94C418BD,挑戦報酬：,Challenge Rewards:
+94E22318,BIRTHDAY,BIRTHDAY
+94EB057A,ワールドを探索すると、より多くの読み物を入手できます。,Explore the world to find more reading material.
+94F0DB90,リンク度が足りません,Link Level too low.
+94F1AE68,生産量：0/22,Production: 0/22
+94FCFCF6,スターリンクアウラ,Star Link Aura
+94FEBCFF,全選択,Select All
+95390B1C,スキップ,Skip
+953B855A,すべてのメール,All Mail
+956D3649,絶望の谷・南斜面,Valley of Despair: South Slope
+958574CD,意志を確認,Confirm Will
+958E0FFF,農園-装備台,Farm - Gear Stand
+95908978,～所持～,~Owned~
+95A947E8,期間限定販売,Limited-Time Sale
+95B014AA,NO.22,NO.22
+95B351C8,編集,Edit
+95B55B17,趣味：朝寝坊,Hobby: Sleeping In
+95E0D70D,レベル,Level
+9617C399,時空異常,Spacetime Anomaly
+963026A1,星識レベルがLV.に上昇,Star Sense rose to Lv.
+9633D716,一括投入,Add All
+965B5FEA,派遣,Dispatch
+965EE0A3,精算報酬,Settlement Rewards
+96679778,種倉庫,Seed Storage
+96700439,調査レベル8,Research Lv. 8
+967D35E4,Camera,Camera
+96989F18,所持数：,Owned:
+96AECA68,採集物が見つかっていません,No gatherables found.
+96AF4213,味方の水晶,Allied Crystal
+96E79218,111111,111111
+96E8EEF8,対決の準備,Prepare for Duel
+9718EED2,作業台を製造し、仲間と共にカードを作ってキボを捕まえよう,Build a workbench and craft cards with your companions to catch Kibo.
+972D7973,金鶏独立,Golden Rooster Stands on One Leg
+973AEECF,NO.,NO.
+9751645B,周回クリア報酬,Run Clear Rewards
+975A84A3,情景,Scene
+975E2A9C,詳細,Details
+977381F9,通常,Normal
+9789EA3D,売り切れ,Sold Out
+97AB5F1C,レベル40,Lv. 40
+97C9DB92,未達成,Incomplete
+97CB6020,録画中はUIを非表示［Ctrl＋Jで戻す］,Hide UI while recording [Ctrl+J to restore]
+97FF1110,特殊効果,Special Effects
+981FB8FF,移動するキボボックスを選択してください,Select a Kibo Box to move.
+982B1551,南方の原生谷地,Southern Wild Valley
+983A82FD,習得,Learn
+9847A5EB,フィルターリスト,Filter List
+985A1C2A,モデルを回転,Rotate Model
+985B4F7E,パジャマ,Pajamas
+98671C9C,1P,1P
+986FFB30,選択済み：,Selected: 
+9875E246,後に報酬リセット,until rewards reset
+98AB49E4,一括装備,Equip All
+98C521BC,"'Lv.60
+
+
+'","'Lv.60
+
+
+'"
+98C8D052,青ボタン,Blue Button
+98F364D4,料理開始,Start Cooking
+98FB8F58,外見変更,Change Appearance
+991BD8AD,このキボの図鑑を解放しました,Kibo index entry unlocked.
+992368D9,再挑戦,Retry
+99310552,コンテンツへ,Go to Activity
+9956B5E5,地区の精鋭に挑戦した後に解放,Unlocks after challenging the region's elite.
+9963763A,空テキスト,Empty Text
+996D1992,xxx秒以内に相手を倒す,Defeat the opponent within xxx seconds
+997C5C66,チームから追放,Remove from Party
+99CF2825,寮の装飾,Dorm Decor
+99FFC28E,厳選星満の果実の種,Choice Full Star Fruit Seeds
+9A1A4C66,New Text,New Text
+9A205E00,必要なキボを選択,Select the required Kibo.
+9ACB4E6A,詳細説明,Details
+9ADAE353,どうも。,Hello.
+9B04942C,マッチング,Matchmaking
+9B95BA68,反時計回りに回転,Rotate Counterclockwise
+9BA80CCA,勝利！,Victory!
+9BBAE47A,塔登り・難易度3,Tower Climb: Difficulty 3
+9BD5FEE5,ショップで購入,Buy in Shop
+9BDFE95F,ルーム,Room
+9BF6A489,いっぱいです！,It's full!
+9C1131A6,羽生種,Winged Species
+9C1B276B,受け取る,Claim
+9C4D5FA1,スタック数 15/15,Stacks: 15/15
+9C583BE6,1回の生産上限：,Max per Batch:
+9C5D9E78,アーチャー,Archer
+9C66606A,未挑戦,Not Attempted
+9C8F6489,付与済み,Applied
+9CA25CC5,公式テンプレート,Official Templates
+9CDFCE42,プリセット,Presets
+9CFA84CB,カメラ距離：,Camera Distance:
+9D5ED678,B,B
+9DD4E461,X,X
+9DE6C8D0,農園の2号畑小屋に行き、とてもおいしいニンジンとサツマイモを栽培する,Grow delicious carrots and sweet potatoes at Farm Plot 2's hut.
+9E08ED8E,図書館,Library
+9E0C446D,残りのスターリンク回数,Star Link Attempts Left
+9E259B70,素材がありません,No materials.
+9E368D03,色調補正,Color Correction
+9E36C047,レアな星雨の果実111,Rare Starshower Fruit 111
+9E4AB393,パラメータ設定,Parameters
+9E8CA6B2,すべて受ける,Accept All
+9EC02C6D,かんたん,Easy
+9EC84F3E,釣り場,Fishing Spot
+9ECDFAC9,Lv.2,Lv.2
+9ED7D3AD,合計数,Total
+9EEB52BA,ADD,ADD
+9F02282F,スキル選択,Select Skill
+9F68A807,ポイント,Points
+9F6D411C,生命力+8,Vitality +8
+9F6EABF8,アーチャー,Archer
+9F844A78,詳細確認,View Details
+9F891B94,霹靂,Thunderclap
+9F8E2752,待,Wait
+9F92E131,農園本部が満員です。入れ替えるキボを選択してください。,Farm HQ is full. Choose a Kibo to replace.
+9FB475AF,レベルアップ,Level Up
+9FB9E43C,満月草をほんの少し香辛料として加えた焼き魚。満月草が魚の生臭さを抑え、香ばしく焼けた魚に、湿った森を思わせる爽やかな香りを添える。全体を香ばしく,Grilled fish spiced with a pinch of Full Moon Grass. It cuts the fishy smell and adds a fresh scent like a damp forest. Grill until fragrant
+9FBC42C5,とても長いアイテム名,Very Long Item Name
+9FE9812E,欲しいものリスト,Wishlist
+9FEE999A,キャラクターのストーリーイベント,Character Story Event
+9FF1E00A,キボの満腹度が不足しているため、生産は一時停止中です。,Production paused. The Kibo is hungry.
+9FF6E6C1,烈火の翼,Wings of Blazing Fire
+A014C4D5,ストーリー,Story
+A030553D,HOME LIFE,HOME LIFE
+A03A2340,星辰伝,Star Chronicles
+A05128ED,総所要時間,Total Time
+A06C3285,待機中,Waiting
+A078EB5E,\xB7 新しいクエスト！,- New Quest!
+A08D2FC4,すべて交換,Exchange All
+A09002EC,［元素の嵐］,[Elemental Storm]
+A0B1A25F,2P,2P
+A0C4F95F,メロウミー,Melomey
+A0DD3F63,ウミィの流動性は「隙あらば入り込む」ということの証。空の壺や瓶を長く放置しておくと、いつの間にかウミィが湧いてくるらしい……,Umi flows into any gap it finds. Leave an empty jar or bottle out long enough and an Umi may appear...
+A0E48A88,左右の目の同期,Sync Both Eyes
+A10A3BA2,深淵に入る,Enter the Abyss
+A122EB7F,本日の追加報酬残り回数：,Bonus claims left today:
+A125B512,金麦穗の章,Golden Wheat Ear Chapter
+A129BAD1,キボ,Kibo
+A135E825,Lv.8,Lv.8
+A1418B61,農園の職種,Farm Jobs
+A143FDDE,因子変異,Factor Mutation
+A15D3E6C,特殊アクション,Special Action
+A1650D81,キボ,Kibo
+A18534D2,の極秘ファイル,Top Secret Files of
+A1C8BE47,因子変異11111111,Factor Mutation 11111111
+A2516D5F,コンボ,Combo
+A25A8603,昇臨レベル,Ascension Level
+A25B8156,先に前提ノードをランクアップする必要があります。,Rank up the prerequisite node first.
+A29A26C9,N  キャンセル,N Cancel
+A32866FC,一括授与,Grant All
+A332C0B8,マイコレクション：,My Collection:
+A33916CB,MI_作業中,MI_Working
+A33B98F8,バニーガール動画再生,Play Bunny Girl Video
+A35026E2,購入で獲得可能,Available for Purchase
+A368D48A,交換ショップ,Exchange Shop
+A370C789,999秒後に自動で退出します,You'll leave automatically in 999s.
+A3992C1C,メールなし,No Mail
+A3C652F0,プレイヤーを1人選択してください,Select one player.
+A3D9B535,アニマスキル,Anima Skill
+A3E3B883,開始,Start
+A3F39FDD,Lv.80で解放。10名の敵に一撃につき210%のダメージを与える。Lv.80で解放。10名の敵に一撃につき210%のダメージを与える。Lv.80で解放。10名の敵に一撃につき210%のダメージを与える。Lv.80で解放。10名の敵に一撃につき210%のダメージを与える,Unlocks at Lv. 80. Deals 210% DMG per hit to 10 enemies. Unlocks at Lv. 80. Deals 210% DMG per hit to 10 enemies. Unlocks at Lv. 80. Deals 210% DMG per hit to 10 enemies. Unlocks at Lv. 80. Deals 210% DMG per hit to 10 enemies.
+A40E9036,n/m,n/m
+A46075D7,MISSION,MISSION
+A46B2717,おすすめキボ,Recommended Kibo
+A4717978,星脈,Star Vessel
+A4B12AEC,現在のチームの目標ダンジョンではありません。,This isn't your party's target dungeon.
+A4C1E4F9,カウントダウン：23時間59分,Countdown: 23h 59m
+A4DC00D8,ランキング,Ranking
+A4ECA7E9,派遣先：栽培エリア・水やり,Dispatch: Grow Area (Watering)
+A4EE2B55,ボススキル,Boss Skills
+A5326065,マウスの左ボタン,Left Mouse Button
+A53CB810,シャルル村,Charlulu Village
+A5636BCD,星祝\xB7攻撃\xB7Ⅳ,Star Blessing: ATK IV
+A56A24F0,ステージシミュレーター,Stage Simulator
+A5B02B88,鎌鼬の王（ボス）を倒す,Defeat the Sickle Weasel King (Boss)
+A5CB8EE1,通常攻撃時、10%の確率で自身の物理防御力が10%上昇する。5秒間持続する。,Basic attacks have a 10% chance to raise own Physical DEF by 10% for 5s.
+A5FFBA77,ボーナスはありません,No bonuses.
+A620810B,アイテム名,Item Name
+A648F57B,アニマを装着していません,No Anima equipped.
+A65B1618,スキル説明,Skill Details
+A65B1FC6,ホイールを編集,Edit Wheel
+A67B08AC,50秒以内に勝利する,Win within 50 seconds
+A692D737,派遣中,On Dispatch
+A6DF2E39,キャラクター切替,Switch Character
+A6E53578,キボ編成,Kibo Party
+A6EAF747,生産量：0/1,Output: 0/1
+A701EB10,ダララ,Darara
+A744A7E1,スキン名数文字,Skin Name (Few Characters)
+A781AEAA,01月06日,Jan 6
+A7BA4711,録画を停止,Stop Recording
+A7BDEE32,Lv.,Lv.
+A7BF38D6,霹靂\xB7雷神,Thunderclap: Thunder God
+A7E3C506,ARCHIVES,ARCHIVES
+A7F0449C,報酬の一部をプレビュー,Preview Some Rewards
+A8023FD0,外見変更,Change Appearance
+A8216F04,【未定】,[To Be Decided]
+A83E0B58,漫遊記レベルを購入,Buy Travel Log Levels
+A87FF679,4,4
+A885157D,サクランボのレシピ,Cherry Recipe
+A8875BBE,Toggle,Toggle
+A894CAA9,ハードモード,Hard Mode
+A8A3E9B8,アクセサリーはまだありません。,No accessories yet.
+A8A79C68,復活,Revive
+A8B0C204,すべて,All
+A8B1476D,現在のポイント-,Current Points -
+A8B3B041,【未定】,[To Be Decided]
+A8B6E351,申請済み,Requested
+A8DA8F18,スキル属性,Skill Element
+A8E219E2,選択可能な装備がありません。,No eligible gear.
+A8E29CC5,最遠距離,Max Distance
+A934A956,アニマ報酬,Anima Rewards
+A942ED78,WSAD,WSAD
+A949E143,APPLIED,APPLIED
+A965909F,<color=#dcd5c4>セット効果なし</color><color=#ffab34>【80.50%】</color>,<color=#dcd5c4>No Set Effect</color><color=#ffab34>[80.50%]</color>
+A9859EDF,Ⅱ普通,II Normal
+A98A66BD,チュートリアルステージは何度でも挑戦できます！,Retry tutorial stages as often as you like!
+A9BCE2EC,ハイタッチ,High Five
+A9C277B8,一括追加,Add All
+A9CA6502,まもなく挑戦が始まります。[承諾]を押してダンジョンに入り、準備してください。,The challenge is about to start. Press [Accept] to enter the dungeon and get ready.
+AA05FD09,共通,Common
+AA2C9140,無料,Free
+AA3D2D71,同名のアニマを使って強化すると、★を上げられます,Use an Anima of the same name to raise its ★ rating.
+AA43FA46,すべてクリア,Clear All
+AA44033F,フレンドがいません,No friends.
+AA4A2216,シーンを読み込み中です。しばらくお待ちください,Loading scene. Please wait.
+AA527D8B,魚肉を加工,Process Fish
+AA8343BA,HAIR,HAIR
+AA8FB77E,completed,completed
+AA9BF9C8,プレゼントできる贈りものはありません。,No gifts available.
+AAA46765,6日5時間32分,6d 5h 32m
+AAAB9C59,テストテキスト,Test Text
+AAAF2515,FOV:',FOV:'
+AAE35592,会心率 + 5%,CRIT Rate +5%
+AAEE2921,高レアリティの種を優先してまく,Sow higher-rarity seeds first.
+AAEE2921+1,高レアリティの種を優先してまく,Sow higher-rarity seeds first.
+AAFA6ECA,必要レベル：,Required Level:
+AAFEFC41,SUCCESS!!,SUCCESS!!
+AB18E30C,大,Large
+AB1969E5,"新しい注文はありません。
+","No new orders.
+"
+AB60A0E8,孵化完了,Hatching complete!
+AB71F08D,氷封諸島の鎌鼬！！,Sickle Weasels of the Frozen Isles!!
+AB825E70,称号は最大12文字,Titles can be up to 12 characters.
+AC30C16B,Lv.<size=24>16</size>,Lv.<size=24>16</size>
+AC37387A,種族：森のクマ,Race: Forest Bear
+AC3F595D,先天\xB7雷神,Innate: Thunder God
+AC45D51B,生産,Production
+AC48E202,入居時間▲,Move-In Time ▲
+AC781A49,カメラを正しい位置に移動してください。,Move the camera into position.
+AC7F6D5F,一括受け取り,Claim All
+AC917109,最終受賞作品『燃ゆる芸術』,"Grand Prize Winner: ""Art in Flames"""
+ACD5CB84,失敗,Failed
+AD039552,（この内容は現在使用されていません）,(Not currently in use)
+AD13003A,ボトルメールのタイトル,Message in a Bottle Title
+AD1BAAFA,報酬を獲得,Claim Rewards
+AD231955,5秒後にシャルル村へ移動,Traveling to Charlulu Village in 5s
+AD32E604,NAME,NAME
+AD46A96C,手がかり,Clues
+AD649A70,招待済み。返信をお待ちください。,Invite sent. Waiting for a reply.
+AD8842FC,今週受け取れる報酬回数：0／2,Weekly Reward Claims: 0/2
+ADA58C43,背景切替,Switch Background
+ADBF47F8,追加効果なし,No Bonus Effect
+ADD71168,育成,Training
+ADEF8EEA,孵化を中止,Cancel Hatching
+ADF6FCDB,Lv.5,Lv.5
+AE0DB8E4,情景を編集,Edit Scene
+AE1347AF,獲得へ,Go to Source
+AE142CEF,マウントホイールを編集,Edit Mount Wheel
+AE336CD0,お気に入り,Favorites
+AE41A992,ステータス名,Stat Name
+AE6EF274,キボを捕獲すると、特殊因子が出現する可能性があります。,Catching Kibo may reveal special factors.
+AE73A76A,プレイヤー名,Player Name
+AE8A4679,カメラを移動,Move Camera
+AE9A9625,報酬 閉弦,Reward: Closed Strings
+AEC36116,ステージ開始時に閉弦を30個追加で獲得,Gain 30 extra Closed Strings at the start of the stage.
+AECEE7DE,パック内容,Pack Contents
+AED1DFBC,中,Medium
+AF068897,待機​,Standby
+AF0E7B04,GENE   SKILL,GENE   SKILL
+AF78AE19,UIDを入力してフレンドに追加,Enter a UID to add a friend.
+AF825C66,魚図鑑,Fish Codex
+AF826612,押して撮影,Press to take photo
+AF8B06F2,お試し,Trial
+AF9CC469,ボックス1,Box 1
+AFB7B600,レベル2,Lv. 2
+AFEB931E,未解放,Locked
+AFEFBDC1,建設台,Construction Bench
+B0037214,ライティング,Lighting
+B0103ECF,X10,X10
+B068931C,NAME,NAME
+B078FFD2,START,START
+B0A4E05D,巣穴コンテンツ,Burrow Activities
+B0B2A088,MMMMMMMMMMMMMMMMMMMMMM,MMMMMMMMMMMMMMMMMMMMMM
+B123F1F9,キボカードを長押ししてドラッグ,Hold and drag a Kibo card.
+B12876C8,売り切れ,Sold Out
+B1314FC4,森のブタさん！！,Forest Pig!!
+B133392A,再生できるストーリーはありません。,No stories to replay.
+B13EA6DF,クイック編成,Quick Party Setup
+B14E49E0,シャル・エンシス,Shalle Ensis
+B15D9127,閉じる,Close
+B1950297,進行中のチャレンジがあります。現在保存されている進行状況から再開しますか？,Resume the challenge from your saved progress?
+B1984B8F,開墾可能な畑:25/50,Tillable Plots: 25/50
+B1A326C0,END,END
+B1B74DF3,イベント記録,Event Log
+B1FF04B5,限定,Limited
+B225183B,追跡中,Tracking
+B2489198,風,Wind
+B2598F04,称号,Title
+B27893BF,Lv.60,Lv.60
+B29BC907,"メイン\
+ストーリー","Main\
+Story"
+B2AFE1D1,部位を選択,Select Part
+B2C70337,UI非表示,Hide UI
+B2D4A5D6,ダンジョンに入る,Enter Dungeon
+B2DF162F,推奨レベル,Recommended Level
+B2F5B6DC,Lv.,Lv.
+B31F98D1,難易度Ⅰ,Difficulty I
+B333B63B,予想収入,Estimated Income
+B3495CC2,討伐\xB7ハリネズミの巨獣,Hunt\xB7Giant Hedgehog
+B35E6EA3,クエスト完了,Quest Complete
+B37410A1,赤ボタンの効果音,Red Button Sound
+B40F1AF2,楽しく大樽をかき混ぜよう,Have fun stirring the big barrel!
+B42AA65A,PROMILIA KIBO MOUNTING SKILL,PROMILIA KIBO MOUNTING SKILL
+B430BBDB,無料回数：1回,Free Attempts: 1
+B4332BEB,スキル成長！,Skill Upgraded!
+B43ADC30,Lv.5,Lv.5
+B45E8EF7,[マルチ]マッチング中……,[Multiplayer] Matchmaking...
+B4C05B78,レア因子を確認,Check Rare Factors
+B4C98245,SKILLNAME,SKILLNAME
+B4C99D69,ストリートスナップ,Street Snapshots
+B4D185EF,チームがありません。,No parties
+B4D78B22,マルチ共闘,Co-op Combat
+B4DA9ADF,MI_安全エリア,MI_Safe Zone
+B4E1B508,次のページ,Next Page
+B50339A1,NONE,NONE
+B53171DB,採鉱場に派遣すると、鉱石の採掘時間が5%短縮されます。,Dispatch to a mine to reduce ore mining time by 5%.
+B539D1CF,専用アイコン,Exclusive Icon
+B544585E,"あなたがキャバードと打ち解けたことで、キャバードたちは大喜び。そして、たくさんの\
+タマゴを産み、さらにあなたに2つプレゼントした！
+\
+50%の確率で欠片100個とランダムな★1～★3の聖物を2個獲得する。
+\
+25%の確率で★3の聖物を1個失う。
+\
+25%の確率でなにも起こらない。","You befriended the Cabbird, and they were thrilled! They laid lots of\
+eggs and gave you two!
+\
+50% chance to gain 100 shards and 2 random ★1-★3 Relics.
+\
+25% chance to lose one ★3 Relic.
+\
+25% chance nothing happens."
+B568A7D0,因子詳細,Factor Details
+B58C7549,追加,Add
+B5A23BFB,青ボタンの効果音,Blue Button Sound
+B5B07535,接続が切断されました。,Disconnected.
+B5C5F45F,通常装備スキル,Standard Gear Skill
+B5C744DB,飛んでくる短いアニメーション,Short Fly-In Animation
+B5ED6096,必要数：<color=#ff5f5f>0</color>/2,Required: <color=#ff5f5f>0</color>/2
+B608A362,UI非表示時にstackEffectを表示,Show stackEffect when UI is hidden
+B60C4DAA,農園内の建築\xB7第Ⅰ段階,Farm Buildings\xB7Tier I
+B60DB3EB,マーカーを置き換える,Replace Marker
+B66CF64A,ViewLast,ViewLast
+B6948324,コグマ応援団,Bear Cub Cheer Squad
+B6B37AB9,乞うご期待,Stay Tuned
+B6CE0021,配置,Place
+B6CE9792,署名内容,Signature Text
+B6D1CDBF,支援,Support
+B6FCC6A4,職種評価を上げると、より多くの生産ボーナス効果を得られます。,Higher job ratings grant more production bonuses.
+B73CBF91,右側の既存因子を選択,Select an existing factor on the right.
+B745A844,任意の場所をタップして続ける,Tap anywhere to continue.
+B7870EA1,装備中のアニマがありません,No Anima equipped.
+B7A0B613,礼,Bow
+B7B221F2,輝くキボと異彩キボの職種評価上限は通常キボと同じです。,Shining and Variant Kibo have the same job rating cap as normal Kibo.
+B8596277,おまけ,Bonus
+B860D750,孵化を完了,Finish Hatching
+B8771BC6,AFFECTION,AFFECTION
+B88A19B6,"ごく少量の満月草を香辛料として味付けした焼き魚。満月草は
+肉の臭みを消し、サクサクとした焼き魚の香りに加えて
+森の瑞々しい香りを与え、全体をよりサクサクに","A pinch of Full Moon Grass seasons the grilled fish. The herb
+removes fishy odors and adds a fresh woodland scent
+to the fragrant, crisp fish, making it even crunchier."
+B8B3EF80,天性,Aptitude
+B8BC466E,外見変更：,Change Appearance:
+B8BEC8B5,ダンジョン残り時間：26:53,Dungeon Time Left: 26:53
+B8CE1C4F,MOUNT,MOUNT
+B8CF0905,ランダムマッチング成功,Random Match Found
+B8F00A13,キボの牧場,Kibo Ranch
+B90C7559,続,Continue
+B9377DD2,表紙を変更,Change Cover
+B9733B11,誘敵\xB7パワー,Lure\xB7Power
+B9A47CC7,変異結果を確認,Review Mutation Results
+B9A942B9,確率アップ,Rate Up
+B9ACF74C,マーカー,Marker
+B9DA5299,Lv.10,Lv.10
+B9DB8476,記録なし,No records
+B9E14D9B,FAILED,FAILED
+B9ECE18C,T,T
+B9F72C6F,X25,X25
+BA0C5680,保存,Save
+BA280CDA,サプライズ,Surprise
+BA2CE384,変更へ,Change
+BA476C8D,Fキー,F Key
+BA89E6FA,気分,Mood
+BA8E1A9A,サプライズ,Surprise
+BA8F90C6,編成を確定,Confirm Party
+BA9DC6D2,履歴,History
+BAA97681,ゲームのお知らせ,Game Notices
+BAAE015D,キャラクター有効スキル,Active Character Skills
+BAB7B56A,ストッキングの透明度,Stocking Transparency
+BABE7A4B,X0,X0
+BAC2212D,解放を確定,Confirm Unlock
+BAEC9598,休憩終了時刻：,Break Ends At:
+BAEE96BF,昇臨度,Ascension Level
+BB00491E,前提ストーリーをクリアすると解放,Complete the prerequisite story to unlock.
+BB106506,ショップ,Shop
+BB23F29E,称号を選択,Select Title
+BB427000,所持奇宝,Owned Curios
+BB544623,星の否認,Denial of the Stars
+BB68A0E0,PURCHASE GOODS,PURCHASE GOODS
+BB7EDBEC,マミマミホン,Mamimamihon
+BB7F5AE6,x1,x1
+BBA074B3,納品報酬,Delivery Rewards
+BBD0DAA0,参加可能なパーティのみ表示,Show Joinable Parties Only
+BBD1FB9D,アカウント作成日,Account Created
+BBD29929,風の刃,Wind Blade
+BBD47109,Full,Full
+BBD8667E,アニマ強化,Enhance Anima
+BBD89CA9,パーフェクト,Perfect
+BBDAE4FC,サブクエスト,Side Quests
+BBE387F2,すべて購入,Buy All
+BC4FB7BB,x22,x22
+BC6E9193,鈍感力,Thick Skin
+BC761690,連続,Continuous
+BC8A6F31,【星啓クエスト】をクリアすると回想を解放,Clear the [Star Revelation Quest] to unlock Memories.
+BC945194,今日の残り回数：1／5,Attempts Left Today: 1/5
+BCB0DD9F,引っ張り中,Pulling
+BCBF0DAD,BUFF,BUFF
+BCBFE2F2,ブロック,Block
+BCF0046A,手作業,Manual Work
+BCF4AE0C,解放条件,Unlock Requirements
+BD33523E,難易度Ⅱ,Difficulty II
+BD7F9DF4,"PET
+
+","PET
+
+"
+BD8BCF45,出現率の,drop rate of
+BDAD036B,HP+1200,HP+1200
+BDC33633,購入,Purchase
+BDC663A7,この種類のキボがいません,No Kibo of this species.
+BDF56592,戦闘情報,Combat Info
+BE132A0D,密林エリア1,Jungle Zone 1
+BE276988,キャラクター名からの情報,Info from Character Name
+BE4AA35C,スタイル切り替え,Switch Style
+BE4CD65B,現在使用中,In Use
+BE5FBBE3,保存,Save
+BE81245C,消耗,Consumption
+BE9A7AEA,星響スキル,Star Echo Skill
+BEC33D31,ローディング済み,Loaded
+BEC436CB,お別れする,Say Goodbye
+BEC7E4D6,切り替え,Switch
+BED9EC1E,写真,Photo
+BEDA72A7,装備中,Equipped
+BF2C7B79,リサイクル,Recycle
+BF3DBE61,左側のキャバードの群れに入る,Join the Cabbird flock on the left.
+BF55761A,専用意志,Exclusive Will
+BF6062CA,生産所要時間-5%,Production Time -5%
+BF6D2712,必要素材,Materials Required
+BF829D32,報酬はすべて受け取りました！,All rewards claimed!
+BF8F50C7,散策中,Roaming
+BF9C5A7B,入手方法なし,No source available
+BFF74409,報告する,Report
+C002B1CE,奇宝/星の意志,Curios / Star Will
+C00C5D64,絶望,Despair
+C048A83F,餌やり,Feeding
+C062E3CA,適用中,Active
+C07E7FB6,金縁装備,Gold-Trim Gear
+C0863D1D,専用アイコンフレーム,Exclusive Icon Frame
+C086B300,フィールド,Field
+C094C0E1,最近のニュース,Recent News
+C0A1A6FE,アニマ選択パック,Anima Selection Pack
+C0A40992,Lv.23,Lv.23
+C0B66546,まだ準備していません。,Not ready yet.
+C0C7C76D,50,50
+C0CB9049,[作者：村長],[Author: Village Chief]
+C0D81736,左の一覧から入れ替えるキボを選択,Select a Kibo to swap from the list on the left.
+C0DBC820,レベル：,Lv.:
+C0DD17FF,レッドフレイム神器使いセット(4/6),Red Flame Divine Gear Wielder Set (4/6)
+C0EC704C,親愛なる星臨者様：,Dear Starborn:
+C0F7769F,キボファイト大決戦・大局,Kibo Duel Championship: Endgame
+C122F2D3,ショップ更新まで：9時間22分,Shop Refresh In: 9h 22m
+C16CCAED,報酬,Rewards
+C17C7C9D,芽吹の谷探索-スポット巡り,Sprout Valley Exploration: Sightseeing
+C1904175,以下の報酬をすべて獲得します,You'll receive all rewards below.
+C1964E59,準備を呼びかける,Ready Check
+C1B18E5B,採集プレビュー,Gathering Preview
+C1B57A6C,プリセットを読み込む,Load Preset
+C1BB2962,ランダムパーティ,Random Party
+C1C2CC20,上級難易度,Advanced Difficulty
+C1D9F50F,H,H
+C1F05DF2,チャット外のフレンドがいません,No friends outside this chat.
+C2076C45,キャラクター選択,Select Character
+C2086809,共通意志,Shared Will
+C224B5A5,マウントから降りる,Dismount
+C233A5FC,アニマ未装備,No Anima Equipped
+C247ADC7,未読メール,Unread Mail
+C25021DA,好感度▼,Affinity ▼
+C27F0E6E,<size=50>Lv.</size><size=100>10</size>,<size=50>Lv.</size><size=100>10</size>
+C28CACC0,\xB7先天因子は入れ替え不可,- Innate factors can't be replaced
+C29E4097,合成,Synthesize
+C2D06DF0,//通常攻撃の3段目で範囲火炎ダメージを与え、命中した対象に燃焼効果を付与する。対象は毎秒攻撃力の30%のダメージを受ける（8秒間）。,//The third Normal Attack deals AoE Fire DMG and Burns targets hit for 30% ATK per second for 8s.
+C2D7F1AF,初めて,First Time
+C2FE6253,フィルター,Filters
+C31684DF,マルチプレイ,Multiplayer
+C35114A3,報酬放棄,Forfeit Rewards
+C36B8B6B,ここだよ！,Right here!
+C3898CA2,納品,Deliver
+C3992269,戻る,Back
+C39A1AE0,報酬,Rewards
+C3BF3750,モーレン,Morwyn
+C3D072ED,No.1 キャラクター,No.1 Character
+C402FA3A,UAN,UAN
+C424F672,再挑戦,Retry
+C4971C72,新シーズン開幕,New season begins!
+C4A61878,スターリンク成功率,Star Link Success Rate
+C4C54680,RECEIVED,RECEIVED
+C4E0E4E3,DOWN,DOWN
+C4E1824C,削除したいマーカーを選択。,Select a marker to delete.
+C4E26DE2,休憩中,On Break
+C4EB9BFF,～称号未獲得～,~Title Not Earned~
+C500CFAB,アクション,Action
+C5029084,"モーモは素直な性格で、正義感が強い。体は小さいが、ほかのキボが困っているのを見ると、ためらわずに駆けつけ、持ち前の力で助ける。頭上で燃え続ける炎は、尽きることのない情熱の表れだ。純粋でまっすぐ、誰に対しても無防備なため、多くの人やキボに愛されている。
+モーモの弱点は鼻。見た目はたくましいが、鼻をぶつけると痛さのあまり泣き出してしまう。","Honest and just, Moomo rushes to help Kibo in need and lends its strength despite its small size. The flame above Moomo's head shows its unending passion. Its open, trusting nature endears it to people and Kibo alike.
+Moomo looks tough, but its nose is sensitive. Bump it and the pain brings Moomo to tears."
+C51EBBB5,装備へ,Go to Gear
+C528EC45,刻印ステータス,Engraving Stats
+C5575B3F,変更を保存,Save Changes
+C5653B89,レベル効果,Level Effects
+C58B56FE,種の画面,Seed Screen
+C58C43A3,キャラ切替ignore,Switch Character ignore
+C5C75EF1,ライトを選択,Select Light
+C5DF2D64,料理,Cooking
+C5E1F01E,タップして選択,Tap to select.
+C5E2B926,Lv.35',Lv.35'
+C5EA2CA1,ステータス情報,Stat Info
+C5FA2B8D,探索方針を選択してください。,Select an exploration approach.
+C61EB884,未解放,Locked
+C64E5608,採集ポイントの倉庫がいっぱいです。早めに回収してください,The gathering node storage is full. Collect it soon.
+C666AD11,特性,Trait
+C68412FE,残り回数：2,Attempts Left: 2
+C685E2EB,困難Ⅲ,Hard III
+C69919FF,自動戦闘中……,Auto-battling...
+C69919FF+1,自動戦闘中……,Auto-battling...
+C6ADD336,ダンジョン依頼の報酬を自動受取,Auto-claim dungeon request rewards.
+C6ADD336+1,ダンジョン依頼の報酬を自動受取,Auto-claim dungeon request rewards.
+C6C07476,STABILITY    LEVEL,STABILITY    LEVEL
+C6CB73AB,絆Lv.20,Bond Lv.20
+C6CE1491,あなたの仲間たちはみんな特別な立場にあります……あれほど目立つ特徴なら、探すのは難しくないかもしれません。彼らが百酒「ソザンカ」の加護を受け、無事であることを祈ります。,"Your companions all stand out... Their distinctive looks may make them easier to find. May Hundred Wines ""Sozanka"" keep them safe."
+C73C774F,準備済み,Ready
+C76C9551,経験値アイテム,EXP Items
+C78EE1B0,建築効果：農園内のキボのタマゴの孵化時間-10%（次のレベル：-15%）,Building effect: Farm Kibo egg hatch time -10% (next level: -15%).
+C7C7F84D,殺意の剣気0000000000000000000,Killing Aura Blade0000000000000000000
+C81E728D,2,2
+C82A9DAF,受取,Claim
+C8458E2D,戦闘に入る,Enter Battle
+C87CBF43,実績,Achievements
+C8A2447A,参加,Join
+C8D65741,ほかのプレイヤーの読み込み完了を待っています。,Waiting for other players to load.
+C8DF61E4,入れ替える,Swap
+C8E928C6,最大レベル到達済み,Max Level Reached
+C8F94003,受ける,Accept
+C9026419,プリセットを適用,Apply Preset
+C91046D1,建築Lv.11で解放,Unlocks at Building Lv. 11
+C92D9CEC,増幅,Amplify
+C931653C,シーン,Scene
+C95BC85C,Lv.10/40,Lv.10/40
+C9761A71,タップして続ける,Tap to continue
+C982BB5A,x150%,x150%
+C990ADF2,赤いベリーを追跡中,Tracking Red Berry
+C9B1A53E,120秒以内に相手を倒す,Defeat the opponent within 120 seconds
+C9B3855C,獲得可能：,Available:
+C9C2DC90,農園特性,Farm Traits
+C9F3F5E6,ディフェンス,Defense
+CA344985,スターアビスに戻る,Return to Star Abyss
+CA3F326B,追加スキルはありません,No bonus skills.
+CA460018,押してキボを追跡,Tap to track the Kibo.
+CA4B1BA2,キボ最大レベル,Kibo Max Level
+CAA2C6D4,情景に入る,Enter Scene
+CAE7B8EC,～左側を押して入居するキャラクターを選択～,~ Tap left to choose a resident ~
+CAF58643,PETGENE,PETGENE
+CB063745,パーティ参加申請はありません。,No party join requests.
+CB13F485,キック,Kick
+CB185163,確認,Confirm
+CB37659F,プレイヤーのニックネーム,Player Nickname
+CBB10922,攻撃+200,ATK +200
+CBB7466B,厲環,Lihuan
+CBC5D47D,必要な納品アイテム,Required Deliveries
+CBDCABAD,解放,Unlock
+CC08942E,幻器を選択してください。,Select a Phantom Gear item.
+CC0CDE3A,昇臨度アッププレビュー,Ascension Upgrade Preview
+CC16F6EC,プレビュー中,Previewing
+CC42DD31,ON,ON
+CC48C360,500/3,500/3
+CC6AD711,紅焔の神奇使図111,Crimson Flame Divine Kibo Wielder Chart 111
+CC7935DE,編成確認,Review Party
+CC807BDB,ルール説明,Rules
+CC890A71,ResVer:1.1.1,ResVer:1.1.1
+CCAE2AA8,UPの残り回数：3回,Rate-Up Uses Left: 3
+CD139700,超限成長！,Overlimit Growth!
+CD6BEF8B,Enter text...,Enter text...
+CDD2779A,Azur Promilia,Azur Promilia
+CDDF02EB,編成編集,Edit Party
+CDF1544C,製作へ,Go to Crafting
+CE0CFB3D,所持合計数,Total Owned
+CE1C7E1A,爆発,Burst
+CE302DA7,注文所を建設する,Build the Order Board
+CE459F65,"村長の研究材料を集めるため、芽吹の谷の薬草を納品する必要がある。
+芽吹の谷から持ち帰った
+【激辛エイプル5個】【古いパン1個】【ポポ草5個】を村長に渡す。","Deliver herbs from Sprout Valley for the Village Chief's research.
+From Sprout Valley, bring back
+[5 Extra-Spicy Aples] [1 Stale Bread] [5 Popo Grass] and give them to the Village Chief."
+CE5DEB30,出発,Depart
+CE875BAA,調整へ,Go to Adjust
+CE8C2752,合成可能数：4,Craftable: 4
+CE975CBA,意志の宝箱,Chest of Resolve
+CEB98EDC,四喜団子,Four Joy Dumplings
+CED1152A,収穫箱を使うには、採集担当のキボを配置してくださいね～,Assign a Kibo to gather before using the Harvest Box.
+CED3D089,作業管理,Manage Work
+CEFED15A,対決目標,Duel Objective
+CF16C2F6,この書籍はまだ獲得していません。,You haven't obtained this book yet.
+CF32AAFC,星識レベルが<color=#ffa200>20</color>に到達すると、レベル上限を上げられます。,Raise Star Sense to <color=#ffa200>20</color> to increase the level cap.
+CF840D3F,除去する,Remove
+CFA02609,通常冒険,Standard Adventure
+CFA3B3B7,視野角を調整,Adjust Field of View
+CFCD41F0,Far,Far
+CFD6A7D9,NO.061,NO.061
+D00F7F20,新しいクエストを受注,Accept New Quest
+D020C92C,この池では【瑶瑶木】の釣り竿を選べます。珍しい魚が釣れる確率が上がりますよ～,"At this pond, choose a [Yaoyao Wood] rod for a better chance to catch rare fish."
+D0299447,レベル報酬,Level Rewards
+D03173EE,書籍名は七文字,Book Name (7 Characters)
+D051008E,招待,Invite
+D065F8BC,クエストを受注,Accept Quest
+D0749AAB,SUCCESS,SUCCESS
+D076902B,同調,Sync
+D082B2D3,以下すべての報酬を獲得,Claim All Rewards Below
+D09075FB,MI_MI_MI_都市の吟遊詩人,MI_MI_MI_City Bard
+D09154E4,モンスターを倒す-,Defeat monsters -
+D096E8AA,野菜サラダ,Vegetable Salad
+D09B367B,クエストへ向かう,Go to Quest
+D0DFF537,外観を元に戻す,Restore Appearance
+D0F34FDF,誕生日を設定,Set Birthday
+D167FC14,挑戦クエスト,Challenge Quest
+D16DED23,ADVENTURE,ADVENTURE
+D1805749,キャラクターとアニマ,Characters and Anima
+D18AC191,報酬の受け取りに必要な消費,Spend to Claim:
+D18FFC69,ブロックリストは空です,Blocklist is empty.
+D1AEB74F,出荷時の追加上昇幅,Extra Shipping Increase
+D1B3623B,HereIsServer,HereIsServer
+D1D5F473,通常攻撃の3段目で範囲火炎ダメージを与え、命中したターゲットを炎上させる。毎秒攻撃力の30%のダメージを与える。効果時間8秒。,"The third basic attack deals area Fire DMG and inflicts Burn, dealing 30% ATK as DMG per second for 8s."
+D1F85D1E,今日の残り回数,Attempts Left Today
+D232B0CF,テストテキスト,Test Text
+D233B163,TODO_星臨者様、こんにちは～本日のログインボーナスです。お受け取りください~~~_TODO,"TODO_Hello, Starborn! Claim today's login bonus!_TODO"
+D2554BEA,マウント,Mount
+D26F6C7E,課題報酬,Task Rewards
+D29328A8,氷炎燃焼・虚灼,Frostfire Burn: Void Scorch
+D2E8FD21,生産物,Products
+D2F0B30C,本日の回数が上限に達しました。,Daily limit reached.
+D2F3FF2E,戦闘タイプ,Combat Type
+D2FE24AF,衣装,Outfit
+D3427148,臨時,Temporary
+D34CF999,総合評価,Overall Rating
+D36D1296,5時間,5h
+D3C12A0E,リスト内,Listed
+D4C1236B,アクティブなノード数,Active Nodes
+D4CE8506,ピックアップに指定するアニマを1つ選べます。選択はいつでも変更できます。★5獲得までの進捗はリセットされません。,Pick one Anima for Rate Up. You can change it anytime. Your ★5 guarantee progress carries over.
+D4E01528,次の回復：05分20秒    全回復：12時間35分,Next Refill: 05m 20s    Full Refill: 12h 35m
+D4F32EF4,未定,TBD
+D4FD4F7C,耕作中止,Stop Cultivation
+D517ACB6,簡易,Simple
+D51DEABA,果物好きの地元素,Fruit-Loving Earth Element
+D53AEB78,SS,SS
+D54451CC,Lv.1,Lv.1
+D59472CD,続きを見る,View More
+D5A50852,餌を与える,Feed
+D5CF2D37,彼女に告げる：「全く違うあの世界に戻りたい。君と一緒に」,"Tell her: ""I want to go back to that different world. With you."""
+D5D2CDB6,Lv.99,Lv.99
+D5D559B5,Y  確認,Y Confirm
+D5DD83DD,未成年者のゲーム利用制限,Play Limits for Minors
+D5F3A206,ASFWQRDF,ASFWQRDF
+D5FB43C3,会話システムのプレビューを閉じる,Close Dialogue Preview
+D6249BC1,90度回転,Rotate 90 Degrees
+D624F7A4,キボボックス,Kibo Box
+D62FD353,愛と利益は同じものなのよ、佳。貧しく疲れた私たちの頭にとって、自分は愛することができ、愛されていると信じるほうが有利な選択なの。母は息子を愛し、祖国はその,"Love and gain are the same, Jia. To tired, broke minds like ours, it pays to believe we can love and are loved. A mother loves her son, a homeland its"
+D631D8A5,お別れ,Farewell
+D678FFDE,終 了,End
+D679CA86,獲得可能,Available
+D685150A,残り時間：,Time Left:
+D6D2E5C2,捨てる聖紋を選択してください。,Select a Seal to discard.
+D6D93D98,設置エリアを超えています。,Outside the placement area.
+D6DF6D7B,マンドラゴラ,Mandrake
+D6F39FD5,困難,Hard
+D6FDAB1B,他プレイヤーの農園を訪問する,Visit Other Players' Farms
+D74CC57B,Lv.50,Lv.50
+D7542A1C,ルームマスター報酬：,Host Reward:
+D75ABC22,途中退出,Leave Early
+D75CF770,髪,Hair
+D7776ED7,KIBO NAME,KIBO NAME
+D78E3305,「はいはい、これって……,"""Yeah, yeah, this is..."
+D7EC2D3F,名称,Name
+D81BB206,無,None
+D8217811,装備強化レベル,Gear Upgrade Level
+D83D5389,討伐\xB7キングラーガ,Hunt King Raga
+D84CE27F,在庫 156/600,Stock: 156/600
+D84FF70C,固有演出：,Unique Animation:
+D8592BD6,所持済み,Owned
+D8AABA03,装飾,Decorations
+D8C2E90D,-フィールドでこのキボとスターリンクすると、この図鑑が解放されます-,- Star-Link with this Kibo in the field to unlock its index entry -
+D8C7E04C,情報,Info
+D8F0D179,X20000,X20000
+D9336549,コンテンツプレビュー,Content Preview
+D941ED62,R  E  W  A  R  D  S,R  E  W  A  R  D  S
+D96C6713,草発送任務を開始中,Starting grass dispatch quest
+D996024D,"高原の雪山で苦労して手に入れたキボのタマゴ。触るとひんやり
+している。賢いキボが孵りそう！","A Kibo egg won with effort in the snowy highlands. It feels cool
+to the touch. A clever Kibo might hatch!"
+D99AB4A8,豫州界遺跡,Yuzhou Boundary Ruins
+D9A2FD47,(+5)会心ダメージ,(+5) CRIT DMG
+D9AC9228,作成,Create
+D9AE4606,一定の確率で獲得,Chance to Obtain
+D9F09B7B,テストテキスト,Test Text
+D9FE687B,目標切り替え,Switch Target
+DA01BB1C,戦闘,Battle
+DA0B25B1,ランク報酬,Rank Rewards
+DA352ABD,期間限定イベント,Limited-Time Event
+DA53E901,巣穴,Burrow
+DA693D81,多彩な支援能力を持ち、仲間にさまざまな強化効果を与えてチームの戦闘力を高める,Supports allies with a range of buffs to strengthen the party.
+DA8B7E01,氷霊の微息,Ice Spirit's Faint Breath
+DA917E6E,本日の上限：,Daily Limit:
+DA98D126,B     A     T     T     L     E     F     A     I     L     E     D,B     A     T     T     L     E     F     A     I     L     E     D
+DAD5D5AB,納品できるアイテムがありません,No items to deliver.
+DAD99599,期間限定依頼,Limited-Time Request
+DB7A19FF,スキップの投票を行いますか？,Start a vote to skip?
+DB893767,SELECT CHARACTER,SELECT CHARACTER
+DBB553B4,超絶風行の雲龍,Cloud Dragon of Supreme Winds
+DBF39EF4,残り時間：30秒,Time Left: 30s
+DC5341BB,キャラクター表示,Show Character
+DC65C1A9,キャラクターを非表示,Hide Character
+DC7C5C85,マップ探索,Map Exploration
+DC7FE48F,変異,Mutation
+DCB4195C,導きの道,Path of Guidance
+DCD9528A,突破,Breakthrough
+DCF1D6EC,NEW!!,NEW!!
+DD753679,I,I
+DD7E6DCE,今日プレゼントできる回数：,Gifts Left Today:
+DD7FF4FF,満員,Full
+DD92F2C4,セット効果（2）：装備者の防御力+15%。装備者の効果命中が1,2-Piece: Wearer DEF +15%. Wearer's Effect Hit Rate is 1...
+DD97B20D,無敵の子グマ,Invincible Bear Cub
+DDE2861D,行商の手記,Peddler's Notes
+DDF091CF,録画を開始,Start Recording
+DDF20B1A,解釈レベルがLv.5の決闘者,Duelist with Interpretation Lv. 5
+DE199736,"ポール少年は言った。「出場したのは僕じゃなくてピーチィだよ。この子はただ、くしゃみをしただけだけど……この子が焼いた低木を気に入ってくれた？僕にはよくわからなかったけど、審査員さんは喜んでくれたみたいだよ！」 
+傍らではピーチィが、話に合わせるようになんどもくしゃみをする。そのたびに小さな火の粉が噴き出し、危うく筆者の服にも飛びかけた――どうやら体調が悪いようだ。療養院に行った方がいいかもしれない。
+以上が、今回のコンテストの現場からのレポートだ。
+まもなく開催される本格的なフリス低木剪定コンテストでは、さらに多くの者が世界各地からフリスに集まって来るだろう。いったい、どんな作品を見ることができるのか？どうぞご期待いただきたい。","""I didn't enter. Peachy did,"" said Paul. ""Peachy just sneezed... Did you like the shrub Peachy burned? I didn't get it, but the judges seemed happy!""
+As if on cue, Peachy sneezed repeatedly. Each sneeze threw off sparks that nearly caught my clothes. Peachy seems unwell and might need a visit to the sanatorium.
+That's all from the contest floor.
+The main Fleece pruning contest opens soon and should draw even more visitors from around the world. What will they come up with? Stay tuned."
+DE24BFB7,アイテム,Items
+DE268286,MAX,MAX
+DE2D10AD,通常攻撃ダメージ増幅,Normal Attack DMG Amp
+DE7CB824,新たな特性を解放,Unlock New Trait
+DEC04C5C,Lv.24,Lv.24
+DECC353A,討伐完了,Hunt Complete
+DEE50E71,テストテキスト,Test Text
+DEF9E98B,折りたたむ,Collapse
+DF011658,範囲,Range
+DF0D9A63,遅延調整,Adjust Delay
+DF187E5E,幻器,Phantom Gear
+DF1FD910,あなた,You
+DF33FEAC,小/中/大/特大,S/M/L/XL
+DF3BBD52,火,Fire
+DFAC151D,上級,Advanced
+DFB6BFA4,ピックアップ,Rate Up
+DFBE3B52,本日の捕獲上限：0/5,Today's Catch Limit: 0/5
+DFCF28D0,G,G
+DFDBB2A2,騎乗タイプ,Mount Type
+DFECC2F1,所持：,Owned:
+E008E6FB,報酬をランダムで1つ獲得,Get 1 random reward
+E017AE58,チームへの招待,Party Invite
+E0200AB2,指を離すと切り替えられます,Release to switch.
+E02CE2F7,討伐\xB7キングラーガ,Hunt King Raga
+E03200A6,レベルを上げる,Level Up
+E0545759,x 500,x 500
+E06A970E,必要なアイテム数             :,Items Required:
+E077FEF8,編成を有効化,Activate Party
+E086AC2A,輝く冒険者,Shining Adventurer
+E08F874E,フレンドの参加を待っています……,Waiting for friends to join...
+E0A1B049,スコア,Score
+E0A5E08A,木,Wood
+E0EC818E,（2.83GB）,(2.83GB)
+E0F44ECB,総達成度,Overall Completion
+E0F6985C,才能はありません,No talents
+E0FDD84A,一括授与,Grant All
+E10B6AB6,DEVICE,DEVICE
+E10CEEB0,メッセージボトル、またはボトルメールとは、通信手段の一つである。メッセージ（手紙やプロフィールカード、あるいは奇妙な品物など）を密閉された容器（通常はガラスの,"A message in a bottle, or bottle mail, is a way to communicate. A message, such as a letter, profile card, or odd object, goes into a sealed container, usually glass..."
+E1230A47,1分30秒,1m 30s
+E128A0A0,視点01,View 01
+E14A780B,敵のレベル範囲,Enemy Level Range
+E1C74B43,報酬の受け取りに必要な消費,Spend to Claim:
+E1CC1E4E,氷に閉ざされた群島で、鎌鼬の王が生態系に悪影響を及ぼしています。討伐して、住民たちがまたひえひえの実を採集できるようにしましょう！,The Sickle Weasel King is harming the frozen islands' ecosystem. Defeat it so residents can gather Chillfruit again!
+E1DA4691,キャラクター編成,Character Party
+E1DE244B,画面上の任意の場所をタップして閉じる,Tap anywhere to close.
+E1E1D3D4,R,R
+E1F2D513,AUTO,AUTO
+E1F6FC74,特殊スキル変更！,Special skill changed!
+E2060370,プレゼント済み,Gift Sent
+E21345E9,開錠,Unlock
+E223BB8D,調査エリア進捗,Survey Area Progress
+E22C9A05,入れ替え,Swap
+E241D807,修復した数：0/3,Repaired: 0/3
+E2585502,マウントの満腹度自動回復設定,Mount Auto-Feed Settings
+E265E9B6,再挑戦,Retry
+E273B17D,〈合成に必要な素材がそろいました〉,[All synthesis materials ready]
+E2BDC0DD,レベル上限アップ,Raise Level Cap
+E2C4B44D,生産を開始,Start Production
+E2CBF882,招待を受ける,Accept Invite
+E2DD6A00,SURVEY REWARDS,SURVEY REWARDS
+E2FE818E,プリセットを保存,Save Preset
+E328CFC5,選択したキボを配置,Place Selected Kibo
+E33AA11C,Lv.6で解放,Unlocks at Lv. 6
+E352A08D,FEED,FEED
+E35E1ECF,現在、小屋にキボがいません。,No Kibo in the hut.
+E366CCF1,設定,Settings
+E3736F6D,ワープポイント,Warp Point
+E37B746A,評判レベル解放,Reputation Level Unlocked
+E388C759,一括回収！,Collect All!
+E3A52697,クリアタイム,Clear Time
+E3AF1E41,クリア済み,Cleared
+E3BE2069,キズナストーリーは制作中です。お楽しみに……,Bond Stories are in development. Stay tuned...
+E40267F1,伝説/特殊生命体記録【10/20】,Legendary / Special Lifeform Records [10/20]
+E4095126,キボファイト,Kibo Duel
+E42B99D5,月,Month
+E45425C9,PosOffset,PosOffset
+E4560CB6,普通以上の彫像の数が15個未満です。,Fewer than 15 statues of Normal quality or higher.
+E46C64F3,背景切替,Switch Background
+E48103F3,イベント,Events
+E4919CEC,一部の職種は、キボに農園施設で生産を行わせることで評価を上げられます。上限に達すると、それ以上は上げられません。,Raise some Kibo job ratings by assigning them to farm production. Ratings can't rise past their cap.
+E49D6CDD,フレンド追加,Add Friend
+E4A2FB18,調律,Tuning
+E4AF15F1,倉庫がいっぱいです。回収してください,Storage is full. Collect your items.
+E4BDCE3B,散歩,Stroll
+E4F9E270,星 空 の ご と き 紺 碧,Azure as the Starry Sky
+E500B4CE,調査開始,Start Survey
+E52ACE0E,エリアボス,Area Boss
+E5452BF7,討伐\xB7刺尾の大鷲,Hunt\xB7Barbtail Eagle
+E5586CEA,すべて交換しました。,All exchanges complete.
+E5857BDA,BATTLE     CLEAR,BATTLE     CLEAR
+E5A0E335,ルルカ,Luruka
+E5B24420,VISIT,VISIT
+E5D48CA7,プレイヤーが操作中……,Player in control...
+E5D48CA7+1,プレイヤーが操作中……,Player in control...
+E5D48CA7+2,プレイヤーが操作中……,Player in control...
+E5D9F3CF,追加,Add
+E5EF4931,NO.8,NO.8
+E5F71FC3,検索,Search
+E5F85C56,MI_キャラクターを非表示,MI_Hide Character
+E61F2CC4,同意,Agree
+E628C4EB,収穫箱は空っぽ。まだ収穫物はありません,Harvest Box is empty. Nothing harvested yet.
+E63160D5,聖物はありません。,No Relics.
+E643C719,レベルアップ,Level Up
+E649498F,プレイヤー情報を表示,View Player Info
+E650E4CA,緊急備蓄,Emergency Stockpile
+E66504FC,特殊な意志がありません。,No special Wills.
+E6730718,25時間61分,25h 61m
+E673449D,協力,Co-op
+E69CA2D0,孵化開始,Start Hatching
+E6A8E1EB,アズールプロミリアアズールプロミリア,Azur Promilia Azur Promilia
+E7001887,矢で周囲の自然元素を集中させ、風元素を呼び集める。エネルギーを放ち魔法の矢を形成して、攻撃力の910%の風属性ダメージを与える。命中した敵に被ダメージアップ効果を付与し、受けるダメージが10%増加する（12秒間）。,Gather natural elements with an arrow and draw in Wind. Release the energy as a magic arrow dealing 910% ATK as Wind DMG. Targets hit take 10% more DMG for 12s.
+E705F37E,時間を調整,Adjust Time
+E70F8764,平原の説明,Plains Description
+E70FB0C8,チャンネルを切り替える,Switch Channel
+E7239A93,必要な素材,Materials Required
+E74BDA1E,テストテキスト,Test Text
+E74C1C9F,エンディングへ,Go to Ending
+E7574F0C,解放-芽吹の谷-飛行権限,Unlock Flight in Sprout Valley
+E774F642,建物をアップグレード,Upgrade Building
+E7BBA992,通常攻撃が命中した時、一定時間攻撃力が上昇する。,Normal Attack hits briefly boost ATK.
+E7C23911,ライティングのパラメータ,Lighting Parameters
+E7CF0E00,過去の収入,Past Income
+E7E35CF1,MI_未建設,MI_Not Built
+E83A256E,確認,Confirm
+E868DA28,- COMPLETED -',- COMPLETED -'
+E868F29A,77mm,77mm
+E869E776,追跡解除,Stop Tracking
+E8746583,バフ建築【水車】,Buff Building [Waterwheel]
+E8BC2616,採集,Gather
+E8BD44C1,効率200%,200% Efficiency
+E8C699BB,キボ展示,Kibo Showcase
+E8D519E7,何も言わない,Say Nothing
+E8E3DF53,切り替えカウントダウン：,Switch In:
+E92668A6,召喚をキャンセル,Cancel Summon
+E92668A6+1,召喚をキャンセル,Cancel Summon
+E97049EE,未配置,Not Placed
+E976A14D,（+5）攻撃ごとに雷属性ダメージを10ポイント追加,(+5) Add 10 Lightning DMG to each attack
+E98F3E62,プランを確定,Confirm Plan
+E9922454,入居管理,Manage Residents
+E9B4472E,今週の在庫：20,Weekly Stock: 20
+E9E8054F,メール,Mail
+EA15AE2B,選択肢,Choices
+EA2E2D6C,チーム全員のHPを100回復する。,Restores 100 HP to all party members.
+EA328DC7,現在の段階,Current Tier
+EA35FE97,永久購入制限：1/1,Lifetime Purchase Limit: 1/1
+EA683A45,自動スタック機能,Auto-Stack
+EA8FAD39,所持済み：,Owned: 
+EAA2D12D,EYE,EYE
+EAB619FB,水,Water
+EAB7BCD4,何もありません,Nothing here
+EABC9B5B,未解放,Locked
+EAC756A8,装備の追加効果,Bonus Gear Effects
+EAC75849,すべて拒否,Decline All
+EACD12A5,夜中三,Third Watch
+EADD05BA,中,Medium
+EB2AED4F,推奨レベル： Lv.,Recommended: Lv.
+EB4A134C,LEVEL UNLOCK,LEVEL UNLOCK
+EB6A797E,所持数：0,Owned: 0
+EB9B5E48,潜んでいる,Lurking
+EBB37CFF,パミー保護会,Pammy Protection Society
+EBBAC050,幻器コレクション,Phantom Gear Collection
+EBECF7F6,チェストアクセサリー,Chest Accessory
+EBF14411,名もなき指輪,Nameless Ring
+EBF7F167,パックショップ,Pack Shop
+EC02815D,名前変更,Rename
+EC02815D+1,名前変更,Rename
+EC211F7C,ADD,ADD
+EC2322CF,上下に移動：,Move Up/Down:
+EC244700,悦の星湧,Joyful Starwell
+EC2D635D,ドロップ報酬,Drops
+EC300B27,幼体期,Young Form
+EC4457FC,02:35,02:35
+EC46CFEF,LEVEL,LEVEL
+EC69B34F,CLOTH,CLOTH
+EC7C194A,低品質食材を優先,Prioritize low-quality ingredients.
+ECCBC87E,3,3
+ECFF77A8,使用する,Use
+ED43D228,敵情報,Enemy Info
+ED5C96FC,チーム全員のHPを100回復する。チーム全員のHPを100回復する。,Restore 100 HP to the party. Restore 100 HP to the party.
+ED5F6285,<color=#96F9FF>キボホイールを開き</color>、キボのスキルを駆使して謎を解きましょう。,<color=#96F9FF>Open the Kibo Wheel</color> and use Kibo skills to solve puzzles.
+ED78401F,エリアレベル,Area Level
+EDA1BC61,DETAIL,DETAIL
+EDA49CA0,時間の進行状況,Time Progress
+EDBEB17B,作業中,Working
+EDCE43A1,新たな生産物,New Products
+EDD8BA90,キャラクターを非表示,Hide Character
+EE200FA0,【報酬の受け取り消費,[Reward Claim Cost
+EE3225DC,すべてのボックス,All Boxes
+EE38EECC,MI_おすすめ,MI_Recommended
+EE3D9E50,No.3 キャラクター,Character No. 3
+EE98A137,建設モード,Build Mode
+EEA45DAA,傲慢な異教徒,Arrogant Heretic
+EEA8AFDC,報酬をお受け取りください,Claim your rewards.
+EEB69088,前のステップ,Previous Step
+EEC247B0,指定するアニマを選択,Select an Anima
+EEF858CB,推奨レベルLv.60,Recommended Lv.60
+EEFC2E12,未解放,Locked
+EEFF36DD,HAPPY NEW YE,HAPPY NEW YE
+EF1C8B91,回収できるようになりました！,Ready to collect!
+EF5500AF,CV：,CV:
+EF6CB103,入居させる,Move In
+EF82C094,戦モード中、クリック,Click in Battle Mode
+EFA66C8D,以下の方法でチームを強化,Strengthen your party in these ways:
+EFB71429,ITEM NAME,ITEM NAME
+F013EA9D,読み込み中,Loading
+F02E7CEE,魔法防御＋,Magic DEF+
+F0409ECF,未選択,Not Selected
+F047EF69,<color=green>12+1</color>/12,<color=green>12+1</color>/12
+F0523BF3,ボス,Boss
+F0591C80,THE CHAPTER ',THE CHAPTER '
+F0705F3D,所要時間,Time Required
+F094E416,今期のバフ,Season Buff
+F09564C9,Q,Q
+F0A633BC,キャラクターをレベルアップ,Level Up Character
+F0CB293D,ワールドに戻る,Return to World
+F1211C61,IN EFFECT,IN EFFECT
+F13F67B4,ベリー,Berry
+F156AEA5,「コンテスト？なんの大会か知らないけど……僕はただの観光客だよ。ちょっと神経質なだけなんだ」アマチュア低木剪定コンテストの優勝者が本紙の記者に語った第一声だ。,"""Contest? I don't know what contest you mean... I'm just a tourist. A little high-strung, that's all."" These were the amateur shrub-trimming champion's first words to our reporter."
+F1851D56,Enter,Enter
+F1862177,O,O
+F1A220BD,今は何もない,Nothing here yet.
+F1BC348F,"ごく少量の満月草を香辛料として味付けした焼き魚。満月草は
+肉の臭みを消し、サクサクとした焼き魚の香りに加えて
+森の瑞々しい香りを与え、全体をよりサクサクに
+12312123123
+12312123123
+12312123123","Grilled fish spiced with a pinch of Full Moon Grass. It
+cuts the meaty smell, adds a fresh forest aroma to the grilled fish,
+and makes it even crisper.
+12312123123
+12312123123
+12312123123"
+F1CBD082,満腹度,Fullness
+F1CE1EBE,ブロックリストに追加,Add to Blocklist
+F1D4FF50,カスタマイズ,Customize
+F1F334C7,拾う,Pick Up
+F22768E6,x1600,x1600
+F23C5F60,MORE,MORE
+F2535079,チーム全員のHPを100回復する。,Restores 100 HP to all party members.
+F259FC6A,~建設~,~Build~
+F260AFC4,幽光の炎核\xB7勇気を5個製作する,Craft 5 Ghostlight Flame Cores: Courage
+F26225BD,詳細,Details
+F275BF1C,バフを有効化しました,Buff activated.
+F27AB93D,【鍵x1】を消費して宝箱を開けますか？,Spend [Key x1] to open the chest?
+F2AA43C8,テストテキスト,Test Text
+F2B1A578,このキボにまだ図鑑クエストがありません。,This Kibo has no index quest yet.
+F2DAA59F,この料理はキボのエサ入れに入れられません。,This dish can't go in the Kibo Feeder.
+F2FB97ED,テストテキスト,Test Text
+F2FCD5CB,PERFECT,PERFECT
+F303C10A,ショップ,Shop
+F30B5655,心得の熟練度,Mastery Proficiency
+F3107E04,セット効果（2）：装備者の防御力+15%。装備者の効果命中が50%を超えると、防御力は追加で+15%。,"2-Piece: Wearer's DEF +15%. If Effect Hit Rate exceeds 50%, DEF +15% more."
+F334D1B1,他の入手方法,Other Sources
+F34D9B8A,現在のシーンID：,Current Scene ID:
+F3972AD9,名前を入力,Enter Name
+F39A81D5,ノーフランドの旅人,Traveler from Norfland
+F3AE9F3D,生産建築,Production Buildings
+F3DA8DB4,因子,Factor
+F3E3263B,脱落済み,Eliminated
+F3F5C8C7,パミーの秘術,Pammy Secret Art
+F3F7F09D,鈍感力,Thick Skin
+F41256A0,アップグレード条件,Upgrade Requirements
+F433ADA2,アダスダ,Adasda
+F44CAB66,ルール,Rules
+F4585EB2,500m,500m
+F4655DC9,育成,Training
+F4660F84,ランダムマッチング,Random Matchmaking
+F48F10F4,参加できるチームが多く存在します。,There are many parties you can join.
+F4B3D6E8,まだ装備を入手していません。,You haven't obtained this gear yet.
+F4CBE0C8,フレンド追加,Add Friend
+F4CDCD2E,ポインターを動かして時間を調整してください,Move the slider to adjust time.
+F4F85316,前のページ,Previous Page
+F5037012,今回の購入上限：2,Purchase Limit: 2
+F528DB39,メロウミーミーミーミーミーミーミーミーミーミーミーミーミーミーミーミー,Mellowmee mey mey mey mey mey mey mey mey mey mey mey mey
+F5391A8D,10体の敵に、一撃ごとに210%のダメージを与える。最大8秒間持続。持続時間に比例して、ダメージは最大900%まで増加する。ボスを攻撃する時、攻撃力が30%上昇する。,"Deals 210% DMG per hit to 10 enemies for up to 8s. Damage scales with duration, up to 900%. ATK +30% when attacking bosses."
+F542E296,SSS,SSS
+F549FCCE,ステージ報酬,Stage Rewards
+F5F3468C,紫色のブルーベリー,Purple Blueberry
+F5FF5729,スターリンクの印,Star Link Mark
+F60CE9D8,ボス 鎌鼬の王を倒す,Defeat the Sickle Weasel King (Boss)
+F6214EDF,レベル順,By Level
+F623E75A,D,D
+F63CAE04,チームを離れました。,Left the party.
+F66EB6A6,すべて投入,Add All
+F684BF05,TAB,TAB
+F6891880,砕けた記憶の間,Chamber of Shattered Memories
+F68D5C7C,一括回収！,Collect All!
+F6924652,テストテキスト,Test Text
+F6A20A36,入手 - 紫雲村の評判クエストで交換,Source: Exchange via Ziyun Village reputation quests.
+F6A2B0B0,キボ操作,Kibo Control
+F6A99DD8,昨日の収入,Yesterday's Income
+F6B5A813,安定レベル,Stability Level
+F6C2363E,スキップしますか？,Skip?
+F6EBF8F5,有効,Enabled
+F6EDFE55,スキル詳細,Skill Details
+F6F2572C,"'UP
+
+
+'","'UP
+
+
+'"
+F6F9D7A8,<color=#f45757>20</color>/10,<color=#f45757>20</color>/10
+F737DC80,毎週月・水・金曜日は2倍になります,"Doubled every Mon, Wed, and Fri."
+F760FF22,地元素の微粒子,Earth Particles
+F76C5B60,星閃,Starflash
+F79BC3E2,草タイプのキボを【3/20】体集める,Collect [3/20] Grass Kibo
+F7C8E349,水車小屋（建築済み）・【金麦】の種まき時,Watermill (Built): When sowing [Golden Wheat]
+F7DE3418,継承を行う同名装備を選択してください。,Select gear of the same name to inherit from.
+F7E68BDE,よく使う項目,Frequently Used
+F7EC2DCD,ラーガ剣,Raga Sword
+F7F86CFE,スキル一覧,Skills
+F81ADAA7,"通常攻撃の3段目が範囲に火属性ダメージを与え、命中した敵を炎上させる。炎上した敵は
+毎秒攻撃力の30%のダメージを受ける（8秒間）。","The third basic attack deals area Fire DMG and inflicts Burn. Burning enemies take
+30% ATK as DMG per second for 8s."
+F821457A,Lv.1,Lv.1
+F843DAA2,著者：テララ,Author: Terara
+F84DE93E,すべてクリア済み,All Cleared
+F85D4195,最高討伐スコア,Best Hunt Score
+F880C705,農園での生産,Farm Production
+F8871A29,あらすじ,Synopsis
+F89593DB,好み,Likes
+F8A80794,職種経験値,Job EXP
+F8AB9481,画面のどこかを押して続ける,Tap anywhere to continue.
+F8B666C7,赤ドラゴンの咆哮セット（2/6）,Red Dragon's Roar Set (2/6)
+F8D76B15,クリア報酬,Clear Rewards
+F8DD0CA6,メンバー変更,Change Members
+F8DEC94B,ダンジョンの難易度は星脈の活性度によって調整されます。,Dungeon difficulty scales with Star Vessel activity.
+F9259660,アイテムアイコンを長押しすると詳細を確認できます,Hold an item icon for details.
+F943BDD2,MI_未派遣,MI_Not Dispatched
+F970D027,消費,Cost
+F97EA3E7,MI_受取可能,MI_Claimable
+F9AB6596,物理防御力,Physical DEF
+F9B76169,レアな星雨の果実,Rare Starshower Fruit
+F9CF3914,エリートモンスター,Elite Monster
+FA112B5B,外見切り替え,Switch Appearance
+FA112B5B+1,外見切り替え,Switch Appearance
+FA177138,SYSTEM,SYSTEM
+FA191E91,ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。,Umi flows into any gap it finds. Leave an empty jar or bottle out long enough and an Umi may appear... Nothing adapts to tight spaces better than Umi.
+FA405F59,環境,Environment
+FA7FFA2D,解放,Unlock
+FA8631C1,7S,7S
+FA86F1A5,お知らせ,Notices
+FA8AEED7,生産完了,Production Complete
+FA8F141E,キボの配置,Assign Kibo
+FA94AB74,討伐開始,Start Hunt
+FAAF276D,観測結果,Pull Results
+FAC99867,23日,23d
+FAD5222C,完了,Complete
+FB0060BF,"キ
+ャ
+ラ
+選
+択","Char
+ac
+ter
+Se
+lect"
+FB18356F,解放すると以下の報酬を獲得できます。,Unlock to claim these rewards.
+FB477D23,水車小屋（建築済み）・【金麦】の種まき時,Watermill (Built): When sowing [Golden Wheat]
+FB4E0E9E,通常の報酬を受け取る,Claim Standard Rewards
+FB5FF505,キャラクターのボイスをオフ,Mute Character Voices
+FB7D59AD,チーム,Party
+FB7F056B,メインエリア,Main Area
+FB852FC6,進行中,In Progress
+FB9DC10F,ステージ難易度,Stage Difficulty
+FB9FDA48,手がかりを調査,Investigate Clues
+FBADE9E3,Z,Z
+FBBC89E3,テララの寮,Terara's Dorm
+FBD39FE0,NO.,NO.
+FBFC78C8,R-MOUSE,R-MOUSE
+FC34930E,タップして終了,Tap to exit.
+FC34C3E5,新しいクエストを受け取りました！,New quest accepted!
+FC365C13,キボのエサ入れ,Kibo Feeder
+FC46D3B2,ラーガ怒った,Raga Got Mad
+FC6C4C40,探索,Explore
+FC802085,プランを保存,Save Plan
+FC9952BB,ランクアップ,Rank Up
+FC9C9768,在庫1,Stock: 1
+FCB68C8C,必要なマウントを選択,Select the required mount.
+FCEBF803,NPCの名前,NPC Name
+FD572B8C,スキルブックのギフトボックス,Skill Book Gift Box
+FD735E8A,プレゼント,Gift
+FD7DC273,Y軸：,Y Axis:
+FD86664B,メロウミミミミミミミミミミミミミミミミミミミ,Melomey mey mey mey mey mey mey mey mey mey mey mey mey mey mey mey mey mey mey
+FDC47F9D,報酬の受取に必要：,Claim Requirements:
+FDC9A386,チャンネルを追加,Add Channel
+FDEEE5C5,JIXIN,JIXIN
+FE2D0103,1200,1200
+FE41250D,現在の獲得数,Current Amount
+FE47D347,オブジェクト配置,Place Objects
+FE5725D5,獲得可能報酬,Available Rewards
+FE573660,ベース,Base
+FE855FD8,キャラクターが見つかりませんでした。,Character not found.
+FED84F9D,キボとのお別れは取り消せません。慎重に操作してください。,Parting with a Kibo can't be undone. Proceed with care.
+FEDF51BE,収穫,Harvest
+FEF4B1BD,星脈の活性度を調整,Adjust Star Vessel Activity
+FEFEE650,PETITEM,PETITEM
+FF01F462,鞍を所持していません,No saddle owned
+FF71C1DF,説明を入力,Enter Description
+FF954F0A,お別れ,Farewell
+FFB25007,次のステージ,Next Stage
+FFBF891A,アーカイブ室,Archive Room
+FFCD9A60,20.0秒,20.0s
+FFD5F33D,強さ,Strength
+FFF200F9,使用,Use
+FFF34219,同種の素材,Materials of the Same Type
+1C8701C2,ヘルプを検索,Search Help
+FA4D0298,実績獲得,Achievement Earned
+772DB328,項目を押すと該当ページへ移動します。,Press an entry to open its page.
+88A31DD6,スターリンク成功！,Star Link successful!
+E5359E65,旅の完了,Journey Complete
+FA1E1476,新たな旅を解放,Unlock New Journey
+5851F57B,スキップ（3秒）,Skip (3s)
+EC950F48,書籍を獲得,Book Obtained
+6281D207,キボ非表示,Hide Kibo
+9928065A,フレンド招待,Invite Friend
+A7ECCF6B,星巣ショップ,Star Nest Shop
+D316330B+1,段階,Tier
+0294E48E,決闘\xB7キボファイト,Duel\xB7Kibo Duel
+03387F72,衣装専用カラー,Outfit-Exclusive Colors
+070F558E,"購入後7日を超えた場合、またはメールボックスからアイテムを受け取った場合、
+またアイテムを使用した場合は、
+キャンセル（返金）できません。
+保護者の同意がない未成年者による決済（支払い）は、
+キャンセルすることができます。<link=http://m.nexon.com/terms/60><color=#ffae3b><u>[キャンセル規定の確認]</u></color></link>","If more than 7 days have passed since purchase, if you claimed the item from your mailbox,
+or if you used the item,
+you cannot cancel or get a refund.
+Payments by minors without a guardian's consent
+may be canceled. <link=http://m.nexon.com/terms/60><color=#ffae3b><u>[Cancellation Policy]</u></color></link>"
+0915B9E5,孤高の旅人,Lone Traveler
+0B47A1E6,レッドフレイム神器使いセット（2/4）,Red Flame Divine Gear Wielder Set (2/4)
+0B82A0FE,先行体験可能,Early Access Available
+CFAC5DE9,スターリンク期間残り,Star Link Time Left
+F7A3A1D5,すべての前提能力を習得する必要があります。,Learn all prerequisite abilities.
+3CBC0694,MAX,MAX
+184219E0,製造,Craft
+3DA4E2CF,切断済み,Disconnected
+C2DACAE3,タップしてマーカー名を入力,Tap to name marker
+C119C87D,モーション,Animation
+B4E2D0C4,スターリンク後のキボLv.,Kibo Lv. After Star Link
+11BC5A20,外見確定,Confirm Appearance
+28121193,雪晶石の聖剣<color=#3c479b>+10</color>,Snow Crystal Holy Sword<color=#3c479b>+10</color>
+51183FEF,超変異キボとスターリンクする,Star-Link with a Hypermutant Kibo
+3CAB45A3,星識レベル不足、スターリンク後のキボLv.,Star Sense too low. Kibo Lv. after Star Link:
+4AD5F14B,相性有利,Advantage
+3A77A337,相性不利,Disadvantage
+498B9E95,Lv.40,Lv.40
+4F061AAD,変更をキャンセル,Cancel Changes
+565A9460,異生類\xB7翼形族,Unique Class\xB7Feather Family
+888AF1F2,コミュニティ,Community
+56FBACA4,テンプレート名入力,Enter Template Name
+5974D662,スキル比較,Compare Skills
+5A0F14CA,昨日の増益分,Yesterday's Bonus Earnings
+5ADDA77C,キャバード大集合,Cabbird Gathering
+63C6DCC4,雪晶石の聖剣<color=#3c749b>+10</color>,Snow Crystal Holy Sword<color=#3c749b>+10</color>
+6E5D2D5A,「1匹、2匹、3匹……うぅ、耳がいっぱいある」,"""One, two, three... Ugh, so many ears."""
+80595E89,絆レベル10,Bond Lv. 10
+821D4DF1,魔法防御力（フォントサイズ最小：18）,Magic DEF (Min Font Size: 18)
+8868C266,飛行,Flight
+8F1ED2B8,乗りものアクセサリー,Mount Accessory
+9659DCD0,効果を2行で比較表示,Compare effects in two lines
+98D8CCAC,雪晶石の聖剣<color=#3c749b>+3</color>,Snow Crystal Holy Sword<color=#3c749b>+3</color>
+AC7AF9BE,真夜中に騒鳥を撃退！！,Drive off the noisy birds at midnight!!
+ADF6C034,都市の吟遊詩人ルーキー,Rookie City Bard
+B22E8C64,昨日の基礎収入,Yesterday's Base Earnings
+B43966BE,ポイントボス「鎌鼬の王」,"Point Boss ""Sickle Weasel King"""
+B59C67BF,1111,1111
+BDAD24C8,乗りもの,Mount
+C35401CA,報酬内容,Rewards
+C47322F5,先行解放可能,Early Unlock Available
+D9F64254,雪晶石神聖剣2行の効果<color=#3c749b>+10</color>,Snow Crystal Holy Sword 2-line effect<color=#3c749b>+10</color>
+DA08918A,素材集め,Gather Materials
+DA65EFD6,「1匹、2匹、3匹……うぅ、耳がいっぱい」,"""One, two, three... Ugh, so many ears."""
+E45EE7CE,03,03
+ED6652B3,先行解放,Early Unlock
+EED1BDC0,スキル名が長すぎます,Skill name too long
+F28A3BCD,社交好き,Sociable
+F51ACA64,討伐開始,Start Hunt
+F7C09C2D,雪晶石の聖剣2行の効果<color=#3c749b>+3</color>,Snow Crystal Holy Sword 2-line effect<color=#3c749b>+3</color>
+FF1ACA58,キャバード大集合,Cabbird Gathering
+12F1D7EF,終了,End
+13333600,マーカー編集,Edit Marker
+15A46750,ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。,Umi flows into any gap it finds. Leave an empty jar or bottle out long enough and an Umi may appear... Nothing adapts to tight spaces better than Umi.
+175111AF,ウミィの流動的な性質は、『隙あらば入り込む』とはどういうことかをよく示している。空の壺や瓶を長いあいだ放置しておくと、いつの間にかウミィが湧いている……狭い環境への適応力においてウミィの右に出る者はいない。,Umi flows into any gap it finds. Leave an empty jar or bottle out long enough and an Umi may appear... Nothing adapts to tight spaces better than Umi.
+18CF06E3,パーティーリーダー報酬：,Party Leader Rewards:
+1F00F6EB,四喜団子,Four Joy Dumplings
+476C7441,小玉の修行方針を選択してください。,Choose Xiaoyu's training focus.
+4B09F3A4,未装備,Unequipped
+74213B46,土壌効果の詳細を確認,View Soil Effects
+5B7225B8,キャラクターを選択して入居させる,Select a character to move in.
+4C761F17,~,~
+4F39A235,このキボはまだ獲得していません。,You haven't obtained this Kibo yet.
+5167F95C,現在のスコア,Current Score
+78BC9108,スタック数,Stack Count
+91054A56,飼育飼育,Raise Raise
+93A4778A,"購入後7日を超えた場合、またはメールボックスからアイテムを受け取った場合、
+また
+アイテムを使用した場合は、
+キャンセル（返金）できません。
+保護者の同意がない未成年者による決済
+（支払い）は、キャンセルすることができます。<link=http://m.nexon.com/terms/60><color=#ffae3b><u>[キャンセル規定の確認]</u></color></link>","If more than 7 days have passed since purchase, if you claimed the item from your mailbox,
+or
+if you used the item,
+you cannot cancel or get a refund.
+Payments by minors without
+a guardian's consent may be canceled. <link=http://m.nexon.com/terms/60><color=#ffae3b><u>[Cancellation Policy]</u></color></link>"
+A17B2353,過去最高,Personal Best
+A53CBD5C,千代のスタミナが回復し、いくらかの通貨を獲得した。,Chiyo recovered Stamina and earned some currency.
+A94B60BC,シングルモード,Solo Mode
+AA8104FB,指定の消耗素材,Specified Materials
+B8BACF8D,新発見,New Discovery
+E1AA8F5C,キャラクター未入手,Character Not Owned
+E8704720,降臨日,Arrival Date
+EED63254,マルチモード,Multiplayer
+FD5F3954,スタミナ,Stamina
+FE95789C,素材を補充,Replenish Materials
+FF44570A,J,J
+0122D2D0,jp六个字六个字,Six characters six characters
+01317419,jp01分30秒,01m 30s
+01523186,jp初级钓竿,Basic Fishing Rod
+01B85879,jp可能的稀有因子,Possible Rare Factors
+02B93B56,jp领取后可能获得的奖励如下，需消耗,Possible rewards listed below. Claiming costs
+032BA2F7,jp预设3,Preset 3
+048AEB42,jp属性克制伤害,Elemental Advantage DMG
+0654B015,jp/小时,/h
+07B35C4E,jp交换,Exchange
+08E1F6EE,jp狄达达试炼,Didada Trial
+099C4E2C,jp肥肥虾,Plump Shrimp
+0A57AEEA,jp技星赐,Skill Star Gift
+0CB0D328,jp<color=#76777D>(友好度达到</color><color=#FF7E6D>2550</color><color=#76777D>)</color>,<color=#76777D>(Reach </color><color=#FF7E6D>2550</color><color=#76777D> Affinity)</color>
+0E46D8D6,jp任务,Quests
+0E7C0828,jp听闻那方山谷中部，中心范围内有充沛的星脉能量，后遭受特殊攻击后，星脉破裂，再空中凝聚成型，形成水花状的巨大水晶束,"The valley center reportedly held abundant Star Vessel energy. A special attack shattered the veins, which condensed in midair into giant spray-shaped crystal clusters."
+0EAD2D1D,"jp进化后会获得属性成长,奇波技能和特性在进化后有概率改变",Evolution boosts stats and may change Kibo skills and traits.
+0FA48171,"jp菜鸡
+","Rookie
+"
+10A855AF,jp形状特别的菇类植物。在初次遇见云紫姑娘时，从野兽口中救下她，她作为感谢，将家中异常珍惜的材料赠予。,"An odd mushroom. When you first met Yunzi, you saved her from a beast. She thanked you with a prized material from her home."
+10F00641,jp好友名字,Friend Name
+1248997A,"jp加⼊了极少量的满月草作为香料调味的烤鱼满月草
+能够较好地去除肉腥味，在酥脆的烤鱼香气之外提
+供些林间湿漉漉的清香，使其整在酥脆加⼊了极少量的满月草作为香料调味的烤鱼满月草
+能够较好地去除肉腥味，在酥脆的烤鱼香气之外提
+供些林间湿漉漉的清香，使其整在酥脆","A pinch of Full Moon Grass seasons the grilled fish.
+It masks fishy odors and adds a fresh forest scent,
+making the crisp fish crunchier. A pinch of Full Moon Grass seasons the grilled fish.
+It masks fishy odors and adds a fresh forest scent,
+making the crisp fish crunchier."
+13D15315,jp装备台,Gear Stand
+1411EF75,jp吱吱大王是咕咕,King Squeak is Coo Coo
+1447616A,jp当前存放,Currently Stored
+146A0A8B,jp放弃对决,Forfeit Duel
+14AD292B,jp小鸡快跑！！,"Run, Chick!!"
+15F30E11,jp*当前商店兑换道具为星至测试期间限定，非正式版本,*Shop exchanges are for Star Arrival testing only and may change at launch.
+161EEB60,jp便携手工,Portable Crafting
+1697C07F,jp显示自己,Show Self
+199349E4,jp完成主线任务 第一章\xB7后解锁,Unlocks after Main Quest Chapter 1\xB7
+19AC677A,jp低,Low
+19C4ABB7,jp完整观看剧情更有助于了解接故事发展，是否确认跳过?,Watching the full story helps you follow the plot. Skip?
+19E81448,jp进入弗里地区后开启下一章节,Enter Fleece to unlock the next chapter.
+1A58D883,jp耕作小屋,Farming Hut
+1A690622,jp3s  后自动继续,Continues in 3s
+1A7E094B,jp--------------结束--------------,--------------End--------------
+1B02A4E8,"jp亲爱的玩家：
+您最近在XX系统中，获得了非常牛掰了不起网的佛不得了给力攒劲又难以描述的成就，我们特地给您发—个会进包的奖杯，让你可以装―装。以描述的成就，我们特地给您发—个会进包的奖杯，让你可以装―装。请最近在XX系统中，获得了非常牛掰了不起网的佛不得了给力攒劲又难以描述的成就，我们特地给您发—个会进包的奖杯，让你可以装―装。请查收会进包的奖杯，让你可以装―装。请查收会进包的奖杯，让你可以装―装。请查收
+会进包的奖杯，让你可以装―装。","Dear Player:
+You pulled off an incredible feat in the XX system. Here's a trophy for your bag to show off. A feat beyond words. Here's a trophy for your bag to show off. You pulled off an incredible feat in the XX system. Here's a trophy for your bag to show off. Please claim the bag trophy to show off. Please claim the bag trophy to show off. Please claim
+the bag trophy to show off."
+1B81B127,jp战斗知识,Combat Guide
+1B9C182B,jp10000000​,10000000​
+1BB77933,jp飞叶快刀I,Razor Leaf I
+1BC78FF0,jp请选择菜品！,Select a dish!
+1BD48949,jp无敌闪亮墨香,Invincible Shining Ink Scent
+1C0132F2,jp可解锁奇波栖息地,Unlocks a Kibo habitat
+1DE35A3B,jp快速添加,Quick Add
+1EC3A56B,jp碎石场,Quarry
+1EE0DC8C,jp全部收回,Recall All
+1EFA0182,jp食物储量已满，稍后恢复生产,Food storage full. Production will resume later.
+1F255E02,jp漫步自然,Nature Walk
+2040A28D,,
+2099860A,jp灵子预览,Anima Preview
+2197B13F,jp(每周一、三、五开启双倍up),"(Double Rate Up on Mon, Wed, and Fri)"
+2278B417,jp法外狂徒张三的家,Outlaw Zhang San's Home
+22D2FCDE,jp锻钢剑,Forged Steel Sword
+22D66E6B,,
+24299F22,jp拥有护盾时的,While shielded
+24C7C133,jp选择标记图标,Select Marker Icon
+252357E8,jp切换奇波,Switch Kibo
+269400A9,jp持有心得点,Mastery Points Owned
+26CA20B1,jp来源,Source
+270551D8,jp以风铜石打造而成的耳饰，必要时甚至能当开瓶器以风铜石打造而成的耳饰，必要时甚至能当开瓶器以风铜石打造而成的耳饰，必要时甚至能当开瓶器以风铜石打造而成的耳饰，必要时甚至....,Windcopper earrings that double as a bottle opener. Windcopper earrings that double as a bottle opener. Windcopper earrings that double as a bottle opener. Windcopper earrings that can even...
+275AF48D,jp家园中枢,Home Hub
+2764B816,jp困难模式解锁,Hard Mode Unlocked
+27DF6195,jp无语,Speechless
+29A91E99,jp锁定,Lock
+2AD54078,jp冒险者你的名字是,"Adventurer, your name is"
+2AD67442,jp新天赋解锁：,New talent unlocked:
+2C19C108,jp未装备,Not Equipped
+2F363F9B,jp下一级效果,Next Level Effect
+2FD99BE2,jp自定义设置,Custom Settings
+2FFC6714,jpNPC小姐姐,NPC Girl
+30A2A61D,jp多属性克制效果叠加,Stack Elemental Counters
+31648DA8,jp红点,Red Dot
+32BEB31E,jp输入的账号字符数量应在两个以上:,Enter an account name of at least 2 characters:
+32EAA26F,jp暴击伤害,CRIT DMG
+32EE0485,jp奖杯拥有数量 ：,Trophies Owned:
+336F1333,jp阅读完成后可关闭,Close after reading.
+3581AC81,"jp收取【元素水晶】与【元素微粒】,可以补充元素能量造成元素伤害,打倒敌人等行为都能产生元素水晶和元素微粒各元素之间存在对立性,可对对立元素角色造成双倍伤害......",Collect [Elemental Crystals] and [Elemental Particles] to restore energy and deal elemental DMG. Defeating enemies and other actions produce both. Opposing elements deal double DMG to each other...
+3620F31C,,
+391B8FA9,jp小,Small
+3937B8DF,jp当前未派驻奇波，无法远程管理,Assign a Kibo before managing remotely.
+39C24E56,jp弗里斯,Fleece
+39DFD8B8,jp属性排序,Sort by Attribute
+3AA5ABB3,jp曼德拉草 lv.1,Mandrake Lv. 1
+3B0B91B9,,
+3C44C55C,jp已入住,Moved In
+3D8195BC,jp奇波蛋列表,Kibo Egg List
+3E35D5EF,jp伊波杏树三个字,Ibo Apricot Tree (3 characters)
+3EF50F73,"jp每次检定失败后，有50%概率提升1点<quad
+size=22
+width=1/><color=#A8D8B9>洞察</color>。","Each failed check has a 50% chance to grant 1 <quad
+size=22
+width=1/><color=#A8D8B9>Insight</color>."
+3F59C7D5,jp(获取宝箱需要消耗,(Chest Claim Cost
+403C8DE5,jp已摆放的角色,Placed Characters
+408B7D26,jp你的伙伴们身份都很特别...那么明显的特征想要寻找或许不难。希望他们能得到,"Your companions are all quite unusual... With such distinctive features, they may be easy to find. I hope they receive"
+40E226B0,"jp注意！其中包括<color=#FF7E6D>高等级星结灵</color>,是否确认放生如下宠物？",Warning: Includes <color=#FF7E6D>high-level Star Link companions</color>. Release these pets?
+416FF5C8,jp搬出,Move Out
+41A11CB5,jp小/中/大,Small/Medium/Large
+447564E4,jp资料,Profile
+45FC3131,jp属性名称,Attribute Name
+4687EE5B,jp玛卡巴卡,Makka Pakka
+46BD72C0,jp进入灵魂,Enter Soul
+473C8857,jp获取帮助,Get Help
+475D7E7A,jp我的名字是,My name is
+4771F2A9,jp~孵化~,~Hatching~
+47799E52,jp森林里的小池塘,Small Forest Pond
+47FE660A,jp心枝,Heartbranch
+483C08C3,jp小体型,Small Size
+48884A0E,jp加入编队,Join Party
+48C07ABA,jp等级正序,Level: Low to High
+49B2C7B1,"jp适合优先钓鱼的水域，这里的鱼数量众多，同时具有流动性.可惜鱼群的种类
+相对单调，但没关系，为了填报肚子的话就选择这里把","A prime fishing spot with plenty of fish passing through. Little
+variety, but enough to fill your belly."
+49D1963C,jp鸡仔仔崽,Little Chicky
+4A19AAE4,jp奇波动作,Kibo Actions
+4A4265B0,jp星识等级8级解锁,Unlocks at Star Sense Lv. 8
+4A5887D5,jp采集管理,Manage Gathering
+4D2F066D,jp进行中...,In Progress...
+4E0B991E,jp火花雀,Spark Finch
+4ED303F3,jp需习得所有前置心得,Learn all prerequisite Mastery skills.
+4F4B03BA,jp可建,Buildable
+509AE596,jp当前03:10,Current: 03:10
+50E4052C,jp已接取任务：,Quests Accepted:
+50E600C9,jp重拍,Retake
+51E5B31A,jp物品名很长...,Long Item Name...
+54E68CDD,jp击败！,Defeated!
+55242192,jp南方山谷-探索完成,Southern Valley: Exploration Complete
+5536A59F,jp当前无模板，可以点击“创建模板”来添加,"No templates. Select ""Create Template"" to add one."
+5565E543,jp星赐,Star Gift
+55A9A93F,jp生命+ 360,HP + 360
+55D4790C,jp数字,Number
+55E7D4A6,jp韭菜盒子,Chive Pockets
+562376D3,jp已使用贴纸,Sticker applied
+5690440E,jp初级锯木台\xB7Ⅳ,Basic Sawbench IV
+578B12E7,jp伐木场,Lumberyard
+59E66C9F,jp请选择生产的数量！,Select the quantity to produce!
+5AA5D0DF,jp薄荷果冻,Mint Jelly
+5ADE95A2,jp请查收你的小宝贝,Claim your little darling.
+5B20412D,jp【灵子技能】若若\xB7树下的美梦,[Anima Skill] Ruoruo: Sweet Dreams Under the Tree
+5C6D963D,jp天赋等级提升,Talent level increased
+5EB6CE85,jp别担心，本小姐会和你一起解决它们！,Don't worry. I'll help you take care of them!
+5F0E923D,jp心枝已满,Heartbranch is full.
+5F2D6868,jp家园【生产建筑】达到3级,Reach Lv. 3 with a home [Production Building]
+5FB17797,jp与通用,and General
+5FDDB1B9,"jp将从南方山谷处取回的 【火辣红果x5】
+将从南方山谷处取回的
+【火辣红果x5】","Bring [5 Spicy Red Fruits] back from Southern Valley
+Bring back from Southern Valley
+[5 Spicy Red Fruits]"
+6092EB3B,jp钻山蜥,Mountain-Burrowing Lizard
+60FBB42B,jp已将镜头转移至正确位置,Camera moved into position.
+615A46AF,jpSTOP,jp STOP
+61DCB632,jp包九个字哦,Pack (Nine Characters)
+62CE0D9B,jp元气葩噜噜噜,Peppy Palululu
+63D2EB28,jp需解锁种植「蔬菜学」心得可播种,"Learn ""Vegetable Science"" in Farming Mastery to sow these seeds."
+6565D6FF,jp继续孵化,Continue Hatching
+674950BB,jp符文名称,Rune Name
+681E9092,jp2小时30分,2h 30m
+6868660C,jp无因子,No Factors
+69221112,jp此处暂时无用,Unused for Now
+69AE9DFF,jp第五章挑战成功,Chapter 5 Challenge Cleared
+6ABEBEC3,jp臻品小麦库存,Choice Wheat Stock
+6CFFF3E4,jp料理背包,Food Bag
+6E79A10E,jp无敌奇迹闪闪 一身正气余生,"Invincible Miracle Sparkle, a Life of Righteousness"
+6F03BE2C,jp红色浆果追踪中..,Tracking Red Berry...
+703475D1,jp稍后再看,View Later
+70F0F331,jp星脉节点,Star Vessel Node
+7173FF34,jp普通模式,Normal Mode
+71C1F4CD,jp伊波杏树,Ibo Apricot Tree
+73308513,jp伐木效率大师Ⅱ：锯木台加工一个物品的时间减少20%锯木台加工一个物品的时间减少20%,Lumber Efficiency Master II: Sawbench processing time per item -20%. Sawbench processing time per item -20%.
+73886D34,jp暂无黑名单,Blocklist is empty.
+73E39262,jp背包内种子,Seeds in Bag
+7505818A,jp乌咪的流动性充分证明了什么叫无孔不入；而空的坛坛罐罐放久了，似乎也会莫名其妙长出乌咪来…论对狭小环境的适应，乌咪已经登峰造极了。论对狭小环境的适应，乌咪已经登峰造极了。论对狭小环境的适应，乌咪已经登峰造极了。论对狭小环境的适应，乌咪已经登峰造极了。,Umi flows into any gap. Leave empty jars out and an Umi may appear... No one fits into tight spaces like Umi. No one fits into tight spaces like Umi. No one fits into tight spaces like Umi. No one fits into tight spaces like Umi.
+77E00F62,"jp可以派驻在       种植区-浇水
+啊啊啊111111111111111111111111111111111111111111111111111111111111111111111111","Can be assigned to Grow Area: Watering
+Ahhh 111111111111111111111111111111111111111111111111111111111111111111111111"
+791DE564,"jp特定SSR`SR角色限时召唤
+概率提升","Limited-time pulls for select SSR/SR characters
+Rate Up"
+799C23A5,jp经验果,EXP Fruit
+79C5BCC1,jp村,Village
+7A6EBDCC,jp语音资源管理,Manage Voice Data
+7A870241,jp饰品,Accessories
+7BBE1B07,jp星脉树世界,Star Vessel Tree World
+7BEF7725,jp通关,Clear
+7C271C38,jp查看奖励,View Rewards
+7C5B8827,jp【苍鹰图鉴】已被啥拉拉穿戴，是否替换？,[Gray Hawk Index] is equipped by Shalala. Swap it?
+7C6469E1,jp家园科技,Home Tech
+7CCA69F6,jp完美生长需要水量,Water to Full Growth
+7D225AD6,jp阵容一,Party 1
+7D32BB78,jp未选中,Not Selected
+7D5FA506,jp当 前 暂 无 进 行 中 的 会 话,No active chats.
+7DAF775D,jp属性克制笔记,Elemental Counter Notes
+7DC05AC5,jp感谢您的游玩,Thanks for playing.
+7EADAEFA,"jp玩家名字
+","Player Name
+"
+7F48CAEC,jp活动可使用试用奇波,Trial Kibo can be used in this event.
+8050D721,jp点亮科技“3号建筑区域”解锁,"Unlock the ""Building Area 3"" tech."
+805812A0,jp 啥也没有 ,Nothing here
+8084859C,jp星沙刻痕,Star Sand Engraving
+80A3706D,jp张三和李四丙五,"Zhang San, Li Si, and Bing Wu"
+823EA45C,jp地图,Map
+82D9312C,jp天赋名字,Talent Name
+84E90A64,jp当当当当当当当当当当当当当当当,Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding
+84FF6076,jp一键填满,Fill All
+852EA449,jp    输入UID搜索玩家,Enter a UID to find a player.
+87D0301C,jp可生产数量 <color=#FF7e6d>0</color>,Craftable: <color=#FF7e6d>0</color>
+87DEB625,jp喷火,Breathe Fire
+87F62D94,jp协同,Coordination
+880189CD,jp停止生产,Stop Production
+88E6CDBD,"jp你的伙伴们身份都很特别...那么明显的特征想要寻找或许不难。希望他们能得到
+百酒【组赞卡】的庇护，安然无恙
+你的伙伴们身份都很特别...那么明显的特征想要寻找或许不难。","Your companions stand out. With such distinctive features, they may be easy to find. May
+Hundred Wines [Sozanka] keep them safe.
+Your companions stand out. With such distinctive features, they may be easy to find."
+8A429BB8,jp（大聪明）,(Big Brain)
+8B0C4F98,jp单人宿舍,Single Dorm
+8B1861B8,jp当前效果,Current Effect
+8C626C36,jp周活跃度,Weekly Activity
+8CFEEB9F,jp完成编辑,Done Editing
+8DFF4B83,jp复生甘露,Revival Nectar
+8E6567CA,jp分类文本,Category Text
+8F50E484,jp选择盒子,Select Box
+910211F8,jp普通大豆种子,Common Soybean Seeds
+91BD3195,jp晚上好！欢迎来到帕米邮局！,Good evening! Welcome to the Pammy Post Office!
+945A47C4,"jp可能获得（获得宝箱需要消耗
+)","Possible rewards (Chest costs:
+)"
+949934D9,jp超大,XL
+95064ACD,jp周常活跃,Weekly Activity
+953FA20E,jp又热又干燥,Hot and dry
+958736B0,jp食材选择,Select Ingredients
+96107DF2,jp下载资源中,Downloading resources
+968DEEFA,jp没有可派驻的奇波,No Kibo to assign
+96E582C5,jp水残响,Water Echo
+9A6F839F,jp姬瑟贝露,Cathbelle
+9B890732,jp已进入【非洲】,Entered [Africa]
+9CCF6202,jp说明标题,Description Title
+9E52F750,"jp添加好友
+","Add Friend
+"
+A138E32E,jp作者/发行机构：村长,Author/Publisher: Village Chief
+A154A77E,jp设备负载,Device Load
+A5A60458,jp找找乌咪藏在哪?,Where is Umi hiding?
+A7B14D13,jp自定义拍摄,Custom Photography
+A7C802CE,jp天地万象,All Creation
+AA126DDD,jp神话,Mythology
+AC12CDE8,"jp翻到星之手册\xB7其三,你已经逐渐习惯在这片大陆的生活这片大陆还有许多新鲜事等待探索
+但这片大陆还有许多新鲜事等待探索者去发现去发现和体会。","As you read Star Handbook\xB7Part 3, you're getting used to life here. There's much more to explore.
+Adventurers still have much to discover and experience on this continent."
+ACAC2545,jp需求：<color=#ff848a>0</color>/2,Required: <color=#ff848a>0</color>/2
+ADEB3981,jp星赐\xB7菜鸡力,Star Gift\xB7Rookie Power
+AE41DF8B,jp锯木效率大师\xB7I,Lumber Efficiency Master\xB7I
+AE673B47,jp水宝宝 ,Water Baby 
+AE6C0BCB,jp副本名称\xB7其三,Dungeon Name\xB7Part 3
+AF366D56,jp孵化台,Hatching Station
+AF394C04,jp游戏图标,Game Icon
+AF7F89C0,jp初始Ⅱ,Starting II
+B22D9262,jp请选中装备配方,Select a gear recipe.
+B2E68CA4,jp星临图志,Starborn Compendium
+B304DF95,jpNO.13,NO.13
+B370CE69,jp属性被克伤害,Elemental Disadvantage DMG
+B393583E,jp伐木小屋,Logging Hut
+B3BFEDC9,,
+B3EA7186,jp1280*720(窗口),1280*720 (Windowed)
+B6112DB6,jp出发,Depart
+B85270CD,jp播放,Play
+B899DA91,jp该料理不可放入坐骑食物槽,This dish can't go in a mount food slot.
+B9B9A5F5,jp退出关卡,Exit Stage
+BA2AE40B,jp河谷间隙之下,Beneath the Valley Pass
+BA5ACFE7,jp星至测试,Star Arrival Test
+BA701E43,jp初始Ⅰ,Starting I
+BAF0C7B1,jp左眼颜色,Left Eye Color
+BC32FA49,jp退出星结,Leave Star Link
+BDC5C75A,jp制作！薄荷果冻,Make Mint Jelly!
+BE1DBD59,jp书籍详情,Book Details
+BEC43EEE,jp解锁等级10,Unlocks at Lv. 10
+C2850A36,jp帕米最害怕的生物排行前19位，有这显著的三角锥前肢令大多数智慧种族感到害怕,Among the 19 creatures Pammies fear most. Its triangular forelegs frighten most sentient races.
+C360E994,jp排序,Sort
+C5E323E5,jp喂食奇波,Feed Kibo
+C5F3AE50,jp固定特性,Fixed Traits
+C632B276,"jp游戏著作权人:上海积咪网络科技有限公司运营单位:上海积咪网纱各科技有限公司出版服务单位:上海科学技术文献出版社有限公司
+审批文号:国新出审(2023)1787号著作权登记号:2023SR0534580出版物号:ISBN978-7-498-12746-4
+备案号:文网游备字【2023】M-RPG8051号
+","Copyright holder: Shanghai Jimi Network Technology Co., Ltd. Operator: Shanghai Jimi Wangshage Technology Co., Ltd. Publisher: Shanghai Scientific and Technical Literature Press Co., Ltd.
+Approval: Guo Xin Chu Shen (2023) No. 1787. Copyright registration: 2023SR0534580. ISBN 978-7-498-12746-4.
+Filing: Wen Wang You Bei Zi [2023] M-RPG8051.
+"
+C67146E1,jp终将归于星海字,All Return to the Sea of Stars Text
+C869F700,jp属性果,Stat Fruit
+C8CE4B36,jp重命名,Rename
+C9601441,jp坐骑食物槽,Mount Food Slot
+CB4C869F,jp道具名字9个字,9-character item name
+CB685473,jp至少上阵8只奇波才可进行对决,Deploy at least 8 Kibo to duel.
+CBA60772,jp~料理台的派驻~,~Assign to Cooking Station~
+CE8FFE59,jp点击添加会话对象与好友聊天,Add a contact to chat with friends.
+CEE82D22,jp我的模板(0/20),My Templates (0/20)
+D064E3AB,jp南方山谷探索-美景打卡,Southern Valley Exploration: Scenic Spots
+D2350F7B,jp发现乌咪了！,Found Umi!
+D4BCBEC5,jp技能急速,Skill Haste
+D595463B,jp食物,Food
+D966B86F,jp无敌霹雳火,Invincible Thunderfire
+D9E3554A,"jp使用后，立即为我方指定单体恢复等同于自身生命上限30%的生命值,额外回复300点生命值",Instantly heal one selected ally for 30% of your Max HP plus 300 HP.
+DCC3C8C8,"jp可继承携带者【娜娜米】全属性
+10%","Inherits all stats from the wearer [Nanami] at
+10%"
+DDDE09AA,jp南方山谷\xB7几把,Southern Valley\xB7A Few
+DE7DFBC2,jp种植,Plant
+DFBC0551,jp锯木效率大师\xB7II,Lumber Efficiency Master\xB7II
+E2273E96,jp元素祭坛还未建造,Elemental Altar not built.
+E2D3E211,jp配方列表,Recipe List
+E2E99791,"jp放生
+","Release
+"
+E302F6CD,jp法杖,Staff
+E3D9E05A,jp图鉴任务,Compendium Quests
+E4519D42,jp初级饵料,Basic Bait
+E464236A,jp动作名称,Action Name
+E5739F0A,jp添加会话对象,Add Chat Contact
+E5EE73B2,"jp追踪
+","Track 
+"
+E6787FC1,jp普通小麦,Common Wheat
+E6AA2A22,jp星临名笺,Starborn Namecard
+E6FDDAE2,jp基础图像,Base Image
+E7F8CBD8,jptab,tab
+EA8DF8F2,jp奇波表情,Kibo Expressions
+EB600370,jp需要获取以解锁图鉴,Obtain to unlock the entry.
+EB607ACB,jp本阵被击破,Your base was destroyed.
+ECD33991,jp暂无好友申请,No friend requests yet.
+EE95CF0D,jp打开道具页面,Open Item Page
+EECD7A99,jp建筑仓库,Building Storage
+EEF90DF3,jp 对决安塔,Duel Anta
+F0AB77FC,jp星识等级12级解锁,Unlocks at Star Sense Lv. 12
+F13AEFA0,jp一般的肉丸子 x 1,Ordinary Meatball x 1
+F29F604E,jp民宅,House
+F3B582B2,jp巨刺凶鸟,Giant Thornbird
+F43103CD,,
+F4C701D9,jp装 备,Equip
+F55F8880,jp没有任何道具哦,No items here
+F6195F00,jp忒拉拉的委托,Terara's Request
+F6545441,jp星际大厨,Interstellar Chef
+F821A75D,jp请输入账号,Enter your account.
+F97304A7,jp卷一,Volume I
+F973B7FF,jp秘奥,Secret Art
+FAD7C8A2,jp选中,Selected
+FD2AA3A3,jp在自身周围激发落雷，造成范围雷元素伤害。而后进入一定时间的【雷爆】状态，该状态下自身暴击率+5%,"Call lightning around you to deal AoE Lightning DMG. Enter [Thunderburst] briefly, gaining +5% CRIT Rate."
+FD976BC8,jp人文,Culture
+FDB58181,jp点击开始检测,Click to start check
+FE3AEBA1,jp菜鸡互啄队,Rookie Pecking Team
+FE5BD9C2,jp灯光颜色,Light Color
